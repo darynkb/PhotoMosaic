@@ -1,14 +1,14 @@
 Dataset: https://www.kaggle.com/datasets/yamaerenay/100-images-of-top-50-car-brands
 
 Installation:
-    $python3 -m pip install --upgrade pip
-    $python3 -m pip install Pillow
-    $python3 -m pip install opencv-python
-    $python3 -m pip install numpy
+$python3 -m pip install --upgrade pip
+$python3 -m pip install Pillow
+$python3 -m pip install opencv-python
+$python3 -m pip install numpy
 
 
 Run:
-    $pipenv run python mosaic.py
+$pipenv run python mosaic.py
 
 
 Description:
@@ -28,7 +28,7 @@ Description:
 
 
 Folders:
-    tmp folder is used to store the cropped images for circle mosaic and cache.json file of directories of input images with average colors.
-    output folder stores all the output images both circular and rectangular mosaics.
-    dataset folder is sorted by car brands in subfolders.
+tmp folder is used to store the cropped images for circle mosaic and cache.json file of directories of input images with average colors.
+output folder stores all the output images both circular and rectangular mosaics.
+dataset folder is sorted by car brands in subfolders.
     
