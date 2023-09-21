@@ -1,3 +1,5 @@
+![Alt text](outputs/rectangle/rect_output3.jpg)
+
 Dataset: https://www.kaggle.com/datasets/yamaerenay/100-images-of-top-50-car-brands
 
 Installation:
