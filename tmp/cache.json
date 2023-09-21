@@ -1,0 +1,5903 @@
+{
+  "(0, 0, 0)": [
+    "dataset/Acura/Acura_059.jpg"
+  ],
+  "(10, 30, 40)": [
+    "dataset/Genesis/Genesis_098.jpg"
+  ],
+  "(100, 100, 100)": [
+    "dataset/Volkswagen/Volkswagen_008.jpg",
+    "dataset/Volkswagen/Volkswagen_026.jpg",
+    "dataset/Studebaker/Studebaker_030.jpg",
+    "dataset/Bugatti/Bugatti_041.jpg",
+    "dataset/Bugatti/Bugatti_062.jpg",
+    "dataset/Mitsubishi/Mitsubishi_034.jpg",
+    "dataset/Mitsubishi/Mitsubishi_061.jpg",
+    "dataset/Renault/Renault_002.jpg",
+    "dataset/GMC/GMC_039.jpg",
+    "dataset/GMC/GMC_007.jpg",
+    "dataset/GMC/GMC_069.jpg",
+    "dataset/Hudson/Hudson_021.jpg",
+    "dataset/Ford/Ford_083.jpg",
+    "dataset/Ford/Ford_009.jpg",
+    "dataset/Lincoln/Lincoln_071.jpg",
+    "dataset/Lincoln/Lincoln_045.jpg",
+    "dataset/Pontiac/Pontiac_067.jpg",
+    "dataset/Pontiac/Pontiac_024.jpg",
+    "dataset/Pontiac/Pontiac_081.jpg",
+    "dataset/Daewoo/Daewoo_006.jpg",
+    "dataset/Daewoo/Daewoo_018.jpg",
+    "dataset/Daewoo/Daewoo_086.jpg",
+    "dataset/Daewoo/Daewoo_046.jpg",
+    "dataset/Jeep/Jeep_059.jpg",
+    "dataset/Mazda/Mazda_056.jpg",
+    "dataset/Mazda/Mazda_040.jpg",
+    "dataset/MG/MG_064.jpg",
+    "dataset/Bentley/Bentley_084.jpg",
+    "dataset/Bentley/Bentley_090.jpg",
+    "dataset/Bentley/Bentley_018.jpg",
+    "dataset/Bentley/Bentley_003.jpg",
+    "dataset/Buick/Buick_003.jpg",
+    "dataset/Buick/Buick_013.jpg",
+    "dataset/Buick/Buick_027.jpg",
+    "dataset/Land Rover/Land Rover_044.jpg",
+    "dataset/Land Rover/Land Rover_069.jpg",
+    "dataset/Land Rover/Land Rover_028.jpg",
+    "dataset/Land Rover/Land Rover_066.jpg",
+    "dataset/Land Rover/Land Rover_076.jpg",
+    "dataset/Saab/Saab_077.jpg",
+    "dataset/Saab/Saab_028.jpg",
+    "dataset/Tesla/Tesla_053.jpg",
+    "dataset/Tesla/Tesla_006.jpg",
+    "dataset/Hyundai/Hyundai_075.jpg",
+    "dataset/Kia/Kia_055.jpg",
+    "dataset/Kia/Kia_018.jpg",
+    "dataset/Kia/Kia_037.jpg",
+    "dataset/Kia/Kia_012.jpg",
+    "dataset/Kia/Kia_060.jpg",
+    "dataset/Chevrolet/Chevrolet_026.jpg",
+    "dataset/Infiniti/Infiniti_056.jpg",
+    "dataset/Infiniti/Infiniti_026.jpg",
+    "dataset/Toyota/Toyota_004.jpg",
+    "dataset/Toyota/Toyota_072.jpg",
+    "dataset/Toyota/Toyota_027.jpg",
+    "dataset/Cadillac/Cadillac_010.jpg",
+    "dataset/Nissan/Nissan_034.jpg",
+    "dataset/Dodge/Dodge_016.jpg",
+    "dataset/Acura/Acura_007.jpg",
+    "dataset/Acura/Acura_078.jpg",
+    "dataset/Lexus/Lexus_080.jpg",
+    "dataset/Audi/Audi_008.jpg",
+    "dataset/Audi/Audi_034.jpg",
+    "dataset/Volvo/Volvo_035.jpg",
+    "dataset/Peugeot/Peugeot_064.jpg",
+    "dataset/Peugeot/Peugeot_012.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_019.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_040.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_047.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_048.jpg",
+    "dataset/Aston Martin/Aston Martin_050.jpg",
+    "dataset/Aston Martin/Aston Martin_019.jpg",
+    "dataset/Chrysler/Chrysler_026.jpg",
+    "dataset/Chrysler/Chrysler_042.jpg",
+    "dataset/Chrysler/Chrysler_058.jpg",
+    "dataset/Chrysler/Chrysler_067.jpg",
+    "dataset/Chrysler/Chrysler_014.jpg",
+    "dataset/Maserati/Maserati_040.jpg",
+    "dataset/Maserati/Maserati_009.jpg",
+    "dataset/Jaguar/Jaguar_071.jpg",
+    "dataset/BMW/BMW_042.jpg",
+    "dataset/BMW/BMW_023.jpg",
+    "dataset/Fiat/Fiat_060.jpg",
+    "dataset/Ram Trucks/Ram Trucks_044.jpg",
+    "dataset/Ram Trucks/Ram Trucks_043.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_051.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_069.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_016.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_071.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_077.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_074.jpg",
+    "dataset/Citroen/Citroen_029.jpg",
+    "dataset/Citroen/Citroen_026.jpg",
+    "dataset/Citroen/Citroen_068.jpg",
+    "dataset/Citroen/Citroen_056.jpg",
+    "dataset/Honda/Honda_025.jpg",
+    "dataset/Honda/Honda_044.jpg",
+    "dataset/Honda/Honda_057.jpg",
+    "dataset/Genesis/Genesis_015.jpg",
+    "dataset/Genesis/Genesis_044.jpg",
+    "dataset/Suzuki/Suzuki_012.jpg"
+  ],
+  "(100, 100, 110)": [
+    "dataset/Porsche/Porsche_017.jpg",
+    "dataset/Porsche/Porsche_025.jpg",
+    "dataset/Renault/Renault_035.jpg",
+    "dataset/GMC/GMC_066.jpg",
+    "dataset/Hudson/Hudson_095.jpg",
+    "dataset/Hudson/Hudson_039.jpg",
+    "dataset/Ferrari/Ferrari_024.jpg",
+    "dataset/Ford/Ford_076.jpg",
+    "dataset/Lincoln/Lincoln_053.jpg",
+    "dataset/Pontiac/Pontiac_042.jpg",
+    "dataset/Mini/Mini_049.jpg",
+    "dataset/Jeep/Jeep_001.jpg",
+    "dataset/MG/MG_063.jpg",
+    "dataset/MG/MG_028.jpg",
+    "dataset/Kia/Kia_035.jpg",
+    "dataset/Kia/Kia_016.jpg",
+    "dataset/Toyota/Toyota_060.jpg",
+    "dataset/Toyota/Toyota_044.jpg",
+    "dataset/Dodge/Dodge_083.jpg",
+    "dataset/Acura/Acura_005.jpg",
+    "dataset/Lexus/Lexus_021.jpg",
+    "dataset/Audi/Audi_085.jpg",
+    "dataset/Audi/Audi_042.jpg",
+    "dataset/Audi/Audi_026.jpg",
+    "dataset/Audi/Audi_001.jpg",
+    "dataset/Peugeot/Peugeot_032.jpg",
+    "dataset/Subaru/Subaru_053.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_039.jpg",
+    "dataset/Aston Martin/Aston Martin_038.jpg",
+    "dataset/Aston Martin/Aston Martin_028.jpg",
+    "dataset/Aston Martin/Aston Martin_070.jpg",
+    "dataset/Oldsmobile/Oldsmobile_050.jpg",
+    "dataset/Oldsmobile/Oldsmobile_087.jpg",
+    "dataset/Maserati/Maserati_034.jpg",
+    "dataset/Jaguar/Jaguar_066.jpg",
+    "dataset/BMW/BMW_059.jpg",
+    "dataset/Fiat/Fiat_017.jpg",
+    "dataset/Ram Trucks/Ram Trucks_000.jpg",
+    "dataset/Ram Trucks/Ram Trucks_063.jpg",
+    "dataset/Ram Trucks/Ram Trucks_054.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_014.jpg",
+    "dataset/Honda/Honda_017.jpg",
+    "dataset/Genesis/Genesis_061.jpg"
+  ],
+  "(100, 100, 120)": [
+    "dataset/Ford/Ford_012.jpg",
+    "dataset/Ford/Ford_027.jpg",
+    "dataset/Pontiac/Pontiac_000.jpg",
+    "dataset/Mazda/Mazda_033.jpg",
+    "dataset/Buick/Buick_001.jpg",
+    "dataset/Tesla/Tesla_076.jpg",
+    "dataset/Kia/Kia_040.jpg",
+    "dataset/Kia/Kia_081.jpg",
+    "dataset/Cadillac/Cadillac_084.jpg",
+    "dataset/Acura/Acura_071.jpg",
+    "dataset/Acura/Acura_054.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_084.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_070.jpg",
+    "dataset/Oldsmobile/Oldsmobile_007.jpg",
+    "dataset/Genesis/Genesis_040.jpg"
+  ],
+  "(100, 100, 130)": [
+    "dataset/Daewoo/Daewoo_075.jpg",
+    "dataset/Saab/Saab_046.jpg",
+    "dataset/Chevrolet/Chevrolet_033.jpg",
+    "dataset/Nissan/Nissan_048.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_075.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_028.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_006.jpg",
+    "dataset/Aston Martin/Aston Martin_057.jpg"
+  ],
+  "(100, 100, 140)": [
+    "dataset/Dodge/Dodge_050.jpg",
+    "dataset/Aston Martin/Aston Martin_064.jpg",
+    "dataset/Oldsmobile/Oldsmobile_078.jpg",
+    "dataset/Citroen/Citroen_048.jpg",
+    "dataset/Genesis/Genesis_085.jpg"
+  ],
+  "(100, 100, 80)": [
+    "dataset/Volkswagen/Volkswagen_006.jpg",
+    "dataset/Bentley/Bentley_032.jpg"
+  ],
+  "(100, 100, 90)": [
+    "dataset/Porsche/Porsche_038.jpg",
+    "dataset/Studebaker/Studebaker_049.jpg",
+    "dataset/Mitsubishi/Mitsubishi_018.jpg",
+    "dataset/Renault/Renault_022.jpg",
+    "dataset/Renault/Renault_008.jpg",
+    "dataset/Daewoo/Daewoo_089.jpg",
+    "dataset/Daewoo/Daewoo_074.jpg",
+    "dataset/Daewoo/Daewoo_029.jpg",
+    "dataset/Daewoo/Daewoo_094.jpg",
+    "dataset/Mini/Mini_000.jpg",
+    "dataset/MG/MG_092.jpg",
+    "dataset/Bentley/Bentley_014.jpg",
+    "dataset/Saab/Saab_078.jpg",
+    "dataset/Saab/Saab_029.jpg",
+    "dataset/Hyundai/Hyundai_034.jpg",
+    "dataset/Hyundai/Hyundai_066.jpg",
+    "dataset/Hyundai/Hyundai_067.jpg",
+    "dataset/Hyundai/Hyundai_004.jpg",
+    "dataset/Chevrolet/Chevrolet_023.jpg",
+    "dataset/Chevrolet/Chevrolet_042.jpg",
+    "dataset/Cadillac/Cadillac_043.jpg",
+    "dataset/Nissan/Nissan_063.jpg",
+    "dataset/Dodge/Dodge_071.jpg",
+    "dataset/Lexus/Lexus_069.jpg",
+    "dataset/Lexus/Lexus_036.jpg",
+    "dataset/Audi/Audi_044.jpg",
+    "dataset/Audi/Audi_080.jpg",
+    "dataset/Audi/Audi_048.jpg",
+    "dataset/Peugeot/Peugeot_039.jpg",
+    "dataset/Peugeot/Peugeot_079.jpg",
+    "dataset/Peugeot/Peugeot_052.jpg",
+    "dataset/Peugeot/Peugeot_056.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_022.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_077.jpg",
+    "dataset/Oldsmobile/Oldsmobile_017.jpg",
+    "dataset/Jaguar/Jaguar_080.jpg",
+    "dataset/Jaguar/Jaguar_070.jpg",
+    "dataset/Fiat/Fiat_040.jpg",
+    "dataset/Ram Trucks/Ram Trucks_051.jpg",
+    "dataset/Suzuki/Suzuki_067.jpg"
+  ],
+  "(100, 110, 100)": [
+    "dataset/Volkswagen/Volkswagen_015.jpg",
+    "dataset/Studebaker/Studebaker_012.jpg",
+    "dataset/Studebaker/Studebaker_059.jpg",
+    "dataset/GMC/GMC_062.jpg",
+    "dataset/MG/MG_013.jpg",
+    "dataset/Bentley/Bentley_036.jpg",
+    "dataset/Buick/Buick_035.jpg",
+    "dataset/Saab/Saab_079.jpg",
+    "dataset/Saab/Saab_063.jpg",
+    "dataset/Chevrolet/Chevrolet_001.jpg",
+    "dataset/Peugeot/Peugeot_045.jpg",
+    "dataset/Oldsmobile/Oldsmobile_018.jpg",
+    "dataset/Chrysler/Chrysler_059.jpg",
+    "dataset/Jaguar/Jaguar_082.jpg",
+    "dataset/Ram Trucks/Ram Trucks_080.jpg",
+    "dataset/Citroen/Citroen_021.jpg"
+  ],
+  "(100, 110, 110)": [
+    "dataset/Volkswagen/Volkswagen_046.jpg",
+    "dataset/Studebaker/Studebaker_061.jpg",
+    "dataset/Studebaker/Studebaker_068.jpg",
+    "dataset/Studebaker/Studebaker_095.jpg",
+    "dataset/Studebaker/Studebaker_086.jpg",
+    "dataset/Bugatti/Bugatti_054.jpg",
+    "dataset/Mitsubishi/Mitsubishi_053.jpg",
+    "dataset/GMC/GMC_020.jpg",
+    "dataset/GMC/GMC_018.jpg",
+    "dataset/Hudson/Hudson_092.jpg",
+    "dataset/Ferrari/Ferrari_006.jpg",
+    "dataset/Ferrari/Ferrari_081.jpg",
+    "dataset/Ford/Ford_004.jpg",
+    "dataset/Lincoln/Lincoln_069.jpg",
+    "dataset/Lincoln/Lincoln_021.jpg",
+    "dataset/Pontiac/Pontiac_052.jpg",
+    "dataset/Daewoo/Daewoo_072.jpg",
+    "dataset/Daewoo/Daewoo_023.jpg",
+    "dataset/Mini/Mini_043.jpg",
+    "dataset/Mini/Mini_025.jpg",
+    "dataset/Mini/Mini_017.jpg",
+    "dataset/Mini/Mini_066.jpg",
+    "dataset/MG/MG_015.jpg",
+    "dataset/Buick/Buick_008.jpg",
+    "dataset/Buick/Buick_031.jpg",
+    "dataset/Saab/Saab_054.jpg",
+    "dataset/Saab/Saab_075.jpg",
+    "dataset/Hyundai/Hyundai_085.jpg",
+    "dataset/Kia/Kia_026.jpg",
+    "dataset/Kia/Kia_010.jpg",
+    "dataset/Infiniti/Infiniti_048.jpg",
+    "dataset/Toyota/Toyota_031.jpg",
+    "dataset/Cadillac/Cadillac_039.jpg",
+    "dataset/Cadillac/Cadillac_002.jpg",
+    "dataset/Dodge/Dodge_040.jpg",
+    "dataset/Acura/Acura_077.jpg",
+    "dataset/Acura/Acura_037.jpg",
+    "dataset/Lexus/Lexus_032.jpg",
+    "dataset/Audi/Audi_041.jpg",
+    "dataset/Volvo/Volvo_074.jpg",
+    "dataset/Volvo/Volvo_072.jpg",
+    "dataset/Volvo/Volvo_020.jpg",
+    "dataset/Subaru/Subaru_007.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_025.jpg",
+    "dataset/Aston Martin/Aston Martin_041.jpg",
+    "dataset/Aston Martin/Aston Martin_018.jpg",
+    "dataset/Aston Martin/Aston Martin_024.jpg",
+    "dataset/Aston Martin/Aston Martin_059.jpg",
+    "dataset/Oldsmobile/Oldsmobile_022.jpg",
+    "dataset/Oldsmobile/Oldsmobile_028.jpg",
+    "dataset/Maserati/Maserati_030.jpg",
+    "dataset/Jaguar/Jaguar_020.jpg",
+    "dataset/Jaguar/Jaguar_026.jpg",
+    "dataset/Jaguar/Jaguar_012.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_087.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_063.jpg",
+    "dataset/Citroen/Citroen_032.jpg",
+    "dataset/Honda/Honda_036.jpg",
+    "dataset/Honda/Honda_070.jpg",
+    "dataset/Honda/Honda_039.jpg",
+    "dataset/Genesis/Genesis_055.jpg",
+    "dataset/Suzuki/Suzuki_031.jpg"
+  ],
+  "(100, 110, 120)": [
+    "dataset/Studebaker/Studebaker_070.jpg",
+    "dataset/Mitsubishi/Mitsubishi_062.jpg",
+    "dataset/Renault/Renault_051.jpg",
+    "dataset/Hudson/Hudson_029.jpg",
+    "dataset/Mini/Mini_009.jpg",
+    "dataset/Mini/Mini_021.jpg",
+    "dataset/Mini/Mini_012.jpg",
+    "dataset/Jeep/Jeep_064.jpg",
+    "dataset/Jeep/Jeep_043.jpg",
+    "dataset/Mazda/Mazda_059.jpg",
+    "dataset/MG/MG_107.jpg",
+    "dataset/Bentley/Bentley_026.jpg",
+    "dataset/Kia/Kia_020.jpg",
+    "dataset/Chevrolet/Chevrolet_000.jpg",
+    "dataset/Dodge/Dodge_014.jpg",
+    "dataset/Acura/Acura_082.jpg",
+    "dataset/Peugeot/Peugeot_013.jpg",
+    "dataset/Subaru/Subaru_040.jpg",
+    "dataset/Subaru/Subaru_067.jpg",
+    "dataset/Maserati/Maserati_055.jpg",
+    "dataset/Jaguar/Jaguar_013.jpg",
+    "dataset/BMW/BMW_078.jpg",
+    "dataset/Ram Trucks/Ram Trucks_075.jpg",
+    "dataset/Ram Trucks/Ram Trucks_086.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_042.jpg",
+    "dataset/Citroen/Citroen_061.jpg",
+    "dataset/Genesis/Genesis_016.jpg"
+  ],
+  "(100, 110, 130)": [
+    "dataset/Daewoo/Daewoo_025.jpg",
+    "dataset/Mazda/Mazda_001.jpg",
+    "dataset/Mazda/Mazda_034.jpg",
+    "dataset/Buick/Buick_041.jpg",
+    "dataset/Tesla/Tesla_052.jpg",
+    "dataset/Chevrolet/Chevrolet_054.jpg",
+    "dataset/Infiniti/Infiniti_038.jpg",
+    "dataset/Jaguar/Jaguar_078.jpg",
+    "dataset/Ram Trucks/Ram Trucks_076.jpg",
+    "dataset/Citroen/Citroen_031.jpg",
+    "dataset/Honda/Honda_004.jpg"
+  ],
+  "(100, 110, 140)": [
+    "dataset/Studebaker/Studebaker_000.jpg",
+    "dataset/Renault/Renault_012.jpg",
+    "dataset/Ferrari/Ferrari_033.jpg",
+    "dataset/Ferrari/Ferrari_079.jpg",
+    "dataset/Lincoln/Lincoln_048.jpg",
+    "dataset/Tesla/Tesla_009.jpg",
+    "dataset/Aston Martin/Aston Martin_055.jpg",
+    "dataset/Aston Martin/Aston Martin_037.jpg"
+  ],
+  "(100, 110, 150)": [
+    "dataset/Mitsubishi/Mitsubishi_086.jpg"
+  ],
+  "(100, 110, 90)": [
+    "dataset/Saab/Saab_038.jpg",
+    "dataset/Audi/Audi_017.jpg"
+  ],
+  "(100, 120, 100)": [
+    "dataset/Porsche/Porsche_008.jpg"
+  ],
+  "(100, 120, 110)": [
+    "dataset/Studebaker/Studebaker_058.jpg",
+    "dataset/Studebaker/Studebaker_051.jpg",
+    "dataset/Mitsubishi/Mitsubishi_070.jpg",
+    "dataset/Pontiac/Pontiac_092.jpg",
+    "dataset/Bentley/Bentley_072.jpg",
+    "dataset/Ram Trucks/Ram Trucks_013.jpg"
+  ],
+  "(100, 120, 120)": [
+    "dataset/Lincoln/Lincoln_068.jpg",
+    "dataset/Lexus/Lexus_022.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_029.jpg",
+    "dataset/Aston Martin/Aston Martin_081.jpg",
+    "dataset/Maserati/Maserati_027.jpg",
+    "dataset/Jaguar/Jaguar_028.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_050.jpg"
+  ],
+  "(100, 120, 130)": [
+    "dataset/Studebaker/Studebaker_039.jpg",
+    "dataset/Ford/Ford_081.jpg",
+    "dataset/Ford/Ford_045.jpg",
+    "dataset/Pontiac/Pontiac_053.jpg",
+    "dataset/Bentley/Bentley_034.jpg",
+    "dataset/Kia/Kia_013.jpg",
+    "dataset/Peugeot/Peugeot_086.jpg",
+    "dataset/Aston Martin/Aston Martin_008.jpg",
+    "dataset/Aston Martin/Aston Martin_060.jpg",
+    "dataset/Jaguar/Jaguar_084.jpg",
+    "dataset/Citroen/Citroen_027.jpg"
+  ],
+  "(100, 120, 140)": [
+    "dataset/Studebaker/Studebaker_016.jpg",
+    "dataset/GMC/GMC_011.jpg",
+    "dataset/Ford/Ford_068.jpg",
+    "dataset/Pontiac/Pontiac_074.jpg",
+    "dataset/Pontiac/Pontiac_054.jpg",
+    "dataset/Jeep/Jeep_022.jpg",
+    "dataset/MG/MG_069.jpg",
+    "dataset/Bentley/Bentley_076.jpg",
+    "dataset/Tesla/Tesla_063.jpg",
+    "dataset/Nissan/Nissan_075.jpg",
+    "dataset/Dodge/Dodge_060.jpg",
+    "dataset/Jaguar/Jaguar_048.jpg"
+  ],
+  "(100, 120, 150)": [
+    "dataset/Pontiac/Pontiac_006.jpg"
+  ],
+  "(100, 120, 160)": [
+    "dataset/Tesla/Tesla_031.jpg"
+  ],
+  "(100, 120, 170)": [
+    "dataset/Fiat/Fiat_085.jpg"
+  ],
+  "(100, 120, 90)": [
+    "dataset/Studebaker/Studebaker_001.jpg"
+  ],
+  "(100, 130, 120)": [
+    "dataset/Jeep/Jeep_026.jpg"
+  ],
+  "(100, 130, 130)": [
+    "dataset/Studebaker/Studebaker_028.jpg",
+    "dataset/Oldsmobile/Oldsmobile_030.jpg"
+  ],
+  "(100, 130, 140)": [
+    "dataset/Mini/Mini_057.jpg",
+    "dataset/MG/MG_024.jpg",
+    "dataset/Dodge/Dodge_074.jpg",
+    "dataset/Suzuki/Suzuki_073.jpg"
+  ],
+  "(100, 130, 150)": [
+    "dataset/Ferrari/Ferrari_068.jpg",
+    "dataset/Mazda/Mazda_002.jpg",
+    "dataset/Citroen/Citroen_047.jpg"
+  ],
+  "(100, 130, 160)": [
+    "dataset/Genesis/Genesis_079.jpg"
+  ],
+  "(100, 130, 170)": [
+    "dataset/Kia/Kia_033.jpg"
+  ],
+  "(100, 140, 170)": [
+    "dataset/Ferrari/Ferrari_049.jpg",
+    "dataset/Lincoln/Lincoln_022.jpg",
+    "dataset/Bentley/Bentley_009.jpg"
+  ],
+  "(100, 150, 140)": [
+    "dataset/Studebaker/Studebaker_002.jpg"
+  ],
+  "(100, 60, 30)": [
+    "dataset/Mercedes-Benz/Mercedes-Benz_008.jpg"
+  ],
+  "(100, 70, 90)": [
+    "dataset/Ram Trucks/Ram Trucks_024.jpg"
+  ],
+  "(100, 80, 100)": [
+    "dataset/Pontiac/Pontiac_021.jpg"
+  ],
+  "(100, 80, 110)": [
+    "dataset/Oldsmobile/Oldsmobile_084.jpg"
+  ],
+  "(100, 80, 70)": [
+    "dataset/Bugatti/Bugatti_010.jpg",
+    "dataset/Audi/Audi_063.jpg",
+    "dataset/Aston Martin/Aston Martin_026.jpg"
+  ],
+  "(100, 80, 80)": [
+    "dataset/Infiniti/Infiniti_051.jpg",
+    "dataset/BMW/BMW_040.jpg"
+  ],
+  "(100, 80, 90)": [
+    "dataset/Tesla/Tesla_013.jpg",
+    "dataset/Citroen/Citroen_079.jpg"
+  ],
+  "(100, 90, 100)": [
+    "dataset/Studebaker/Studebaker_064.jpg",
+    "dataset/Hudson/Hudson_074.jpg",
+    "dataset/Pontiac/Pontiac_082.jpg",
+    "dataset/Mini/Mini_050.jpg",
+    "dataset/Mazda/Mazda_041.jpg",
+    "dataset/Buick/Buick_005.jpg",
+    "dataset/Infiniti/Infiniti_041.jpg",
+    "dataset/Cadillac/Cadillac_067.jpg",
+    "dataset/Audi/Audi_027.jpg",
+    "dataset/Volvo/Volvo_030.jpg",
+    "dataset/Oldsmobile/Oldsmobile_031.jpg",
+    "dataset/Chrysler/Chrysler_041.jpg",
+    "dataset/Jaguar/Jaguar_031.jpg",
+    "dataset/BMW/BMW_016.jpg",
+    "dataset/BMW/BMW_063.jpg",
+    "dataset/Fiat/Fiat_039.jpg",
+    "dataset/Honda/Honda_087.jpg",
+    "dataset/Honda/Honda_067.jpg"
+  ],
+  "(100, 90, 110)": [
+    "dataset/Lexus/Lexus_028.jpg",
+    "dataset/Fiat/Fiat_029.jpg"
+  ],
+  "(100, 90, 120)": [
+    "dataset/Ferrari/Ferrari_053.jpg"
+  ],
+  "(100, 90, 60)": [
+    "dataset/Renault/Renault_003.jpg"
+  ],
+  "(100, 90, 70)": [
+    "dataset/Renault/Renault_024.jpg",
+    "dataset/Infiniti/Infiniti_072.jpg",
+    "dataset/Peugeot/Peugeot_048.jpg",
+    "dataset/Peugeot/Peugeot_002.jpg",
+    "dataset/Chrysler/Chrysler_021.jpg"
+  ],
+  "(100, 90, 80)": [
+    "dataset/Volkswagen/Volkswagen_045.jpg",
+    "dataset/Studebaker/Studebaker_008.jpg",
+    "dataset/Ford/Ford_071.jpg",
+    "dataset/Daewoo/Daewoo_017.jpg",
+    "dataset/Daewoo/Daewoo_096.jpg",
+    "dataset/Bentley/Bentley_071.jpg",
+    "dataset/Tesla/Tesla_074.jpg",
+    "dataset/Hyundai/Hyundai_023.jpg",
+    "dataset/Hyundai/Hyundai_026.jpg",
+    "dataset/Infiniti/Infiniti_080.jpg",
+    "dataset/Volvo/Volvo_063.jpg",
+    "dataset/Subaru/Subaru_026.jpg",
+    "dataset/Jaguar/Jaguar_057.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_056.jpg",
+    "dataset/Citroen/Citroen_078.jpg"
+  ],
+  "(100, 90, 90)": [
+    "dataset/Mitsubishi/Mitsubishi_042.jpg",
+    "dataset/Mitsubishi/Mitsubishi_046.jpg",
+    "dataset/GMC/GMC_082.jpg",
+    "dataset/Ford/Ford_006.jpg",
+    "dataset/Lincoln/Lincoln_074.jpg",
+    "dataset/Mini/Mini_023.jpg",
+    "dataset/MG/MG_120.jpg",
+    "dataset/Bentley/Bentley_053.jpg",
+    "dataset/Land Rover/Land Rover_085.jpg",
+    "dataset/Chevrolet/Chevrolet_024.jpg",
+    "dataset/Chevrolet/Chevrolet_047.jpg",
+    "dataset/Infiniti/Infiniti_078.jpg",
+    "dataset/Toyota/Toyota_065.jpg",
+    "dataset/Toyota/Toyota_091.jpg",
+    "dataset/Toyota/Toyota_050.jpg",
+    "dataset/Cadillac/Cadillac_027.jpg",
+    "dataset/Nissan/Nissan_029.jpg",
+    "dataset/Peugeot/Peugeot_077.jpg",
+    "dataset/Subaru/Subaru_013.jpg",
+    "dataset/Subaru/Subaru_071.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_034.jpg",
+    "dataset/Oldsmobile/Oldsmobile_019.jpg",
+    "dataset/Chrysler/Chrysler_030.jpg",
+    "dataset/Chrysler/Chrysler_085.jpg",
+    "dataset/Chrysler/Chrysler_057.jpg",
+    "dataset/BMW/BMW_031.jpg",
+    "dataset/BMW/BMW_075.jpg",
+    "dataset/Honda/Honda_054.jpg",
+    "dataset/Suzuki/Suzuki_078.jpg"
+  ],
+  "(110, 100, 100)": [
+    "dataset/Mini/Mini_013.jpg",
+    "dataset/Bentley/Bentley_063.jpg",
+    "dataset/Saab/Saab_051.jpg",
+    "dataset/Saab/Saab_056.jpg",
+    "dataset/Saab/Saab_089.jpg",
+    "dataset/Tesla/Tesla_032.jpg",
+    "dataset/Chevrolet/Chevrolet_016.jpg",
+    "dataset/Infiniti/Infiniti_032.jpg",
+    "dataset/Toyota/Toyota_089.jpg",
+    "dataset/Volvo/Volvo_084.jpg",
+    "dataset/Peugeot/Peugeot_053.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_023.jpg",
+    "dataset/Maserati/Maserati_037.jpg",
+    "dataset/Jaguar/Jaguar_089.jpg",
+    "dataset/Jaguar/Jaguar_011.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_075.jpg",
+    "dataset/Genesis/Genesis_013.jpg"
+  ],
+  "(110, 100, 110)": [
+    "dataset/Volkswagen/Volkswagen_048.jpg",
+    "dataset/Mazda/Mazda_081.jpg",
+    "dataset/MG/MG_121.jpg",
+    "dataset/Volvo/Volvo_023.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_020.jpg",
+    "dataset/Aston Martin/Aston Martin_047.jpg",
+    "dataset/Suzuki/Suzuki_054.jpg"
+  ],
+  "(110, 100, 120)": [
+    "dataset/Buick/Buick_089.jpg",
+    "dataset/Land Rover/Land Rover_013.jpg",
+    "dataset/Dodge/Dodge_009.jpg",
+    "dataset/Oldsmobile/Oldsmobile_099.jpg",
+    "dataset/Genesis/Genesis_033.jpg"
+  ],
+  "(110, 100, 130)": [
+    "dataset/Ford/Ford_040.jpg",
+    "dataset/Mazda/Mazda_019.jpg",
+    "dataset/Infiniti/Infiniti_021.jpg",
+    "dataset/Honda/Honda_071.jpg"
+  ],
+  "(110, 100, 140)": [
+    "dataset/Audi/Audi_037.jpg",
+    "dataset/Audi/Audi_023.jpg"
+  ],
+  "(110, 100, 70)": [
+    "dataset/Bugatti/Bugatti_014.jpg"
+  ],
+  "(110, 100, 80)": [
+    "dataset/Porsche/Porsche_036.jpg",
+    "dataset/Bugatti/Bugatti_059.jpg",
+    "dataset/Mazda/Mazda_074.jpg",
+    "dataset/Saab/Saab_043.jpg",
+    "dataset/Peugeot/Peugeot_035.jpg",
+    "dataset/Subaru/Subaru_056.jpg",
+    "dataset/Subaru/Subaru_086.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_024.jpg"
+  ],
+  "(110, 100, 90)": [
+    "dataset/Porsche/Porsche_053.jpg",
+    "dataset/Porsche/Porsche_033.jpg",
+    "dataset/Studebaker/Studebaker_098.jpg",
+    "dataset/Studebaker/Studebaker_056.jpg",
+    "dataset/Bugatti/Bugatti_044.jpg",
+    "dataset/Bugatti/Bugatti_063.jpg",
+    "dataset/Mitsubishi/Mitsubishi_004.jpg",
+    "dataset/Jeep/Jeep_048.jpg",
+    "dataset/Jeep/Jeep_054.jpg",
+    "dataset/Mazda/Mazda_090.jpg",
+    "dataset/MG/MG_041.jpg",
+    "dataset/Bentley/Bentley_041.jpg",
+    "dataset/Buick/Buick_009.jpg",
+    "dataset/Acura/Acura_074.jpg",
+    "dataset/Volvo/Volvo_050.jpg",
+    "dataset/Peugeot/Peugeot_022.jpg",
+    "dataset/Peugeot/Peugeot_087.jpg",
+    "dataset/Aston Martin/Aston Martin_065.jpg",
+    "dataset/Maserati/Maserati_048.jpg",
+    "dataset/Jaguar/Jaguar_043.jpg",
+    "dataset/Jaguar/Jaguar_014.jpg",
+    "dataset/Ram Trucks/Ram Trucks_053.jpg",
+    "dataset/Genesis/Genesis_050.jpg"
+  ],
+  "(110, 110, 100)": [
+    "dataset/Porsche/Porsche_079.jpg",
+    "dataset/GMC/GMC_065.jpg",
+    "dataset/GMC/GMC_030.jpg",
+    "dataset/Hudson/Hudson_045.jpg",
+    "dataset/Ford/Ford_007.jpg",
+    "dataset/Ford/Ford_056.jpg",
+    "dataset/Daewoo/Daewoo_054.jpg",
+    "dataset/Daewoo/Daewoo_079.jpg",
+    "dataset/Jeep/Jeep_039.jpg",
+    "dataset/Jeep/Jeep_025.jpg",
+    "dataset/Jeep/Jeep_034.jpg",
+    "dataset/Mazda/Mazda_079.jpg",
+    "dataset/MG/MG_032.jpg",
+    "dataset/MG/MG_019.jpg",
+    "dataset/Buick/Buick_055.jpg",
+    "dataset/Land Rover/Land Rover_077.jpg",
+    "dataset/Hyundai/Hyundai_039.jpg",
+    "dataset/Dodge/Dodge_072.jpg",
+    "dataset/Lexus/Lexus_008.jpg",
+    "dataset/Volvo/Volvo_042.jpg",
+    "dataset/Peugeot/Peugeot_070.jpg",
+    "dataset/Peugeot/Peugeot_019.jpg",
+    "dataset/Subaru/Subaru_064.jpg",
+    "dataset/Chrysler/Chrysler_027.jpg",
+    "dataset/Chrysler/Chrysler_023.jpg",
+    "dataset/Maserati/Maserati_001.jpg",
+    "dataset/Maserati/Maserati_065.jpg",
+    "dataset/BMW/BMW_080.jpg",
+    "dataset/Ram Trucks/Ram Trucks_065.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_019.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_060.jpg",
+    "dataset/Honda/Honda_052.jpg",
+    "dataset/Honda/Honda_063.jpg",
+    "dataset/Suzuki/Suzuki_057.jpg",
+    "dataset/Suzuki/Suzuki_051.jpg"
+  ],
+  "(110, 110, 110)": [
+    "dataset/Volkswagen/Volkswagen_035.jpg",
+    "dataset/Porsche/Porsche_045.jpg",
+    "dataset/Studebaker/Studebaker_077.jpg",
+    "dataset/Studebaker/Studebaker_090.jpg",
+    "dataset/Bugatti/Bugatti_072.jpg",
+    "dataset/Renault/Renault_028.jpg",
+    "dataset/GMC/GMC_067.jpg",
+    "dataset/GMC/GMC_070.jpg",
+    "dataset/GMC/GMC_016.jpg",
+    "dataset/Hudson/Hudson_002.jpg",
+    "dataset/Ferrari/Ferrari_058.jpg",
+    "dataset/Ferrari/Ferrari_020.jpg",
+    "dataset/Ferrari/Ferrari_055.jpg",
+    "dataset/Ford/Ford_063.jpg",
+    "dataset/Ford/Ford_041.jpg",
+    "dataset/Lincoln/Lincoln_007.jpg",
+    "dataset/Lincoln/Lincoln_077.jpg",
+    "dataset/Lincoln/Lincoln_093.jpg",
+    "dataset/Lincoln/Lincoln_025.jpg",
+    "dataset/Daewoo/Daewoo_063.jpg",
+    "dataset/Daewoo/Daewoo_048.jpg",
+    "dataset/Daewoo/Daewoo_101.jpg",
+    "dataset/Daewoo/Daewoo_015.jpg",
+    "dataset/Daewoo/Daewoo_008.jpg",
+    "dataset/Daewoo/Daewoo_042.jpg",
+    "dataset/Mini/Mini_056.jpg",
+    "dataset/Mini/Mini_059.jpg",
+    "dataset/Mini/Mini_067.jpg",
+    "dataset/Jeep/Jeep_010.jpg",
+    "dataset/Jeep/Jeep_016.jpg",
+    "dataset/Jeep/Jeep_014.jpg",
+    "dataset/Jeep/Jeep_018.jpg",
+    "dataset/Mazda/Mazda_020.jpg",
+    "dataset/Mazda/Mazda_084.jpg",
+    "dataset/MG/MG_047.jpg",
+    "dataset/Bentley/Bentley_045.jpg",
+    "dataset/Bentley/Bentley_061.jpg",
+    "dataset/Buick/Buick_074.jpg",
+    "dataset/Buick/Buick_029.jpg",
+    "dataset/Buick/Buick_023.jpg",
+    "dataset/Buick/Buick_081.jpg",
+    "dataset/Land Rover/Land Rover_084.jpg",
+    "dataset/Land Rover/Land Rover_010.jpg",
+    "dataset/Land Rover/Land Rover_029.jpg",
+    "dataset/Land Rover/Land Rover_060.jpg",
+    "dataset/Saab/Saab_019.jpg",
+    "dataset/Saab/Saab_039.jpg",
+    "dataset/Tesla/Tesla_055.jpg",
+    "dataset/Tesla/Tesla_003.jpg",
+    "dataset/Hyundai/Hyundai_047.jpg",
+    "dataset/Chevrolet/Chevrolet_032.jpg",
+    "dataset/Chevrolet/Chevrolet_082.jpg",
+    "dataset/Chevrolet/Chevrolet_073.jpg",
+    "dataset/Chevrolet/Chevrolet_064.jpg",
+    "dataset/Chevrolet/Chevrolet_039.jpg",
+    "dataset/Infiniti/Infiniti_059.jpg",
+    "dataset/Infiniti/Infiniti_027.jpg",
+    "dataset/Cadillac/Cadillac_030.jpg",
+    "dataset/Cadillac/Cadillac_038.jpg",
+    "dataset/Nissan/Nissan_031.jpg",
+    "dataset/Nissan/Nissan_024.jpg",
+    "dataset/Nissan/Nissan_020.jpg",
+    "dataset/Dodge/Dodge_035.jpg",
+    "dataset/Dodge/Dodge_053.jpg",
+    "dataset/Dodge/Dodge_003.jpg",
+    "dataset/Acura/Acura_011.jpg",
+    "dataset/Acura/Acura_072.jpg",
+    "dataset/Audi/Audi_053.jpg",
+    "dataset/Audi/Audi_033.jpg",
+    "dataset/Audi/Audi_011.jpg",
+    "dataset/Audi/Audi_077.jpg",
+    "dataset/Volvo/Volvo_013.jpg",
+    "dataset/Volvo/Volvo_012.jpg",
+    "dataset/Volvo/Volvo_076.jpg",
+    "dataset/Volvo/Volvo_071.jpg",
+    "dataset/Volvo/Volvo_065.jpg",
+    "dataset/Volvo/Volvo_047.jpg",
+    "dataset/Volvo/Volvo_024.jpg",
+    "dataset/Volvo/Volvo_033.jpg",
+    "dataset/Peugeot/Peugeot_072.jpg",
+    "dataset/Peugeot/Peugeot_074.jpg",
+    "dataset/Peugeot/Peugeot_061.jpg",
+    "dataset/Peugeot/Peugeot_011.jpg",
+    "dataset/Peugeot/Peugeot_018.jpg",
+    "dataset/Peugeot/Peugeot_034.jpg",
+    "dataset/Subaru/Subaru_042.jpg",
+    "dataset/Subaru/Subaru_052.jpg",
+    "dataset/Subaru/Subaru_050.jpg",
+    "dataset/Subaru/Subaru_003.jpg",
+    "dataset/Aston Martin/Aston Martin_082.jpg",
+    "dataset/Aston Martin/Aston Martin_027.jpg",
+    "dataset/Oldsmobile/Oldsmobile_089.jpg",
+    "dataset/Oldsmobile/Oldsmobile_014.jpg",
+    "dataset/Chrysler/Chrysler_086.jpg",
+    "dataset/Chrysler/Chrysler_046.jpg",
+    "dataset/Chrysler/Chrysler_053.jpg",
+    "dataset/Chrysler/Chrysler_081.jpg",
+    "dataset/Chrysler/Chrysler_064.jpg",
+    "dataset/Chrysler/Chrysler_002.jpg",
+    "dataset/Chrysler/Chrysler_003.jpg",
+    "dataset/Chrysler/Chrysler_017.jpg",
+    "dataset/Maserati/Maserati_070.jpg",
+    "dataset/Maserati/Maserati_054.jpg",
+    "dataset/Jaguar/Jaguar_030.jpg",
+    "dataset/Jaguar/Jaguar_041.jpg",
+    "dataset/BMW/BMW_010.jpg",
+    "dataset/BMW/BMW_038.jpg",
+    "dataset/Fiat/Fiat_008.jpg",
+    "dataset/Fiat/Fiat_073.jpg",
+    "dataset/Ram Trucks/Ram Trucks_050.jpg",
+    "dataset/Ram Trucks/Ram Trucks_046.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_078.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_083.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_015.jpg",
+    "dataset/Citroen/Citroen_059.jpg",
+    "dataset/Honda/Honda_020.jpg",
+    "dataset/Honda/Honda_046.jpg",
+    "dataset/Genesis/Genesis_002.jpg",
+    "dataset/Genesis/Genesis_004.jpg",
+    "dataset/Genesis/Genesis_025.jpg",
+    "dataset/Genesis/Genesis_032.jpg",
+    "dataset/Suzuki/Suzuki_001.jpg",
+    "dataset/Suzuki/Suzuki_068.jpg"
+  ],
+  "(110, 110, 120)": [
+    "dataset/GMC/GMC_014.jpg",
+    "dataset/Ferrari/Ferrari_002.jpg",
+    "dataset/Lincoln/Lincoln_042.jpg",
+    "dataset/Pontiac/Pontiac_075.jpg",
+    "dataset/Pontiac/Pontiac_038.jpg",
+    "dataset/Bentley/Bentley_042.jpg",
+    "dataset/Buick/Buick_062.jpg",
+    "dataset/Buick/Buick_059.jpg",
+    "dataset/Buick/Buick_028.jpg",
+    "dataset/Land Rover/Land Rover_059.jpg",
+    "dataset/Saab/Saab_003.jpg",
+    "dataset/Tesla/Tesla_014.jpg",
+    "dataset/Hyundai/Hyundai_022.jpg",
+    "dataset/Infiniti/Infiniti_040.jpg",
+    "dataset/Infiniti/Infiniti_008.jpg",
+    "dataset/Toyota/Toyota_037.jpg",
+    "dataset/Cadillac/Cadillac_053.jpg",
+    "dataset/Cadillac/Cadillac_083.jpg",
+    "dataset/Cadillac/Cadillac_063.jpg",
+    "dataset/Cadillac/Cadillac_048.jpg",
+    "dataset/Cadillac/Cadillac_014.jpg",
+    "dataset/Nissan/Nissan_086.jpg",
+    "dataset/Nissan/Nissan_068.jpg",
+    "dataset/Nissan/Nissan_028.jpg",
+    "dataset/Dodge/Dodge_034.jpg",
+    "dataset/Dodge/Dodge_084.jpg",
+    "dataset/Acura/Acura_080.jpg",
+    "dataset/Audi/Audi_084.jpg",
+    "dataset/Audi/Audi_006.jpg",
+    "dataset/Volvo/Volvo_037.jpg",
+    "dataset/Subaru/Subaru_082.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_021.jpg",
+    "dataset/Aston Martin/Aston Martin_046.jpg",
+    "dataset/Aston Martin/Aston Martin_010.jpg",
+    "dataset/Maserati/Maserati_045.jpg",
+    "dataset/Ram Trucks/Ram Trucks_004.jpg",
+    "dataset/Ram Trucks/Ram Trucks_039.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_034.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_061.jpg",
+    "dataset/Citroen/Citroen_017.jpg",
+    "dataset/Honda/Honda_043.jpg",
+    "dataset/Honda/Honda_013.jpg",
+    "dataset/Genesis/Genesis_049.jpg"
+  ],
+  "(110, 110, 130)": [
+    "dataset/Hudson/Hudson_012.jpg",
+    "dataset/Ferrari/Ferrari_063.jpg",
+    "dataset/Ferrari/Ferrari_017.jpg",
+    "dataset/Ferrari/Ferrari_025.jpg",
+    "dataset/Ferrari/Ferrari_096.jpg",
+    "dataset/Ferrari/Ferrari_042.jpg",
+    "dataset/Mini/Mini_068.jpg",
+    "dataset/Mazda/Mazda_065.jpg",
+    "dataset/Mazda/Mazda_048.jpg",
+    "dataset/MG/MG_089.jpg",
+    "dataset/Land Rover/Land Rover_047.jpg",
+    "dataset/Land Rover/Land Rover_068.jpg",
+    "dataset/Tesla/Tesla_090.jpg",
+    "dataset/Tesla/Tesla_043.jpg",
+    "dataset/Kia/Kia_056.jpg",
+    "dataset/Acura/Acura_012.jpg",
+    "dataset/Audi/Audi_002.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_021.jpg",
+    "dataset/Genesis/Genesis_001.jpg",
+    "dataset/Suzuki/Suzuki_015.jpg"
+  ],
+  "(110, 110, 140)": [
+    "dataset/Porsche/Porsche_024.jpg",
+    "dataset/Studebaker/Studebaker_071.jpg",
+    "dataset/Ferrari/Ferrari_091.jpg",
+    "dataset/Ferrari/Ferrari_051.jpg",
+    "dataset/Pontiac/Pontiac_072.jpg",
+    "dataset/Daewoo/Daewoo_031.jpg",
+    "dataset/Jeep/Jeep_005.jpg",
+    "dataset/Mazda/Mazda_003.jpg",
+    "dataset/MG/MG_093.jpg",
+    "dataset/Peugeot/Peugeot_031.jpg"
+  ],
+  "(110, 110, 150)": [
+    "dataset/Porsche/Porsche_074.jpg",
+    "dataset/Tesla/Tesla_019.jpg",
+    "dataset/Jaguar/Jaguar_035.jpg"
+  ],
+  "(110, 110, 160)": [
+    "dataset/Studebaker/Studebaker_038.jpg"
+  ],
+  "(110, 110, 90)": [
+    "dataset/Oldsmobile/Oldsmobile_051.jpg",
+    "dataset/Oldsmobile/Oldsmobile_062.jpg",
+    "dataset/Chrysler/Chrysler_084.jpg"
+  ],
+  "(110, 120, 100)": [
+    "dataset/Studebaker/Studebaker_078.jpg"
+  ],
+  "(110, 120, 110)": [
+    "dataset/Porsche/Porsche_085.jpg",
+    "dataset/GMC/GMC_042.jpg",
+    "dataset/Ferrari/Ferrari_073.jpg",
+    "dataset/Pontiac/Pontiac_020.jpg",
+    "dataset/Pontiac/Pontiac_086.jpg",
+    "dataset/Daewoo/Daewoo_080.jpg",
+    "dataset/Buick/Buick_058.jpg",
+    "dataset/Buick/Buick_015.jpg",
+    "dataset/Buick/Buick_004.jpg",
+    "dataset/Land Rover/Land Rover_053.jpg",
+    "dataset/Saab/Saab_030.jpg",
+    "dataset/Saab/Saab_057.jpg",
+    "dataset/Tesla/Tesla_085.jpg",
+    "dataset/Tesla/Tesla_021.jpg",
+    "dataset/Tesla/Tesla_048.jpg",
+    "dataset/Kia/Kia_067.jpg",
+    "dataset/Acura/Acura_040.jpg",
+    "dataset/Audi/Audi_054.jpg",
+    "dataset/Subaru/Subaru_085.jpg",
+    "dataset/Subaru/Subaru_075.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_018.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_081.jpg",
+    "dataset/Ram Trucks/Ram Trucks_074.jpg",
+    "dataset/Genesis/Genesis_035.jpg"
+  ],
+  "(110, 120, 120)": [
+    "dataset/Volkswagen/Volkswagen_064.jpg",
+    "dataset/Porsche/Porsche_012.jpg",
+    "dataset/Porsche/Porsche_062.jpg",
+    "dataset/Porsche/Porsche_065.jpg",
+    "dataset/Porsche/Porsche_068.jpg",
+    "dataset/Studebaker/Studebaker_003.jpg",
+    "dataset/Renault/Renault_025.jpg",
+    "dataset/Renault/Renault_026.jpg",
+    "dataset/GMC/GMC_029.jpg",
+    "dataset/Hudson/Hudson_073.jpg",
+    "dataset/Ferrari/Ferrari_037.jpg",
+    "dataset/Pontiac/Pontiac_079.jpg",
+    "dataset/Daewoo/Daewoo_065.jpg",
+    "dataset/Daewoo/Daewoo_039.jpg",
+    "dataset/Mini/Mini_080.jpg",
+    "dataset/Mini/Mini_022.jpg",
+    "dataset/Mini/Mini_037.jpg",
+    "dataset/Mini/Mini_071.jpg",
+    "dataset/MG/MG_018.jpg",
+    "dataset/Land Rover/Land Rover_062.jpg",
+    "dataset/Saab/Saab_090.jpg",
+    "dataset/Hyundai/Hyundai_008.jpg",
+    "dataset/Hyundai/Hyundai_000.jpg",
+    "dataset/Kia/Kia_044.jpg",
+    "dataset/Kia/Kia_019.jpg",
+    "dataset/Chevrolet/Chevrolet_018.jpg",
+    "dataset/Chevrolet/Chevrolet_005.jpg",
+    "dataset/Infiniti/Infiniti_081.jpg",
+    "dataset/Toyota/Toyota_076.jpg",
+    "dataset/Toyota/Toyota_040.jpg",
+    "dataset/Cadillac/Cadillac_070.jpg",
+    "dataset/Cadillac/Cadillac_004.jpg",
+    "dataset/Cadillac/Cadillac_028.jpg",
+    "dataset/Nissan/Nissan_037.jpg",
+    "dataset/Acura/Acura_051.jpg",
+    "dataset/Acura/Acura_019.jpg",
+    "dataset/Lexus/Lexus_063.jpg",
+    "dataset/Audi/Audi_035.jpg",
+    "dataset/Audi/Audi_061.jpg",
+    "dataset/Peugeot/Peugeot_016.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_087.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_076.jpg",
+    "dataset/Oldsmobile/Oldsmobile_032.jpg",
+    "dataset/Oldsmobile/Oldsmobile_090.jpg",
+    "dataset/Oldsmobile/Oldsmobile_056.jpg",
+    "dataset/Oldsmobile/Oldsmobile_074.jpg",
+    "dataset/Maserati/Maserati_000.jpg",
+    "dataset/Jaguar/Jaguar_023.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_052.jpg",
+    "dataset/Citroen/Citroen_000.jpg",
+    "dataset/Honda/Honda_037.jpg",
+    "dataset/Genesis/Genesis_058.jpg",
+    "dataset/Genesis/Genesis_054.jpg",
+    "dataset/Suzuki/Suzuki_071.jpg"
+  ],
+  "(110, 120, 130)": [
+    "dataset/Bugatti/Bugatti_032.jpg",
+    "dataset/Bugatti/Bugatti_064.jpg",
+    "dataset/Bugatti/Bugatti_038.jpg",
+    "dataset/Ferrari/Ferrari_087.jpg",
+    "dataset/Lincoln/Lincoln_018.jpg",
+    "dataset/Pontiac/Pontiac_084.jpg",
+    "dataset/Daewoo/Daewoo_069.jpg",
+    "dataset/Jeep/Jeep_046.jpg",
+    "dataset/Jeep/Jeep_055.jpg",
+    "dataset/Saab/Saab_069.jpg",
+    "dataset/Hyundai/Hyundai_049.jpg",
+    "dataset/Infiniti/Infiniti_006.jpg",
+    "dataset/Infiniti/Infiniti_045.jpg",
+    "dataset/Cadillac/Cadillac_044.jpg",
+    "dataset/Nissan/Nissan_026.jpg",
+    "dataset/Dodge/Dodge_011.jpg",
+    "dataset/Acura/Acura_089.jpg",
+    "dataset/Acura/Acura_062.jpg",
+    "dataset/Lexus/Lexus_044.jpg",
+    "dataset/Volvo/Volvo_031.jpg",
+    "dataset/Subaru/Subaru_014.jpg",
+    "dataset/Oldsmobile/Oldsmobile_066.jpg",
+    "dataset/Oldsmobile/Oldsmobile_065.jpg",
+    "dataset/Chrysler/Chrysler_036.jpg",
+    "dataset/Jaguar/Jaguar_005.jpg",
+    "dataset/Genesis/Genesis_059.jpg"
+  ],
+  "(110, 120, 140)": [
+    "dataset/Studebaker/Studebaker_010.jpg",
+    "dataset/Studebaker/Studebaker_036.jpg",
+    "dataset/Mitsubishi/Mitsubishi_025.jpg",
+    "dataset/Hudson/Hudson_080.jpg",
+    "dataset/MG/MG_033.jpg",
+    "dataset/Buick/Buick_016.jpg",
+    "dataset/Hyundai/Hyundai_030.jpg",
+    "dataset/Acura/Acura_048.jpg"
+  ],
+  "(110, 120, 150)": [
+    "dataset/Mitsubishi/Mitsubishi_016.jpg",
+    "dataset/Ferrari/Ferrari_084.jpg",
+    "dataset/Kia/Kia_051.jpg",
+    "dataset/Jaguar/Jaguar_072.jpg"
+  ],
+  "(110, 120, 180)": [
+    "dataset/MG/MG_105.jpg"
+  ],
+  "(110, 130, 110)": [
+    "dataset/Mitsubishi/Mitsubishi_020.jpg"
+  ],
+  "(110, 130, 120)": [
+    "dataset/Daewoo/Daewoo_020.jpg"
+  ],
+  "(110, 130, 130)": [
+    "dataset/Lincoln/Lincoln_079.jpg",
+    "dataset/Kia/Kia_074.jpg",
+    "dataset/Subaru/Subaru_001.jpg",
+    "dataset/Oldsmobile/Oldsmobile_098.jpg",
+    "dataset/Suzuki/Suzuki_008.jpg",
+    "dataset/Suzuki/Suzuki_055.jpg",
+    "dataset/Suzuki/Suzuki_047.jpg"
+  ],
+  "(110, 130, 140)": [
+    "dataset/Studebaker/Studebaker_024.jpg",
+    "dataset/Hudson/Hudson_032.jpg",
+    "dataset/Hudson/Hudson_054.jpg",
+    "dataset/Ford/Ford_060.jpg",
+    "dataset/Mini/Mini_039.jpg",
+    "dataset/Jeep/Jeep_074.jpg",
+    "dataset/Jeep/Jeep_084.jpg",
+    "dataset/Jaguar/Jaguar_039.jpg",
+    "dataset/Ram Trucks/Ram Trucks_016.jpg",
+    "dataset/Citroen/Citroen_005.jpg",
+    "dataset/Honda/Honda_078.jpg"
+  ],
+  "(110, 130, 150)": [
+    "dataset/Mazda/Mazda_007.jpg",
+    "dataset/Buick/Buick_057.jpg",
+    "dataset/Saab/Saab_008.jpg",
+    "dataset/Aston Martin/Aston Martin_032.jpg"
+  ],
+  "(110, 130, 160)": [
+    "dataset/Hudson/Hudson_044.jpg"
+  ],
+  "(110, 130, 170)": [
+    "dataset/Renault/Renault_079.jpg",
+    "dataset/Renault/Renault_016.jpg"
+  ],
+  "(110, 140, 130)": [
+    "dataset/Kia/Kia_072.jpg",
+    "dataset/Chevrolet/Chevrolet_058.jpg",
+    "dataset/BMW/BMW_052.jpg"
+  ],
+  "(110, 140, 140)": [
+    "dataset/Studebaker/Studebaker_033.jpg",
+    "dataset/Maserati/Maserati_052.jpg"
+  ],
+  "(110, 140, 150)": [
+    "dataset/Bentley/Bentley_035.jpg"
+  ],
+  "(110, 160, 170)": [
+    "dataset/Bugatti/Bugatti_070.jpg"
+  ],
+  "(110, 70, 90)": [
+    "dataset/Chevrolet/Chevrolet_070.jpg"
+  ],
+  "(110, 80, 60)": [
+    "dataset/Subaru/Subaru_021.jpg"
+  ],
+  "(110, 80, 70)": [
+    "dataset/Toyota/Toyota_035.jpg"
+  ],
+  "(110, 80, 80)": [
+    "dataset/Lexus/Lexus_006.jpg"
+  ],
+  "(110, 90, 100)": [
+    "dataset/Studebaker/Studebaker_011.jpg",
+    "dataset/Pontiac/Pontiac_087.jpg",
+    "dataset/Dodge/Dodge_000.jpg"
+  ],
+  "(110, 90, 110)": [
+    "dataset/Hudson/Hudson_061.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_044.jpg"
+  ],
+  "(110, 90, 60)": [
+    "dataset/Honda/Honda_059.jpg"
+  ],
+  "(110, 90, 70)": [
+    "dataset/Acura/Acura_087.jpg",
+    "dataset/Audi/Audi_028.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_085.jpg"
+  ],
+  "(110, 90, 80)": [
+    "dataset/Studebaker/Studebaker_096.jpg",
+    "dataset/GMC/GMC_034.jpg",
+    "dataset/Hyundai/Hyundai_046.jpg",
+    "dataset/Acura/Acura_061.jpg",
+    "dataset/Audi/Audi_060.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_058.jpg",
+    "dataset/Maserati/Maserati_005.jpg",
+    "dataset/Maserati/Maserati_051.jpg",
+    "dataset/Jaguar/Jaguar_002.jpg",
+    "dataset/BMW/BMW_030.jpg",
+    "dataset/BMW/BMW_000.jpg"
+  ],
+  "(110, 90, 90)": [
+    "dataset/MG/MG_112.jpg"
+  ],
+  "(120, 100, 100)": [
+    "dataset/Daewoo/Daewoo_078.jpg",
+    "dataset/Mazda/Mazda_069.jpg",
+    "dataset/Kia/Kia_050.jpg"
+  ],
+  "(120, 100, 110)": [
+    "dataset/Lexus/Lexus_039.jpg"
+  ],
+  "(120, 100, 120)": [
+    "dataset/Mazda/Mazda_030.jpg"
+  ],
+  "(120, 100, 80)": [
+    "dataset/Buick/Buick_092.jpg",
+    "dataset/Hyundai/Hyundai_005.jpg",
+    "dataset/Jaguar/Jaguar_053.jpg",
+    "dataset/BMW/BMW_064.jpg"
+  ],
+  "(120, 100, 90)": [
+    "dataset/Hudson/Hudson_094.jpg",
+    "dataset/Toyota/Toyota_016.jpg",
+    "dataset/Toyota/Toyota_083.jpg",
+    "dataset/Acura/Acura_066.jpg",
+    "dataset/BMW/BMW_020.jpg"
+  ],
+  "(120, 110, 100)": [
+    "dataset/Porsche/Porsche_048.jpg",
+    "dataset/Bugatti/Bugatti_035.jpg",
+    "dataset/Bugatti/Bugatti_083.jpg",
+    "dataset/Bugatti/Bugatti_015.jpg",
+    "dataset/GMC/GMC_068.jpg",
+    "dataset/Ferrari/Ferrari_016.jpg",
+    "dataset/Ford/Ford_075.jpg",
+    "dataset/Mazda/Mazda_068.jpg",
+    "dataset/MG/MG_060.jpg",
+    "dataset/MG/MG_006.jpg",
+    "dataset/Buick/Buick_046.jpg",
+    "dataset/Hyundai/Hyundai_040.jpg",
+    "dataset/Hyundai/Hyundai_073.jpg",
+    "dataset/Infiniti/Infiniti_033.jpg",
+    "dataset/Toyota/Toyota_070.jpg",
+    "dataset/Dodge/Dodge_056.jpg",
+    "dataset/Dodge/Dodge_048.jpg",
+    "dataset/Acura/Acura_017.jpg",
+    "dataset/Acura/Acura_010.jpg",
+    "dataset/Lexus/Lexus_030.jpg",
+    "dataset/Audi/Audi_045.jpg",
+    "dataset/Audi/Audi_049.jpg",
+    "dataset/Peugeot/Peugeot_054.jpg",
+    "dataset/Subaru/Subaru_009.jpg",
+    "dataset/BMW/BMW_005.jpg",
+    "dataset/Ram Trucks/Ram Trucks_029.jpg",
+    "dataset/Ram Trucks/Ram Trucks_087.jpg",
+    "dataset/Genesis/Genesis_072.jpg"
+  ],
+  "(120, 110, 110)": [
+    "dataset/Studebaker/Studebaker_062.jpg",
+    "dataset/Studebaker/Studebaker_053.jpg",
+    "dataset/Studebaker/Studebaker_023.jpg",
+    "dataset/Bugatti/Bugatti_018.jpg",
+    "dataset/Mitsubishi/Mitsubishi_005.jpg",
+    "dataset/GMC/GMC_008.jpg",
+    "dataset/GMC/GMC_031.jpg",
+    "dataset/GMC/GMC_047.jpg",
+    "dataset/Lincoln/Lincoln_000.jpg",
+    "dataset/Lincoln/Lincoln_005.jpg",
+    "dataset/Lincoln/Lincoln_062.jpg",
+    "dataset/Lincoln/Lincoln_054.jpg",
+    "dataset/Daewoo/Daewoo_067.jpg",
+    "dataset/Daewoo/Daewoo_002.jpg",
+    "dataset/Daewoo/Daewoo_032.jpg",
+    "dataset/Daewoo/Daewoo_084.jpg",
+    "dataset/Jeep/Jeep_006.jpg",
+    "dataset/Mazda/Mazda_052.jpg",
+    "dataset/Mazda/Mazda_080.jpg",
+    "dataset/Buick/Buick_076.jpg",
+    "dataset/Buick/Buick_071.jpg",
+    "dataset/Land Rover/Land Rover_036.jpg",
+    "dataset/Saab/Saab_085.jpg",
+    "dataset/Tesla/Tesla_035.jpg",
+    "dataset/Chevrolet/Chevrolet_040.jpg",
+    "dataset/Chevrolet/Chevrolet_006.jpg",
+    "dataset/Infiniti/Infiniti_034.jpg",
+    "dataset/Toyota/Toyota_073.jpg",
+    "dataset/Toyota/Toyota_056.jpg",
+    "dataset/Cadillac/Cadillac_050.jpg",
+    "dataset/Cadillac/Cadillac_046.jpg",
+    "dataset/Cadillac/Cadillac_061.jpg",
+    "dataset/Lexus/Lexus_033.jpg",
+    "dataset/Lexus/Lexus_004.jpg",
+    "dataset/Lexus/Lexus_058.jpg",
+    "dataset/Lexus/Lexus_048.jpg",
+    "dataset/Audi/Audi_009.jpg",
+    "dataset/Audi/Audi_065.jpg",
+    "dataset/Volvo/Volvo_005.jpg",
+    "dataset/Volvo/Volvo_059.jpg",
+    "dataset/Volvo/Volvo_086.jpg",
+    "dataset/Volvo/Volvo_019.jpg",
+    "dataset/Peugeot/Peugeot_080.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_002.jpg",
+    "dataset/Chrysler/Chrysler_078.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_011.jpg",
+    "dataset/Citroen/Citroen_070.jpg",
+    "dataset/Genesis/Genesis_012.jpg",
+    "dataset/Suzuki/Suzuki_030.jpg",
+    "dataset/Suzuki/Suzuki_087.jpg"
+  ],
+  "(120, 110, 120)": [
+    "dataset/Porsche/Porsche_032.jpg",
+    "dataset/Bugatti/Bugatti_033.jpg",
+    "dataset/Renault/Renault_033.jpg",
+    "dataset/GMC/GMC_061.jpg",
+    "dataset/Ford/Ford_053.jpg",
+    "dataset/Lincoln/Lincoln_073.jpg",
+    "dataset/Pontiac/Pontiac_063.jpg",
+    "dataset/Mazda/Mazda_025.jpg",
+    "dataset/Saab/Saab_025.jpg",
+    "dataset/Tesla/Tesla_046.jpg",
+    "dataset/Hyundai/Hyundai_016.jpg",
+    "dataset/Toyota/Toyota_071.jpg",
+    "dataset/Lexus/Lexus_011.jpg",
+    "dataset/Jaguar/Jaguar_050.jpg",
+    "dataset/Suzuki/Suzuki_062.jpg"
+  ],
+  "(120, 110, 130)": [
+    "dataset/Tesla/Tesla_050.jpg",
+    "dataset/Nissan/Nissan_022.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_063.jpg",
+    "dataset/Aston Martin/Aston Martin_015.jpg"
+  ],
+  "(120, 110, 140)": [
+    "dataset/Mitsubishi/Mitsubishi_003.jpg",
+    "dataset/Bentley/Bentley_081.jpg",
+    "dataset/Kia/Kia_022.jpg",
+    "dataset/Suzuki/Suzuki_086.jpg"
+  ],
+  "(120, 110, 150)": [
+    "dataset/Dodge/Dodge_006.jpg"
+  ],
+  "(120, 110, 160)": [
+    "dataset/Tesla/Tesla_078.jpg"
+  ],
+  "(120, 110, 80)": [
+    "dataset/Audi/Audi_036.jpg",
+    "dataset/Oldsmobile/Oldsmobile_097.jpg",
+    "dataset/Suzuki/Suzuki_083.jpg"
+  ],
+  "(120, 110, 90)": [
+    "dataset/Porsche/Porsche_035.jpg",
+    "dataset/Studebaker/Studebaker_029.jpg",
+    "dataset/GMC/GMC_059.jpg",
+    "dataset/Ford/Ford_073.jpg",
+    "dataset/Land Rover/Land Rover_055.jpg",
+    "dataset/Saab/Saab_026.jpg",
+    "dataset/Chevrolet/Chevrolet_010.jpg",
+    "dataset/Nissan/Nissan_017.jpg",
+    "dataset/Audi/Audi_016.jpg",
+    "dataset/Aston Martin/Aston Martin_002.jpg"
+  ],
+  "(120, 120, 100)": [
+    "dataset/Studebaker/Studebaker_074.jpg",
+    "dataset/Saab/Saab_087.jpg",
+    "dataset/Kia/Kia_021.jpg",
+    "dataset/BMW/BMW_014.jpg",
+    "dataset/Citroen/Citroen_042.jpg"
+  ],
+  "(120, 120, 110)": [
+    "dataset/Volkswagen/Volkswagen_085.jpg",
+    "dataset/Volkswagen/Volkswagen_016.jpg",
+    "dataset/Studebaker/Studebaker_055.jpg",
+    "dataset/Studebaker/Studebaker_054.jpg",
+    "dataset/Bugatti/Bugatti_027.jpg",
+    "dataset/Bugatti/Bugatti_039.jpg",
+    "dataset/Bugatti/Bugatti_002.jpg",
+    "dataset/Mitsubishi/Mitsubishi_082.jpg",
+    "dataset/Renault/Renault_013.jpg",
+    "dataset/Renault/Renault_067.jpg",
+    "dataset/GMC/GMC_006.jpg",
+    "dataset/Ford/Ford_054.jpg",
+    "dataset/Lincoln/Lincoln_040.jpg",
+    "dataset/Daewoo/Daewoo_102.jpg",
+    "dataset/Daewoo/Daewoo_003.jpg",
+    "dataset/Daewoo/Daewoo_010.jpg",
+    "dataset/Daewoo/Daewoo_091.jpg",
+    "dataset/Mini/Mini_027.jpg",
+    "dataset/Jeep/Jeep_050.jpg",
+    "dataset/Jeep/Jeep_044.jpg",
+    "dataset/Mazda/Mazda_063.jpg",
+    "dataset/Mazda/Mazda_050.jpg",
+    "dataset/Bentley/Bentley_083.jpg",
+    "dataset/Buick/Buick_043.jpg",
+    "dataset/Land Rover/Land Rover_009.jpg",
+    "dataset/Land Rover/Land Rover_000.jpg",
+    "dataset/Saab/Saab_061.jpg",
+    "dataset/Tesla/Tesla_064.jpg",
+    "dataset/Hyundai/Hyundai_038.jpg",
+    "dataset/Kia/Kia_041.jpg",
+    "dataset/Toyota/Toyota_009.jpg",
+    "dataset/Lexus/Lexus_014.jpg",
+    "dataset/Audi/Audi_043.jpg",
+    "dataset/Volvo/Volvo_056.jpg",
+    "dataset/Peugeot/Peugeot_049.jpg",
+    "dataset/Subaru/Subaru_051.jpg",
+    "dataset/Subaru/Subaru_049.jpg",
+    "dataset/Subaru/Subaru_061.jpg",
+    "dataset/Oldsmobile/Oldsmobile_091.jpg",
+    "dataset/Oldsmobile/Oldsmobile_044.jpg",
+    "dataset/Chrysler/Chrysler_056.jpg",
+    "dataset/Chrysler/Chrysler_077.jpg",
+    "dataset/BMW/BMW_054.jpg",
+    "dataset/BMW/BMW_035.jpg",
+    "dataset/BMW/BMW_036.jpg",
+    "dataset/Fiat/Fiat_028.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_049.jpg",
+    "dataset/Citroen/Citroen_028.jpg",
+    "dataset/Genesis/Genesis_048.jpg",
+    "dataset/Genesis/Genesis_028.jpg"
+  ],
+  "(120, 120, 120)": [
+    "dataset/Volkswagen/Volkswagen_043.jpg",
+    "dataset/Volkswagen/Volkswagen_047.jpg",
+    "dataset/Volkswagen/Volkswagen_075.jpg",
+    "dataset/Volkswagen/Volkswagen_077.jpg",
+    "dataset/Porsche/Porsche_015.jpg",
+    "dataset/Porsche/Porsche_000.jpg",
+    "dataset/Porsche/Porsche_039.jpg",
+    "dataset/Porsche/Porsche_077.jpg",
+    "dataset/Porsche/Porsche_086.jpg",
+    "dataset/Porsche/Porsche_052.jpg",
+    "dataset/Studebaker/Studebaker_099.jpg",
+    "dataset/Studebaker/Studebaker_067.jpg",
+    "dataset/Bugatti/Bugatti_034.jpg",
+    "dataset/Bugatti/Bugatti_086.jpg",
+    "dataset/Bugatti/Bugatti_057.jpg",
+    "dataset/Mitsubishi/Mitsubishi_063.jpg",
+    "dataset/Mitsubishi/Mitsubishi_059.jpg",
+    "dataset/Mitsubishi/Mitsubishi_028.jpg",
+    "dataset/Renault/Renault_041.jpg",
+    "dataset/Renault/Renault_020.jpg",
+    "dataset/GMC/GMC_017.jpg",
+    "dataset/GMC/GMC_004.jpg",
+    "dataset/GMC/GMC_035.jpg",
+    "dataset/GMC/GMC_021.jpg",
+    "dataset/GMC/GMC_019.jpg",
+    "dataset/Ferrari/Ferrari_000.jpg",
+    "dataset/Ferrari/Ferrari_018.jpg",
+    "dataset/Ferrari/Ferrari_009.jpg",
+    "dataset/Ford/Ford_014.jpg",
+    "dataset/Lincoln/Lincoln_016.jpg",
+    "dataset/Lincoln/Lincoln_010.jpg",
+    "dataset/Lincoln/Lincoln_004.jpg",
+    "dataset/Lincoln/Lincoln_064.jpg",
+    "dataset/Lincoln/Lincoln_051.jpg",
+    "dataset/Lincoln/Lincoln_032.jpg",
+    "dataset/Pontiac/Pontiac_089.jpg",
+    "dataset/Pontiac/Pontiac_076.jpg",
+    "dataset/Pontiac/Pontiac_003.jpg",
+    "dataset/Pontiac/Pontiac_032.jpg",
+    "dataset/Pontiac/Pontiac_044.jpg",
+    "dataset/Pontiac/Pontiac_093.jpg",
+    "dataset/Pontiac/Pontiac_051.jpg",
+    "dataset/Pontiac/Pontiac_068.jpg",
+    "dataset/Mini/Mini_026.jpg",
+    "dataset/Mini/Mini_075.jpg",
+    "dataset/Jeep/Jeep_082.jpg",
+    "dataset/Mazda/Mazda_029.jpg",
+    "dataset/MG/MG_010.jpg",
+    "dataset/Bentley/Bentley_051.jpg",
+    "dataset/Bentley/Bentley_004.jpg",
+    "dataset/Bentley/Bentley_017.jpg",
+    "dataset/Buick/Buick_063.jpg",
+    "dataset/Buick/Buick_002.jpg",
+    "dataset/Buick/Buick_010.jpg",
+    "dataset/Buick/Buick_007.jpg",
+    "dataset/Buick/Buick_091.jpg",
+    "dataset/Land Rover/Land Rover_025.jpg",
+    "dataset/Land Rover/Land Rover_021.jpg",
+    "dataset/Land Rover/Land Rover_017.jpg",
+    "dataset/Land Rover/Land Rover_064.jpg",
+    "dataset/Saab/Saab_009.jpg",
+    "dataset/Saab/Saab_092.jpg",
+    "dataset/Saab/Saab_050.jpg",
+    "dataset/Saab/Saab_055.jpg",
+    "dataset/Saab/Saab_067.jpg",
+    "dataset/Saab/Saab_062.jpg",
+    "dataset/Tesla/Tesla_086.jpg",
+    "dataset/Tesla/Tesla_026.jpg",
+    "dataset/Tesla/Tesla_007.jpg",
+    "dataset/Tesla/Tesla_010.jpg",
+    "dataset/Hyundai/Hyundai_025.jpg",
+    "dataset/Hyundai/Hyundai_069.jpg",
+    "dataset/Hyundai/Hyundai_084.jpg",
+    "dataset/Hyundai/Hyundai_052.jpg",
+    "dataset/Hyundai/Hyundai_063.jpg",
+    "dataset/Hyundai/Hyundai_006.jpg",
+    "dataset/Hyundai/Hyundai_007.jpg",
+    "dataset/Kia/Kia_002.jpg",
+    "dataset/Kia/Kia_000.jpg",
+    "dataset/Infiniti/Infiniti_012.jpg",
+    "dataset/Infiniti/Infiniti_068.jpg",
+    "dataset/Infiniti/Infiniti_018.jpg",
+    "dataset/Toyota/Toyota_074.jpg",
+    "dataset/Toyota/Toyota_086.jpg",
+    "dataset/Toyota/Toyota_020.jpg",
+    "dataset/Cadillac/Cadillac_073.jpg",
+    "dataset/Cadillac/Cadillac_077.jpg",
+    "dataset/Cadillac/Cadillac_005.jpg",
+    "dataset/Cadillac/Cadillac_000.jpg",
+    "dataset/Cadillac/Cadillac_001.jpg",
+    "dataset/Nissan/Nissan_004.jpg",
+    "dataset/Acura/Acura_016.jpg",
+    "dataset/Acura/Acura_083.jpg",
+    "dataset/Lexus/Lexus_059.jpg",
+    "dataset/Audi/Audi_020.jpg",
+    "dataset/Audi/Audi_058.jpg",
+    "dataset/Volvo/Volvo_014.jpg",
+    "dataset/Volvo/Volvo_062.jpg",
+    "dataset/Volvo/Volvo_070.jpg",
+    "dataset/Volvo/Volvo_052.jpg",
+    "dataset/Volvo/Volvo_036.jpg",
+    "dataset/Peugeot/Peugeot_026.jpg",
+    "dataset/Peugeot/Peugeot_051.jpg",
+    "dataset/Subaru/Subaru_008.jpg",
+    "dataset/Subaru/Subaru_004.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_056.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_088.jpg",
+    "dataset/Aston Martin/Aston Martin_083.jpg",
+    "dataset/Aston Martin/Aston Martin_017.jpg",
+    "dataset/Aston Martin/Aston Martin_072.jpg",
+    "dataset/Aston Martin/Aston Martin_049.jpg",
+    "dataset/Aston Martin/Aston Martin_061.jpg",
+    "dataset/Aston Martin/Aston Martin_075.jpg",
+    "dataset/Oldsmobile/Oldsmobile_008.jpg",
+    "dataset/Oldsmobile/Oldsmobile_077.jpg",
+    "dataset/Oldsmobile/Oldsmobile_011.jpg",
+    "dataset/Maserati/Maserati_063.jpg",
+    "dataset/Jaguar/Jaguar_037.jpg",
+    "dataset/Jaguar/Jaguar_021.jpg",
+    "dataset/Jaguar/Jaguar_081.jpg",
+    "dataset/Jaguar/Jaguar_085.jpg",
+    "dataset/Jaguar/Jaguar_044.jpg",
+    "dataset/Jaguar/Jaguar_010.jpg",
+    "dataset/Jaguar/Jaguar_006.jpg",
+    "dataset/BMW/BMW_027.jpg",
+    "dataset/BMW/BMW_006.jpg",
+    "dataset/Fiat/Fiat_086.jpg",
+    "dataset/Fiat/Fiat_066.jpg",
+    "dataset/Ram Trucks/Ram Trucks_052.jpg",
+    "dataset/Ram Trucks/Ram Trucks_042.jpg",
+    "dataset/Ram Trucks/Ram Trucks_021.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_085.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_043.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_032.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_020.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_037.jpg",
+    "dataset/Citroen/Citroen_076.jpg",
+    "dataset/Citroen/Citroen_064.jpg",
+    "dataset/Citroen/Citroen_050.jpg",
+    "dataset/Honda/Honda_068.jpg",
+    "dataset/Genesis/Genesis_043.jpg",
+    "dataset/Suzuki/Suzuki_004.jpg"
+  ],
+  "(120, 120, 130)": [
+    "dataset/Porsche/Porsche_030.jpg",
+    "dataset/Mitsubishi/Mitsubishi_065.jpg",
+    "dataset/GMC/GMC_024.jpg",
+    "dataset/GMC/GMC_055.jpg",
+    "dataset/GMC/GMC_050.jpg",
+    "dataset/Hudson/Hudson_038.jpg",
+    "dataset/Hudson/Hudson_011.jpg",
+    "dataset/Ferrari/Ferrari_004.jpg",
+    "dataset/Ferrari/Ferrari_097.jpg",
+    "dataset/Ford/Ford_000.jpg",
+    "dataset/Pontiac/Pontiac_073.jpg",
+    "dataset/Pontiac/Pontiac_049.jpg",
+    "dataset/Pontiac/Pontiac_015.jpg",
+    "dataset/Daewoo/Daewoo_081.jpg",
+    "dataset/Mini/Mini_054.jpg",
+    "dataset/Mini/Mini_014.jpg",
+    "dataset/Mini/Mini_077.jpg",
+    "dataset/Mini/Mini_060.jpg",
+    "dataset/Mini/Mini_061.jpg",
+    "dataset/Mazda/Mazda_064.jpg",
+    "dataset/Bentley/Bentley_074.jpg",
+    "dataset/Saab/Saab_074.jpg",
+    "dataset/Tesla/Tesla_034.jpg",
+    "dataset/Hyundai/Hyundai_074.jpg",
+    "dataset/Hyundai/Hyundai_017.jpg",
+    "dataset/Kia/Kia_030.jpg",
+    "dataset/Chevrolet/Chevrolet_030.jpg",
+    "dataset/Chevrolet/Chevrolet_003.jpg",
+    "dataset/Nissan/Nissan_038.jpg",
+    "dataset/Dodge/Dodge_033.jpg",
+    "dataset/Dodge/Dodge_055.jpg",
+    "dataset/Lexus/Lexus_075.jpg",
+    "dataset/Audi/Audi_022.jpg",
+    "dataset/Peugeot/Peugeot_020.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_046.jpg",
+    "dataset/Aston Martin/Aston Martin_084.jpg",
+    "dataset/Oldsmobile/Oldsmobile_035.jpg",
+    "dataset/Oldsmobile/Oldsmobile_083.jpg",
+    "dataset/Oldsmobile/Oldsmobile_094.jpg",
+    "dataset/Chrysler/Chrysler_037.jpg",
+    "dataset/Jaguar/Jaguar_008.jpg",
+    "dataset/Jaguar/Jaguar_064.jpg",
+    "dataset/Jaguar/Jaguar_038.jpg",
+    "dataset/Fiat/Fiat_057.jpg",
+    "dataset/Fiat/Fiat_034.jpg",
+    "dataset/Fiat/Fiat_067.jpg",
+    "dataset/Suzuki/Suzuki_060.jpg"
+  ],
+  "(120, 120, 140)": [
+    "dataset/Ferrari/Ferrari_036.jpg",
+    "dataset/Pontiac/Pontiac_045.jpg",
+    "dataset/Mazda/Mazda_004.jpg",
+    "dataset/Buick/Buick_038.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_083.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_054.jpg",
+    "dataset/Chrysler/Chrysler_051.jpg",
+    "dataset/Maserati/Maserati_028.jpg",
+    "dataset/Ram Trucks/Ram Trucks_059.jpg",
+    "dataset/Genesis/Genesis_069.jpg",
+    "dataset/Suzuki/Suzuki_076.jpg"
+  ],
+  "(120, 120, 150)": [
+    "dataset/Hudson/Hudson_005.jpg",
+    "dataset/Pontiac/Pontiac_085.jpg",
+    "dataset/MG/MG_074.jpg",
+    "dataset/Kia/Kia_075.jpg",
+    "dataset/Volvo/Volvo_040.jpg",
+    "dataset/Peugeot/Peugeot_062.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_017.jpg",
+    "dataset/Suzuki/Suzuki_037.jpg"
+  ],
+  "(120, 120, 160)": [
+    "dataset/MG/MG_035.jpg",
+    "dataset/Toyota/Toyota_007.jpg"
+  ],
+  "(120, 120, 180)": [
+    "dataset/Toyota/Toyota_032.jpg"
+  ],
+  "(120, 120, 90)": [
+    "dataset/MG/MG_109.jpg",
+    "dataset/Hyundai/Hyundai_089.jpg",
+    "dataset/Suzuki/Suzuki_036.jpg"
+  ],
+  "(120, 130, 110)": [
+    "dataset/Renault/Renault_062.jpg",
+    "dataset/Jaguar/Jaguar_001.jpg",
+    "dataset/Suzuki/Suzuki_070.jpg"
+  ],
+  "(120, 130, 120)": [
+    "dataset/Daewoo/Daewoo_016.jpg",
+    "dataset/Daewoo/Daewoo_004.jpg",
+    "dataset/Chrysler/Chrysler_032.jpg",
+    "dataset/Chrysler/Chrysler_011.jpg",
+    "dataset/Citroen/Citroen_066.jpg",
+    "dataset/Honda/Honda_035.jpg"
+  ],
+  "(120, 130, 130)": [
+    "dataset/Volkswagen/Volkswagen_083.jpg",
+    "dataset/Volkswagen/Volkswagen_022.jpg",
+    "dataset/Volkswagen/Volkswagen_030.jpg",
+    "dataset/Volkswagen/Volkswagen_073.jpg",
+    "dataset/Volkswagen/Volkswagen_071.jpg",
+    "dataset/Porsche/Porsche_073.jpg",
+    "dataset/Porsche/Porsche_056.jpg",
+    "dataset/Porsche/Porsche_018.jpg",
+    "dataset/Renault/Renault_053.jpg",
+    "dataset/Renault/Renault_049.jpg",
+    "dataset/Ferrari/Ferrari_048.jpg",
+    "dataset/Pontiac/Pontiac_031.jpg",
+    "dataset/Daewoo/Daewoo_037.jpg",
+    "dataset/Mini/Mini_081.jpg",
+    "dataset/Mini/Mini_033.jpg",
+    "dataset/Mini/Mini_016.jpg",
+    "dataset/Jeep/Jeep_040.jpg",
+    "dataset/MG/MG_017.jpg",
+    "dataset/MG/MG_083.jpg",
+    "dataset/MG/MG_044.jpg",
+    "dataset/MG/MG_090.jpg",
+    "dataset/Bentley/Bentley_046.jpg",
+    "dataset/Bentley/Bentley_030.jpg",
+    "dataset/Bentley/Bentley_058.jpg",
+    "dataset/Buick/Buick_073.jpg",
+    "dataset/Land Rover/Land Rover_015.jpg",
+    "dataset/Saab/Saab_034.jpg",
+    "dataset/Saab/Saab_012.jpg",
+    "dataset/Kia/Kia_009.jpg",
+    "dataset/Kia/Kia_006.jpg",
+    "dataset/Kia/Kia_058.jpg",
+    "dataset/Chevrolet/Chevrolet_059.jpg",
+    "dataset/Toyota/Toyota_084.jpg",
+    "dataset/Toyota/Toyota_085.jpg",
+    "dataset/Toyota/Toyota_052.jpg",
+    "dataset/Cadillac/Cadillac_033.jpg",
+    "dataset/Cadillac/Cadillac_042.jpg",
+    "dataset/Cadillac/Cadillac_080.jpg",
+    "dataset/Lexus/Lexus_023.jpg",
+    "dataset/Peugeot/Peugeot_036.jpg",
+    "dataset/Subaru/Subaru_045.jpg",
+    "dataset/Subaru/Subaru_023.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_086.jpg",
+    "dataset/Oldsmobile/Oldsmobile_020.jpg",
+    "dataset/Oldsmobile/Oldsmobile_045.jpg",
+    "dataset/Oldsmobile/Oldsmobile_040.jpg",
+    "dataset/Chrysler/Chrysler_031.jpg",
+    "dataset/Chrysler/Chrysler_020.jpg",
+    "dataset/Chrysler/Chrysler_087.jpg",
+    "dataset/Jaguar/Jaguar_086.jpg",
+    "dataset/BMW/BMW_056.jpg",
+    "dataset/BMW/BMW_083.jpg",
+    "dataset/BMW/BMW_034.jpg",
+    "dataset/BMW/BMW_012.jpg",
+    "dataset/Citroen/Citroen_013.jpg",
+    "dataset/Citroen/Citroen_069.jpg",
+    "dataset/Genesis/Genesis_011.jpg",
+    "dataset/Suzuki/Suzuki_044.jpg"
+  ],
+  "(120, 130, 140)": [
+    "dataset/Volkswagen/Volkswagen_040.jpg",
+    "dataset/Volkswagen/Volkswagen_074.jpg",
+    "dataset/Mitsubishi/Mitsubishi_056.jpg",
+    "dataset/Hudson/Hudson_004.jpg",
+    "dataset/Ferrari/Ferrari_064.jpg",
+    "dataset/Mini/Mini_085.jpg",
+    "dataset/Bentley/Bentley_064.jpg",
+    "dataset/Cadillac/Cadillac_056.jpg",
+    "dataset/Cadillac/Cadillac_071.jpg",
+    "dataset/Nissan/Nissan_084.jpg",
+    "dataset/Dodge/Dodge_037.jpg",
+    "dataset/Dodge/Dodge_069.jpg",
+    "dataset/Acura/Acura_057.jpg",
+    "dataset/Acura/Acura_043.jpg",
+    "dataset/Volvo/Volvo_053.jpg",
+    "dataset/Oldsmobile/Oldsmobile_016.jpg",
+    "dataset/Citroen/Citroen_035.jpg",
+    "dataset/Suzuki/Suzuki_065.jpg"
+  ],
+  "(120, 130, 150)": [
+    "dataset/Ferrari/Ferrari_027.jpg",
+    "dataset/MG/MG_088.jpg",
+    "dataset/Bentley/Bentley_062.jpg",
+    "dataset/Lexus/Lexus_040.jpg"
+  ],
+  "(120, 130, 160)": [
+    "dataset/Hudson/Hudson_006.jpg",
+    "dataset/MG/MG_054.jpg"
+  ],
+  "(120, 130, 180)": [
+    "dataset/Hudson/Hudson_059.jpg"
+  ],
+  "(120, 140, 120)": [
+    "dataset/Aston Martin/Aston Martin_068.jpg"
+  ],
+  "(120, 140, 130)": [
+    "dataset/Lincoln/Lincoln_058.jpg",
+    "dataset/Fiat/Fiat_035.jpg"
+  ],
+  "(120, 140, 140)": [
+    "dataset/Studebaker/Studebaker_088.jpg",
+    "dataset/Renault/Renault_078.jpg",
+    "dataset/Daewoo/Daewoo_058.jpg",
+    "dataset/Chevrolet/Chevrolet_002.jpg",
+    "dataset/Nissan/Nissan_033.jpg",
+    "dataset/Subaru/Subaru_048.jpg",
+    "dataset/Chrysler/Chrysler_048.jpg",
+    "dataset/Suzuki/Suzuki_003.jpg",
+    "dataset/Suzuki/Suzuki_056.jpg"
+  ],
+  "(120, 140, 150)": [
+    "dataset/Daewoo/Daewoo_035.jpg",
+    "dataset/MG/MG_029.jpg",
+    "dataset/Land Rover/Land Rover_014.jpg",
+    "dataset/Oldsmobile/Oldsmobile_021.jpg",
+    "dataset/Fiat/Fiat_074.jpg",
+    "dataset/Genesis/Genesis_003.jpg"
+  ],
+  "(120, 140, 160)": [
+    "dataset/Porsche/Porsche_034.jpg",
+    "dataset/Tesla/Tesla_020.jpg",
+    "dataset/Oldsmobile/Oldsmobile_101.jpg"
+  ],
+  "(120, 140, 170)": [
+    "dataset/Hudson/Hudson_047.jpg",
+    "dataset/Jaguar/Jaguar_036.jpg",
+    "dataset/Jaguar/Jaguar_061.jpg",
+    "dataset/Citroen/Citroen_004.jpg"
+  ],
+  "(120, 140, 180)": [
+    "dataset/GMC/GMC_072.jpg"
+  ],
+  "(120, 150, 170)": [
+    "dataset/Lincoln/Lincoln_027.jpg"
+  ],
+  "(120, 150, 180)": [
+    "dataset/Hudson/Hudson_052.jpg"
+  ],
+  "(120, 160, 130)": [
+    "dataset/Volvo/Volvo_057.jpg"
+  ],
+  "(120, 160, 140)": [
+    "dataset/Subaru/Subaru_062.jpg"
+  ],
+  "(120, 70, 30)": [
+    "dataset/Hudson/Hudson_010.jpg"
+  ],
+  "(120, 80, 60)": [
+    "dataset/Lexus/Lexus_001.jpg"
+  ],
+  "(120, 80, 70)": [
+    "dataset/Jaguar/Jaguar_074.jpg"
+  ],
+  "(120, 90, 80)": [
+    "dataset/Bugatti/Bugatti_040.jpg"
+  ],
+  "(130, 100, 80)": [
+    "dataset/Tesla/Tesla_089.jpg",
+    "dataset/Nissan/Nissan_059.jpg"
+  ],
+  "(130, 110, 100)": [
+    "dataset/Bentley/Bentley_082.jpg",
+    "dataset/Land Rover/Land Rover_074.jpg",
+    "dataset/Chevrolet/Chevrolet_009.jpg",
+    "dataset/Chevrolet/Chevrolet_083.jpg",
+    "dataset/Nissan/Nissan_056.jpg",
+    "dataset/Peugeot/Peugeot_046.jpg",
+    "dataset/Ram Trucks/Ram Trucks_036.jpg"
+  ],
+  "(130, 110, 110)": [
+    "dataset/Infiniti/Infiniti_047.jpg",
+    "dataset/Peugeot/Peugeot_059.jpg",
+    "dataset/BMW/BMW_074.jpg"
+  ],
+  "(130, 110, 120)": [
+    "dataset/Buick/Buick_067.jpg"
+  ],
+  "(130, 110, 90)": [
+    "dataset/Ferrari/Ferrari_070.jpg",
+    "dataset/Ford/Ford_043.jpg",
+    "dataset/Ford/Ford_052.jpg",
+    "dataset/Jeep/Jeep_085.jpg",
+    "dataset/Land Rover/Land Rover_031.jpg",
+    "dataset/Infiniti/Infiniti_004.jpg"
+  ],
+  "(130, 120, 100)": [
+    "dataset/Studebaker/Studebaker_050.jpg",
+    "dataset/Ford/Ford_055.jpg",
+    "dataset/MG/MG_000.jpg",
+    "dataset/Saab/Saab_040.jpg",
+    "dataset/Audi/Audi_047.jpg",
+    "dataset/Peugeot/Peugeot_025.jpg",
+    "dataset/Subaru/Subaru_011.jpg",
+    "dataset/Fiat/Fiat_068.jpg"
+  ],
+  "(130, 120, 110)": [
+    "dataset/Porsche/Porsche_003.jpg",
+    "dataset/Mitsubishi/Mitsubishi_012.jpg",
+    "dataset/Renault/Renault_081.jpg",
+    "dataset/Renault/Renault_000.jpg",
+    "dataset/GMC/GMC_064.jpg",
+    "dataset/GMC/GMC_002.jpg",
+    "dataset/Ford/Ford_011.jpg",
+    "dataset/Ford/Ford_030.jpg",
+    "dataset/Lincoln/Lincoln_001.jpg",
+    "dataset/Pontiac/Pontiac_039.jpg",
+    "dataset/Mini/Mini_082.jpg",
+    "dataset/MG/MG_026.jpg",
+    "dataset/Bentley/Bentley_089.jpg",
+    "dataset/Buick/Buick_084.jpg",
+    "dataset/Land Rover/Land Rover_039.jpg",
+    "dataset/Saab/Saab_052.jpg",
+    "dataset/Tesla/Tesla_015.jpg",
+    "dataset/Hyundai/Hyundai_045.jpg",
+    "dataset/Hyundai/Hyundai_028.jpg",
+    "dataset/Kia/Kia_059.jpg",
+    "dataset/Infiniti/Infiniti_000.jpg",
+    "dataset/Infiniti/Infiniti_086.jpg",
+    "dataset/Dodge/Dodge_036.jpg",
+    "dataset/Dodge/Dodge_017.jpg",
+    "dataset/Acura/Acura_020.jpg",
+    "dataset/Volvo/Volvo_081.jpg",
+    "dataset/Volvo/Volvo_051.jpg",
+    "dataset/Subaru/Subaru_028.jpg",
+    "dataset/Subaru/Subaru_039.jpg",
+    "dataset/Subaru/Subaru_063.jpg",
+    "dataset/Aston Martin/Aston Martin_005.jpg",
+    "dataset/Oldsmobile/Oldsmobile_003.jpg",
+    "dataset/Chrysler/Chrysler_025.jpg",
+    "dataset/Chrysler/Chrysler_063.jpg",
+    "dataset/Chrysler/Chrysler_039.jpg",
+    "dataset/Chrysler/Chrysler_001.jpg",
+    "dataset/Jaguar/Jaguar_094.jpg",
+    "dataset/Fiat/Fiat_079.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_036.jpg",
+    "dataset/Honda/Honda_083.jpg",
+    "dataset/Genesis/Genesis_046.jpg"
+  ],
+  "(130, 120, 120)": [
+    "dataset/Mitsubishi/Mitsubishi_011.jpg",
+    "dataset/GMC/GMC_048.jpg",
+    "dataset/GMC/GMC_000.jpg",
+    "dataset/GMC/GMC_033.jpg",
+    "dataset/GMC/GMC_041.jpg",
+    "dataset/Ford/Ford_065.jpg",
+    "dataset/Ford/Ford_086.jpg",
+    "dataset/Lincoln/Lincoln_061.jpg",
+    "dataset/Lincoln/Lincoln_046.jpg",
+    "dataset/Pontiac/Pontiac_012.jpg",
+    "dataset/Daewoo/Daewoo_060.jpg",
+    "dataset/Jeep/Jeep_051.jpg",
+    "dataset/Mazda/Mazda_072.jpg",
+    "dataset/MG/MG_008.jpg",
+    "dataset/Bentley/Bentley_069.jpg",
+    "dataset/Land Rover/Land Rover_023.jpg",
+    "dataset/Saab/Saab_065.jpg",
+    "dataset/Saab/Saab_010.jpg",
+    "dataset/Chevrolet/Chevrolet_084.jpg",
+    "dataset/Infiniti/Infiniti_003.jpg",
+    "dataset/Cadillac/Cadillac_021.jpg",
+    "dataset/Cadillac/Cadillac_074.jpg",
+    "dataset/Nissan/Nissan_030.jpg",
+    "dataset/Nissan/Nissan_005.jpg",
+    "dataset/Acura/Acura_050.jpg",
+    "dataset/Audi/Audi_014.jpg",
+    "dataset/Volvo/Volvo_002.jpg",
+    "dataset/Volvo/Volvo_015.jpg",
+    "dataset/Volvo/Volvo_082.jpg",
+    "dataset/Volvo/Volvo_080.jpg",
+    "dataset/Peugeot/Peugeot_024.jpg",
+    "dataset/Peugeot/Peugeot_042.jpg",
+    "dataset/Subaru/Subaru_069.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_074.jpg",
+    "dataset/Oldsmobile/Oldsmobile_057.jpg",
+    "dataset/Maserati/Maserati_017.jpg",
+    "dataset/Maserati/Maserati_049.jpg",
+    "dataset/Maserati/Maserati_020.jpg",
+    "dataset/Jaguar/Jaguar_003.jpg",
+    "dataset/BMW/BMW_072.jpg",
+    "dataset/Fiat/Fiat_016.jpg",
+    "dataset/Ram Trucks/Ram Trucks_015.jpg",
+    "dataset/Citroen/Citroen_001.jpg",
+    "dataset/Suzuki/Suzuki_049.jpg"
+  ],
+  "(130, 120, 130)": [
+    "dataset/Porsche/Porsche_004.jpg",
+    "dataset/Porsche/Porsche_055.jpg",
+    "dataset/Bugatti/Bugatti_029.jpg",
+    "dataset/Ferrari/Ferrari_077.jpg",
+    "dataset/Ferrari/Ferrari_040.jpg",
+    "dataset/Ford/Ford_015.jpg",
+    "dataset/Infiniti/Infiniti_035.jpg",
+    "dataset/Infiniti/Infiniti_023.jpg",
+    "dataset/Dodge/Dodge_039.jpg",
+    "dataset/Audi/Audi_010.jpg",
+    "dataset/Ram Trucks/Ram Trucks_020.jpg",
+    "dataset/Honda/Honda_073.jpg",
+    "dataset/Suzuki/Suzuki_034.jpg"
+  ],
+  "(130, 120, 140)": [
+    "dataset/Hudson/Hudson_036.jpg",
+    "dataset/Pontiac/Pontiac_007.jpg",
+    "dataset/Mazda/Mazda_038.jpg",
+    "dataset/Saab/Saab_005.jpg",
+    "dataset/Kia/Kia_082.jpg",
+    "dataset/Aston Martin/Aston Martin_004.jpg",
+    "dataset/Suzuki/Suzuki_010.jpg"
+  ],
+  "(130, 120, 150)": [
+    "dataset/Toyota/Toyota_079.jpg"
+  ],
+  "(130, 120, 160)": [
+    "dataset/Porsche/Porsche_009.jpg"
+  ],
+  "(130, 120, 90)": [
+    "dataset/Volkswagen/Volkswagen_068.jpg",
+    "dataset/Volkswagen/Volkswagen_028.jpg",
+    "dataset/Ford/Ford_021.jpg",
+    "dataset/Lexus/Lexus_015.jpg",
+    "dataset/Oldsmobile/Oldsmobile_038.jpg",
+    "dataset/Jaguar/Jaguar_045.jpg"
+  ],
+  "(130, 130, 100)": [
+    "dataset/Tesla/Tesla_011.jpg",
+    "dataset/Dodge/Dodge_054.jpg",
+    "dataset/Dodge/Dodge_046.jpg"
+  ],
+  "(130, 130, 110)": [
+    "dataset/Porsche/Porsche_088.jpg",
+    "dataset/Ford/Ford_018.jpg",
+    "dataset/Jeep/Jeep_042.jpg",
+    "dataset/Tesla/Tesla_054.jpg",
+    "dataset/Hyundai/Hyundai_061.jpg",
+    "dataset/Kia/Kia_065.jpg",
+    "dataset/Audi/Audi_066.jpg",
+    "dataset/Oldsmobile/Oldsmobile_049.jpg",
+    "dataset/BMW/BMW_032.jpg"
+  ],
+  "(130, 130, 120)": [
+    "dataset/Porsche/Porsche_081.jpg",
+    "dataset/Porsche/Porsche_021.jpg",
+    "dataset/Studebaker/Studebaker_065.jpg",
+    "dataset/Studebaker/Studebaker_018.jpg",
+    "dataset/Renault/Renault_073.jpg",
+    "dataset/GMC/GMC_090.jpg",
+    "dataset/Ford/Ford_005.jpg",
+    "dataset/Ford/Ford_084.jpg",
+    "dataset/Ford/Ford_019.jpg",
+    "dataset/Lincoln/Lincoln_041.jpg",
+    "dataset/Lincoln/Lincoln_083.jpg",
+    "dataset/Pontiac/Pontiac_017.jpg",
+    "dataset/Pontiac/Pontiac_035.jpg",
+    "dataset/Pontiac/Pontiac_056.jpg",
+    "dataset/Daewoo/Daewoo_012.jpg",
+    "dataset/Jeep/Jeep_023.jpg",
+    "dataset/Mazda/Mazda_071.jpg",
+    "dataset/MG/MG_091.jpg",
+    "dataset/Bentley/Bentley_049.jpg",
+    "dataset/Saab/Saab_013.jpg",
+    "dataset/Tesla/Tesla_082.jpg",
+    "dataset/Infiniti/Infiniti_016.jpg",
+    "dataset/Cadillac/Cadillac_041.jpg",
+    "dataset/Dodge/Dodge_031.jpg",
+    "dataset/Acura/Acura_065.jpg",
+    "dataset/Acura/Acura_073.jpg",
+    "dataset/Lexus/Lexus_078.jpg",
+    "dataset/Audi/Audi_032.jpg",
+    "dataset/Volvo/Volvo_011.jpg",
+    "dataset/Subaru/Subaru_079.jpg",
+    "dataset/Aston Martin/Aston Martin_076.jpg",
+    "dataset/Maserati/Maserati_004.jpg",
+    "dataset/Maserati/Maserati_062.jpg",
+    "dataset/BMW/BMW_057.jpg",
+    "dataset/BMW/BMW_026.jpg",
+    "dataset/Fiat/Fiat_070.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_054.jpg",
+    "dataset/Citroen/Citroen_074.jpg",
+    "dataset/Citroen/Citroen_084.jpg"
+  ],
+  "(130, 130, 130)": [
+    "dataset/Volkswagen/Volkswagen_051.jpg",
+    "dataset/Studebaker/Studebaker_076.jpg",
+    "dataset/Bugatti/Bugatti_026.jpg",
+    "dataset/Bugatti/Bugatti_023.jpg",
+    "dataset/Bugatti/Bugatti_042.jpg",
+    "dataset/Bugatti/Bugatti_088.jpg",
+    "dataset/Mitsubishi/Mitsubishi_037.jpg",
+    "dataset/Renault/Renault_042.jpg",
+    "dataset/Renault/Renault_017.jpg",
+    "dataset/GMC/GMC_005.jpg",
+    "dataset/GMC/GMC_010.jpg",
+    "dataset/GMC/GMC_053.jpg",
+    "dataset/Ferrari/Ferrari_026.jpg",
+    "dataset/Ferrari/Ferrari_041.jpg",
+    "dataset/Ford/Ford_016.jpg",
+    "dataset/Lincoln/Lincoln_029.jpg",
+    "dataset/Lincoln/Lincoln_072.jpg",
+    "dataset/Lincoln/Lincoln_044.jpg",
+    "dataset/Pontiac/Pontiac_071.jpg",
+    "dataset/Pontiac/Pontiac_004.jpg",
+    "dataset/Pontiac/Pontiac_030.jpg",
+    "dataset/Daewoo/Daewoo_011.jpg",
+    "dataset/Daewoo/Daewoo_092.jpg",
+    "dataset/Mini/Mini_040.jpg",
+    "dataset/Mini/Mini_073.jpg",
+    "dataset/Jeep/Jeep_049.jpg",
+    "dataset/Jeep/Jeep_077.jpg",
+    "dataset/Jeep/Jeep_024.jpg",
+    "dataset/Jeep/Jeep_030.jpg",
+    "dataset/Jeep/Jeep_033.jpg",
+    "dataset/Jeep/Jeep_078.jpg",
+    "dataset/Jeep/Jeep_056.jpg",
+    "dataset/Jeep/Jeep_081.jpg",
+    "dataset/MG/MG_067.jpg",
+    "dataset/Bentley/Bentley_047.jpg",
+    "dataset/Bentley/Bentley_025.jpg",
+    "dataset/Bentley/Bentley_001.jpg",
+    "dataset/Buick/Buick_024.jpg",
+    "dataset/Buick/Buick_068.jpg",
+    "dataset/Buick/Buick_080.jpg",
+    "dataset/Buick/Buick_053.jpg",
+    "dataset/Buick/Buick_044.jpg",
+    "dataset/Land Rover/Land Rover_037.jpg",
+    "dataset/Land Rover/Land Rover_011.jpg",
+    "dataset/Land Rover/Land Rover_058.jpg",
+    "dataset/Saab/Saab_071.jpg",
+    "dataset/Saab/Saab_059.jpg",
+    "dataset/Saab/Saab_011.jpg",
+    "dataset/Saab/Saab_014.jpg",
+    "dataset/Hyundai/Hyundai_082.jpg",
+    "dataset/Hyundai/Hyundai_083.jpg",
+    "dataset/Hyundai/Hyundai_060.jpg",
+    "dataset/Kia/Kia_043.jpg",
+    "dataset/Kia/Kia_001.jpg",
+    "dataset/Kia/Kia_029.jpg",
+    "dataset/Kia/Kia_073.jpg",
+    "dataset/Chevrolet/Chevrolet_075.jpg",
+    "dataset/Infiniti/Infiniti_074.jpg",
+    "dataset/Infiniti/Infiniti_052.jpg",
+    "dataset/Infiniti/Infiniti_083.jpg",
+    "dataset/Toyota/Toyota_077.jpg",
+    "dataset/Cadillac/Cadillac_054.jpg",
+    "dataset/Cadillac/Cadillac_016.jpg",
+    "dataset/Nissan/Nissan_019.jpg",
+    "dataset/Nissan/Nissan_044.jpg",
+    "dataset/Nissan/Nissan_070.jpg",
+    "dataset/Dodge/Dodge_026.jpg",
+    "dataset/Dodge/Dodge_024.jpg",
+    "dataset/Dodge/Dodge_075.jpg",
+    "dataset/Acura/Acura_063.jpg",
+    "dataset/Lexus/Lexus_066.jpg",
+    "dataset/Audi/Audi_039.jpg",
+    "dataset/Volvo/Volvo_067.jpg",
+    "dataset/Volvo/Volvo_058.jpg",
+    "dataset/Volvo/Volvo_026.jpg",
+    "dataset/Peugeot/Peugeot_004.jpg",
+    "dataset/Peugeot/Peugeot_082.jpg",
+    "dataset/Peugeot/Peugeot_069.jpg",
+    "dataset/Subaru/Subaru_029.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_051.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_001.jpg",
+    "dataset/Aston Martin/Aston Martin_052.jpg",
+    "dataset/Aston Martin/Aston Martin_066.jpg",
+    "dataset/Oldsmobile/Oldsmobile_092.jpg",
+    "dataset/Oldsmobile/Oldsmobile_072.jpg",
+    "dataset/Maserati/Maserati_058.jpg",
+    "dataset/BMW/BMW_033.jpg",
+    "dataset/BMW/BMW_025.jpg",
+    "dataset/Fiat/Fiat_080.jpg",
+    "dataset/Fiat/Fiat_045.jpg",
+    "dataset/Fiat/Fiat_012.jpg",
+    "dataset/Fiat/Fiat_075.jpg",
+    "dataset/Ram Trucks/Ram Trucks_007.jpg",
+    "dataset/Ram Trucks/Ram Trucks_014.jpg",
+    "dataset/Ram Trucks/Ram Trucks_058.jpg",
+    "dataset/Ram Trucks/Ram Trucks_066.jpg",
+    "dataset/Ram Trucks/Ram Trucks_055.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_024.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_017.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_076.jpg",
+    "dataset/Citroen/Citroen_073.jpg",
+    "dataset/Citroen/Citroen_057.jpg",
+    "dataset/Citroen/Citroen_086.jpg",
+    "dataset/Genesis/Genesis_077.jpg",
+    "dataset/Genesis/Genesis_041.jpg",
+    "dataset/Suzuki/Suzuki_017.jpg",
+    "dataset/Suzuki/Suzuki_022.jpg",
+    "dataset/Suzuki/Suzuki_045.jpg"
+  ],
+  "(130, 130, 140)": [
+    "dataset/Volkswagen/Volkswagen_072.jpg",
+    "dataset/Studebaker/Studebaker_015.jpg",
+    "dataset/Studebaker/Studebaker_066.jpg",
+    "dataset/Studebaker/Studebaker_085.jpg",
+    "dataset/Mitsubishi/Mitsubishi_081.jpg",
+    "dataset/Hudson/Hudson_087.jpg",
+    "dataset/Pontiac/Pontiac_018.jpg",
+    "dataset/Pontiac/Pontiac_091.jpg",
+    "dataset/Daewoo/Daewoo_062.jpg",
+    "dataset/Daewoo/Daewoo_056.jpg",
+    "dataset/Daewoo/Daewoo_047.jpg",
+    "dataset/Mini/Mini_078.jpg",
+    "dataset/Mazda/Mazda_060.jpg",
+    "dataset/Mazda/Mazda_014.jpg",
+    "dataset/Mazda/Mazda_043.jpg",
+    "dataset/MG/MG_025.jpg",
+    "dataset/MG/MG_055.jpg",
+    "dataset/Bentley/Bentley_052.jpg",
+    "dataset/Land Rover/Land Rover_002.jpg",
+    "dataset/Saab/Saab_002.jpg",
+    "dataset/Hyundai/Hyundai_068.jpg",
+    "dataset/Infiniti/Infiniti_073.jpg",
+    "dataset/Toyota/Toyota_054.jpg",
+    "dataset/Cadillac/Cadillac_051.jpg",
+    "dataset/Audi/Audi_057.jpg",
+    "dataset/Volvo/Volvo_041.jpg",
+    "dataset/Subaru/Subaru_024.jpg",
+    "dataset/Subaru/Subaru_010.jpg",
+    "dataset/Aston Martin/Aston Martin_058.jpg",
+    "dataset/Aston Martin/Aston Martin_077.jpg",
+    "dataset/Oldsmobile/Oldsmobile_055.jpg",
+    "dataset/Fiat/Fiat_087.jpg",
+    "dataset/Ram Trucks/Ram Trucks_049.jpg",
+    "dataset/Ram Trucks/Ram Trucks_019.jpg",
+    "dataset/Citroen/Citroen_009.jpg",
+    "dataset/Genesis/Genesis_020.jpg"
+  ],
+  "(130, 130, 150)": [
+    "dataset/Porsche/Porsche_069.jpg",
+    "dataset/Porsche/Porsche_020.jpg",
+    "dataset/Mitsubishi/Mitsubishi_015.jpg",
+    "dataset/Ferrari/Ferrari_011.jpg",
+    "dataset/Ferrari/Ferrari_013.jpg",
+    "dataset/Ferrari/Ferrari_003.jpg",
+    "dataset/Ford/Ford_034.jpg",
+    "dataset/Lincoln/Lincoln_082.jpg",
+    "dataset/Jeep/Jeep_008.jpg",
+    "dataset/Chevrolet/Chevrolet_025.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_015.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_010.jpg",
+    "dataset/Ram Trucks/Ram Trucks_011.jpg",
+    "dataset/Ram Trucks/Ram Trucks_045.jpg",
+    "dataset/Honda/Honda_053.jpg"
+  ],
+  "(130, 130, 160)": [
+    "dataset/Studebaker/Studebaker_019.jpg",
+    "dataset/MG/MG_056.jpg",
+    "dataset/Buick/Buick_026.jpg",
+    "dataset/Infiniti/Infiniti_007.jpg",
+    "dataset/Infiniti/Infiniti_042.jpg",
+    "dataset/Cadillac/Cadillac_081.jpg"
+  ],
+  "(130, 140, 130)": [
+    "dataset/Ford/Ford_069.jpg",
+    "dataset/Lincoln/Lincoln_020.jpg",
+    "dataset/Pontiac/Pontiac_010.jpg",
+    "dataset/Daewoo/Daewoo_027.jpg",
+    "dataset/MG/MG_002.jpg",
+    "dataset/Infiniti/Infiniti_088.jpg",
+    "dataset/Dodge/Dodge_029.jpg",
+    "dataset/Peugeot/Peugeot_021.jpg",
+    "dataset/Chrysler/Chrysler_074.jpg",
+    "dataset/Genesis/Genesis_090.jpg"
+  ],
+  "(130, 140, 140)": [
+    "dataset/Porsche/Porsche_051.jpg",
+    "dataset/Studebaker/Studebaker_089.jpg",
+    "dataset/Bugatti/Bugatti_087.jpg",
+    "dataset/Mitsubishi/Mitsubishi_085.jpg",
+    "dataset/Mitsubishi/Mitsubishi_045.jpg",
+    "dataset/GMC/GMC_073.jpg",
+    "dataset/Lincoln/Lincoln_009.jpg",
+    "dataset/Pontiac/Pontiac_070.jpg",
+    "dataset/Pontiac/Pontiac_022.jpg",
+    "dataset/Daewoo/Daewoo_026.jpg",
+    "dataset/Mazda/Mazda_089.jpg",
+    "dataset/MG/MG_110.jpg",
+    "dataset/Bentley/Bentley_085.jpg",
+    "dataset/Bentley/Bentley_005.jpg",
+    "dataset/Tesla/Tesla_028.jpg",
+    "dataset/Kia/Kia_078.jpg",
+    "dataset/Infiniti/Infiniti_064.jpg",
+    "dataset/Infiniti/Infiniti_089.jpg",
+    "dataset/Toyota/Toyota_067.jpg",
+    "dataset/Dodge/Dodge_073.jpg",
+    "dataset/Lexus/Lexus_010.jpg",
+    "dataset/Chrysler/Chrysler_066.jpg",
+    "dataset/Chrysler/Chrysler_013.jpg",
+    "dataset/BMW/BMW_024.jpg",
+    "dataset/Fiat/Fiat_056.jpg",
+    "dataset/Fiat/Fiat_064.jpg",
+    "dataset/Ram Trucks/Ram Trucks_006.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_006.jpg",
+    "dataset/Honda/Honda_012.jpg",
+    "dataset/Genesis/Genesis_074.jpg",
+    "dataset/Genesis/Genesis_066.jpg",
+    "dataset/Genesis/Genesis_030.jpg",
+    "dataset/Suzuki/Suzuki_089.jpg"
+  ],
+  "(130, 140, 150)": [
+    "dataset/Bugatti/Bugatti_017.jpg",
+    "dataset/Mitsubishi/Mitsubishi_002.jpg",
+    "dataset/Hudson/Hudson_091.jpg",
+    "dataset/Hudson/Hudson_057.jpg",
+    "dataset/Ferrari/Ferrari_015.jpg",
+    "dataset/Lincoln/Lincoln_033.jpg",
+    "dataset/Pontiac/Pontiac_025.jpg",
+    "dataset/Jeep/Jeep_021.jpg",
+    "dataset/Buick/Buick_069.jpg",
+    "dataset/Hyundai/Hyundai_014.jpg",
+    "dataset/Kia/Kia_046.jpg",
+    "dataset/Infiniti/Infiniti_031.jpg",
+    "dataset/Toyota/Toyota_047.jpg",
+    "dataset/Cadillac/Cadillac_068.jpg",
+    "dataset/Nissan/Nissan_039.jpg",
+    "dataset/Dodge/Dodge_067.jpg",
+    "dataset/Dodge/Dodge_002.jpg",
+    "dataset/Fiat/Fiat_030.jpg",
+    "dataset/Ram Trucks/Ram Trucks_068.jpg",
+    "dataset/Citroen/Citroen_011.jpg"
+  ],
+  "(130, 140, 160)": [
+    "dataset/Pontiac/Pontiac_078.jpg",
+    "dataset/Mazda/Mazda_088.jpg"
+  ],
+  "(130, 140, 170)": [
+    "dataset/Dodge/Dodge_042.jpg"
+  ],
+  "(130, 140, 180)": [
+    "dataset/Dodge/Dodge_038.jpg"
+  ],
+  "(130, 150, 140)": [
+    "dataset/Kia/Kia_057.jpg",
+    "dataset/Cadillac/Cadillac_011.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_005.jpg"
+  ],
+  "(130, 150, 150)": [
+    "dataset/Studebaker/Studebaker_040.jpg",
+    "dataset/Ferrari/Ferrari_010.jpg",
+    "dataset/Cadillac/Cadillac_049.jpg",
+    "dataset/Lexus/Lexus_064.jpg",
+    "dataset/Subaru/Subaru_035.jpg"
+  ],
+  "(130, 150, 160)": [
+    "dataset/Buick/Buick_078.jpg"
+  ],
+  "(130, 150, 170)": [
+    "dataset/Buick/Buick_036.jpg",
+    "dataset/Aston Martin/Aston Martin_031.jpg"
+  ],
+  "(130, 160, 190)": [
+    "dataset/Land Rover/Land Rover_051.jpg",
+    "dataset/Genesis/Genesis_096.jpg"
+  ],
+  "(130, 170, 200)": [
+    "dataset/Jaguar/Jaguar_092.jpg"
+  ],
+  "(130, 90, 100)": [
+    "dataset/Daewoo/Daewoo_001.jpg"
+  ],
+  "(130, 90, 110)": [
+    "dataset/Tesla/Tesla_083.jpg"
+  ],
+  "(140, 110, 130)": [
+    "dataset/Bentley/Bentley_086.jpg"
+  ],
+  "(140, 110, 70)": [
+    "dataset/Hyundai/Hyundai_013.jpg"
+  ],
+  "(140, 110, 80)": [
+    "dataset/Cadillac/Cadillac_069.jpg"
+  ],
+  "(140, 120, 100)": [
+    "dataset/MG/MG_113.jpg"
+  ],
+  "(140, 120, 110)": [
+    "dataset/Volkswagen/Volkswagen_003.jpg",
+    "dataset/Bugatti/Bugatti_079.jpg",
+    "dataset/MG/MG_004.jpg",
+    "dataset/MG/MG_038.jpg",
+    "dataset/MG/MG_050.jpg",
+    "dataset/Bentley/Bentley_043.jpg",
+    "dataset/Saab/Saab_032.jpg",
+    "dataset/Saab/Saab_042.jpg",
+    "dataset/Infiniti/Infiniti_025.jpg",
+    "dataset/Oldsmobile/Oldsmobile_043.jpg",
+    "dataset/Maserati/Maserati_014.jpg",
+    "dataset/Maserati/Maserati_011.jpg",
+    "dataset/Jaguar/Jaguar_007.jpg",
+    "dataset/Suzuki/Suzuki_039.jpg"
+  ],
+  "(140, 120, 120)": [
+    "dataset/Volkswagen/Volkswagen_029.jpg",
+    "dataset/Hudson/Hudson_022.jpg",
+    "dataset/Lincoln/Lincoln_067.jpg",
+    "dataset/Land Rover/Land Rover_050.jpg",
+    "dataset/Volvo/Volvo_045.jpg",
+    "dataset/Maserati/Maserati_053.jpg"
+  ],
+  "(140, 120, 130)": [
+    "dataset/Studebaker/Studebaker_022.jpg",
+    "dataset/Dodge/Dodge_047.jpg"
+  ],
+  "(140, 130, 100)": [
+    "dataset/Oldsmobile/Oldsmobile_058.jpg"
+  ],
+  "(140, 130, 110)": [
+    "dataset/Renault/Renault_063.jpg",
+    "dataset/Buick/Buick_048.jpg",
+    "dataset/Saab/Saab_004.jpg"
+  ],
+  "(140, 130, 120)": [
+    "dataset/Mitsubishi/Mitsubishi_024.jpg",
+    "dataset/Mitsubishi/Mitsubishi_048.jpg",
+    "dataset/Renault/Renault_018.jpg",
+    "dataset/Renault/Renault_006.jpg",
+    "dataset/Ford/Ford_066.jpg",
+    "dataset/Daewoo/Daewoo_009.jpg",
+    "dataset/Jeep/Jeep_036.jpg",
+    "dataset/Jeep/Jeep_020.jpg",
+    "dataset/Jeep/Jeep_057.jpg",
+    "dataset/MG/MG_116.jpg",
+    "dataset/Land Rover/Land Rover_063.jpg",
+    "dataset/Saab/Saab_000.jpg",
+    "dataset/Tesla/Tesla_039.jpg",
+    "dataset/Hyundai/Hyundai_027.jpg",
+    "dataset/Kia/Kia_027.jpg",
+    "dataset/Chevrolet/Chevrolet_074.jpg",
+    "dataset/Toyota/Toyota_021.jpg",
+    "dataset/Cadillac/Cadillac_062.jpg",
+    "dataset/Nissan/Nissan_041.jpg",
+    "dataset/Lexus/Lexus_003.jpg",
+    "dataset/Peugeot/Peugeot_058.jpg",
+    "dataset/Peugeot/Peugeot_083.jpg",
+    "dataset/Subaru/Subaru_019.jpg",
+    "dataset/Oldsmobile/Oldsmobile_059.jpg",
+    "dataset/Oldsmobile/Oldsmobile_013.jpg",
+    "dataset/Chrysler/Chrysler_022.jpg",
+    "dataset/Chrysler/Chrysler_073.jpg",
+    "dataset/Chrysler/Chrysler_038.jpg",
+    "dataset/Chrysler/Chrysler_000.jpg",
+    "dataset/Jaguar/Jaguar_088.jpg",
+    "dataset/BMW/BMW_082.jpg",
+    "dataset/Fiat/Fiat_033.jpg",
+    "dataset/Ram Trucks/Ram Trucks_081.jpg"
+  ],
+  "(140, 130, 130)": [
+    "dataset/Volkswagen/Volkswagen_078.jpg",
+    "dataset/Porsche/Porsche_084.jpg",
+    "dataset/Bugatti/Bugatti_055.jpg",
+    "dataset/Renault/Renault_084.jpg",
+    "dataset/Jeep/Jeep_011.jpg",
+    "dataset/MG/MG_039.jpg",
+    "dataset/Buick/Buick_066.jpg",
+    "dataset/Saab/Saab_048.jpg",
+    "dataset/Hyundai/Hyundai_081.jpg",
+    "dataset/Hyundai/Hyundai_078.jpg",
+    "dataset/Hyundai/Hyundai_088.jpg",
+    "dataset/Chevrolet/Chevrolet_067.jpg",
+    "dataset/Chevrolet/Chevrolet_014.jpg",
+    "dataset/Infiniti/Infiniti_063.jpg",
+    "dataset/Infiniti/Infiniti_079.jpg",
+    "dataset/Infiniti/Infiniti_085.jpg",
+    "dataset/Nissan/Nissan_008.jpg",
+    "dataset/Nissan/Nissan_073.jpg",
+    "dataset/Dodge/Dodge_065.jpg",
+    "dataset/Audi/Audi_079.jpg",
+    "dataset/Volvo/Volvo_007.jpg",
+    "dataset/Volvo/Volvo_077.jpg",
+    "dataset/Volvo/Volvo_055.jpg",
+    "dataset/Peugeot/Peugeot_068.jpg",
+    "dataset/Subaru/Subaru_054.jpg",
+    "dataset/Subaru/Subaru_034.jpg",
+    "dataset/Oldsmobile/Oldsmobile_004.jpg",
+    "dataset/Oldsmobile/Oldsmobile_005.jpg",
+    "dataset/Fiat/Fiat_061.jpg",
+    "dataset/Ram Trucks/Ram Trucks_005.jpg",
+    "dataset/Ram Trucks/Ram Trucks_048.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_081.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_068.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_033.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_001.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_058.jpg",
+    "dataset/Citroen/Citroen_012.jpg",
+    "dataset/Citroen/Citroen_090.jpg",
+    "dataset/Honda/Honda_065.jpg",
+    "dataset/Honda/Honda_089.jpg",
+    "dataset/Genesis/Genesis_051.jpg",
+    "dataset/Suzuki/Suzuki_072.jpg"
+  ],
+  "(140, 130, 140)": [
+    "dataset/Mitsubishi/Mitsubishi_047.jpg",
+    "dataset/Hudson/Hudson_101.jpg",
+    "dataset/Ferrari/Ferrari_086.jpg",
+    "dataset/Mini/Mini_072.jpg",
+    "dataset/Saab/Saab_036.jpg",
+    "dataset/Nissan/Nissan_027.jpg",
+    "dataset/Lexus/Lexus_002.jpg",
+    "dataset/Oldsmobile/Oldsmobile_010.jpg",
+    "dataset/Ram Trucks/Ram Trucks_071.jpg"
+  ],
+  "(140, 130, 150)": [
+    "dataset/Porsche/Porsche_014.jpg",
+    "dataset/Cadillac/Cadillac_045.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_053.jpg",
+    "dataset/Honda/Honda_081.jpg",
+    "dataset/Honda/Honda_016.jpg"
+  ],
+  "(140, 130, 160)": [
+    "dataset/MG/MG_001.jpg",
+    "dataset/Infiniti/Infiniti_022.jpg",
+    "dataset/Acura/Acura_053.jpg",
+    "dataset/Honda/Honda_021.jpg"
+  ],
+  "(140, 130, 170)": [
+    "dataset/Hudson/Hudson_082.jpg"
+  ],
+  "(140, 130, 80)": [
+    "dataset/Subaru/Subaru_078.jpg"
+  ],
+  "(140, 130, 90)": [
+    "dataset/Volkswagen/Volkswagen_025.jpg"
+  ],
+  "(140, 140, 110)": [
+    "dataset/Jeep/Jeep_071.jpg"
+  ],
+  "(140, 140, 120)": [
+    "dataset/Audi/Audi_078.jpg",
+    "dataset/Aston Martin/Aston Martin_013.jpg"
+  ],
+  "(140, 140, 130)": [
+    "dataset/Porsche/Porsche_060.jpg",
+    "dataset/Studebaker/Studebaker_044.jpg",
+    "dataset/Studebaker/Studebaker_092.jpg",
+    "dataset/GMC/GMC_063.jpg",
+    "dataset/GMC/GMC_046.jpg",
+    "dataset/Ferrari/Ferrari_014.jpg",
+    "dataset/Ford/Ford_025.jpg",
+    "dataset/Jeep/Jeep_060.jpg",
+    "dataset/Mazda/Mazda_010.jpg",
+    "dataset/Saab/Saab_027.jpg",
+    "dataset/Saab/Saab_024.jpg",
+    "dataset/Hyundai/Hyundai_079.jpg",
+    "dataset/Hyundai/Hyundai_053.jpg",
+    "dataset/Hyundai/Hyundai_012.jpg",
+    "dataset/Infiniti/Infiniti_013.jpg",
+    "dataset/Volvo/Volvo_008.jpg",
+    "dataset/Peugeot/Peugeot_029.jpg",
+    "dataset/Subaru/Subaru_058.jpg",
+    "dataset/Aston Martin/Aston Martin_044.jpg",
+    "dataset/Aston Martin/Aston Martin_073.jpg",
+    "dataset/Chrysler/Chrysler_062.jpg",
+    "dataset/BMW/BMW_066.jpg",
+    "dataset/Fiat/Fiat_018.jpg",
+    "dataset/Honda/Honda_040.jpg",
+    "dataset/Suzuki/Suzuki_063.jpg",
+    "dataset/Suzuki/Suzuki_038.jpg"
+  ],
+  "(140, 140, 140)": [
+    "dataset/Volkswagen/Volkswagen_055.jpg",
+    "dataset/Volkswagen/Volkswagen_084.jpg",
+    "dataset/Volkswagen/Volkswagen_037.jpg",
+    "dataset/Volkswagen/Volkswagen_033.jpg",
+    "dataset/Porsche/Porsche_002.jpg",
+    "dataset/Porsche/Porsche_046.jpg",
+    "dataset/Porsche/Porsche_023.jpg",
+    "dataset/Studebaker/Studebaker_014.jpg",
+    "dataset/Studebaker/Studebaker_027.jpg",
+    "dataset/Bugatti/Bugatti_020.jpg",
+    "dataset/Mitsubishi/Mitsubishi_036.jpg",
+    "dataset/Mitsubishi/Mitsubishi_019.jpg",
+    "dataset/Mitsubishi/Mitsubishi_058.jpg",
+    "dataset/Renault/Renault_071.jpg",
+    "dataset/Hudson/Hudson_042.jpg",
+    "dataset/Hudson/Hudson_062.jpg",
+    "dataset/Hudson/Hudson_028.jpg",
+    "dataset/Ford/Ford_042.jpg",
+    "dataset/Lincoln/Lincoln_063.jpg",
+    "dataset/Lincoln/Lincoln_066.jpg",
+    "dataset/Lincoln/Lincoln_055.jpg",
+    "dataset/Lincoln/Lincoln_031.jpg",
+    "dataset/Daewoo/Daewoo_088.jpg",
+    "dataset/Daewoo/Daewoo_028.jpg",
+    "dataset/Jeep/Jeep_032.jpg",
+    "dataset/Jeep/Jeep_086.jpg",
+    "dataset/Buick/Buick_065.jpg",
+    "dataset/Buick/Buick_033.jpg",
+    "dataset/Land Rover/Land Rover_052.jpg",
+    "dataset/Land Rover/Land Rover_043.jpg",
+    "dataset/Land Rover/Land Rover_033.jpg",
+    "dataset/Land Rover/Land Rover_034.jpg",
+    "dataset/Land Rover/Land Rover_004.jpg",
+    "dataset/Land Rover/Land Rover_049.jpg",
+    "dataset/Saab/Saab_044.jpg",
+    "dataset/Saab/Saab_080.jpg",
+    "dataset/Chevrolet/Chevrolet_055.jpg",
+    "dataset/Chevrolet/Chevrolet_066.jpg",
+    "dataset/Chevrolet/Chevrolet_029.jpg",
+    "dataset/Infiniti/Infiniti_053.jpg",
+    "dataset/Toyota/Toyota_001.jpg",
+    "dataset/Toyota/Toyota_082.jpg",
+    "dataset/Toyota/Toyota_025.jpg",
+    "dataset/Cadillac/Cadillac_012.jpg",
+    "dataset/Nissan/Nissan_078.jpg",
+    "dataset/Nissan/Nissan_082.jpg",
+    "dataset/Nissan/Nissan_011.jpg",
+    "dataset/Dodge/Dodge_019.jpg",
+    "dataset/Dodge/Dodge_063.jpg",
+    "dataset/Dodge/Dodge_028.jpg",
+    "dataset/Acura/Acura_055.jpg",
+    "dataset/Acura/Acura_041.jpg",
+    "dataset/Lexus/Lexus_019.jpg",
+    "dataset/Lexus/Lexus_077.jpg",
+    "dataset/Audi/Audi_003.jpg",
+    "dataset/Peugeot/Peugeot_033.jpg",
+    "dataset/Peugeot/Peugeot_078.jpg",
+    "dataset/Peugeot/Peugeot_044.jpg",
+    "dataset/Peugeot/Peugeot_047.jpg",
+    "dataset/Subaru/Subaru_043.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_061.jpg",
+    "dataset/Oldsmobile/Oldsmobile_073.jpg",
+    "dataset/Maserati/Maserati_035.jpg",
+    "dataset/Jaguar/Jaguar_018.jpg",
+    "dataset/BMW/BMW_068.jpg",
+    "dataset/BMW/BMW_065.jpg",
+    "dataset/Fiat/Fiat_020.jpg",
+    "dataset/Ram Trucks/Ram Trucks_001.jpg",
+    "dataset/Ram Trucks/Ram Trucks_002.jpg",
+    "dataset/Ram Trucks/Ram Trucks_070.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_080.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_018.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_002.jpg",
+    "dataset/Citroen/Citroen_062.jpg",
+    "dataset/Honda/Honda_026.jpg",
+    "dataset/Genesis/Genesis_034.jpg",
+    "dataset/Suzuki/Suzuki_088.jpg"
+  ],
+  "(140, 140, 150)": [
+    "dataset/Hudson/Hudson_018.jpg",
+    "dataset/Ferrari/Ferrari_071.jpg",
+    "dataset/Ford/Ford_039.jpg",
+    "dataset/Lincoln/Lincoln_094.jpg",
+    "dataset/Lincoln/Lincoln_019.jpg",
+    "dataset/Daewoo/Daewoo_014.jpg",
+    "dataset/Daewoo/Daewoo_005.jpg",
+    "dataset/Daewoo/Daewoo_095.jpg",
+    "dataset/Jeep/Jeep_073.jpg",
+    "dataset/Mazda/Mazda_039.jpg",
+    "dataset/Mazda/Mazda_055.jpg",
+    "dataset/Bentley/Bentley_065.jpg",
+    "dataset/Land Rover/Land Rover_082.jpg",
+    "dataset/Land Rover/Land Rover_026.jpg",
+    "dataset/Tesla/Tesla_000.jpg",
+    "dataset/Tesla/Tesla_016.jpg",
+    "dataset/Chevrolet/Chevrolet_086.jpg",
+    "dataset/Toyota/Toyota_081.jpg",
+    "dataset/Toyota/Toyota_078.jpg",
+    "dataset/Dodge/Dodge_082.jpg",
+    "dataset/Lexus/Lexus_041.jpg",
+    "dataset/Subaru/Subaru_081.jpg",
+    "dataset/Oldsmobile/Oldsmobile_042.jpg",
+    "dataset/Chrysler/Chrysler_019.jpg",
+    "dataset/Fiat/Fiat_019.jpg",
+    "dataset/Honda/Honda_032.jpg",
+    "dataset/Genesis/Genesis_023.jpg"
+  ],
+  "(140, 140, 160)": [
+    "dataset/Mitsubishi/Mitsubishi_023.jpg",
+    "dataset/Ferrari/Ferrari_060.jpg",
+    "dataset/Ferrari/Ferrari_062.jpg",
+    "dataset/Ferrari/Ferrari_029.jpg",
+    "dataset/Mazda/Mazda_013.jpg",
+    "dataset/Mazda/Mazda_051.jpg",
+    "dataset/Mazda/Mazda_054.jpg",
+    "dataset/MG/MG_061.jpg",
+    "dataset/MG/MG_066.jpg",
+    "dataset/Tesla/Tesla_069.jpg",
+    "dataset/Acura/Acura_085.jpg",
+    "dataset/Fiat/Fiat_053.jpg"
+  ],
+  "(140, 140, 170)": [
+    "dataset/Mitsubishi/Mitsubishi_049.jpg",
+    "dataset/Suzuki/Suzuki_011.jpg"
+  ],
+  "(140, 140, 180)": [
+    "dataset/Kia/Kia_062.jpg",
+    "dataset/Jaguar/Jaguar_083.jpg"
+  ],
+  "(140, 140, 190)": [
+    "dataset/Tesla/Tesla_040.jpg",
+    "dataset/Ram Trucks/Ram Trucks_073.jpg"
+  ],
+  "(140, 140, 60)": [
+    "dataset/Fiat/Fiat_072.jpg"
+  ],
+  "(140, 150, 130)": [
+    "dataset/Lincoln/Lincoln_037.jpg",
+    "dataset/Oldsmobile/Oldsmobile_006.jpg"
+  ],
+  "(140, 150, 140)": [
+    "dataset/Bentley/Bentley_023.jpg",
+    "dataset/Kia/Kia_025.jpg",
+    "dataset/Genesis/Genesis_009.jpg",
+    "dataset/Genesis/Genesis_019.jpg"
+  ],
+  "(140, 150, 150)": [
+    "dataset/Porsche/Porsche_026.jpg",
+    "dataset/Studebaker/Studebaker_100.jpg",
+    "dataset/Studebaker/Studebaker_041.jpg",
+    "dataset/Studebaker/Studebaker_080.jpg",
+    "dataset/Bugatti/Bugatti_011.jpg",
+    "dataset/Bugatti/Bugatti_001.jpg",
+    "dataset/Renault/Renault_080.jpg",
+    "dataset/MG/MG_042.jpg",
+    "dataset/Chevrolet/Chevrolet_062.jpg",
+    "dataset/Infiniti/Infiniti_037.jpg",
+    "dataset/Toyota/Toyota_068.jpg",
+    "dataset/Cadillac/Cadillac_024.jpg",
+    "dataset/Cadillac/Cadillac_013.jpg",
+    "dataset/Nissan/Nissan_006.jpg",
+    "dataset/Lexus/Lexus_057.jpg",
+    "dataset/Lexus/Lexus_024.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_008.jpg",
+    "dataset/Fiat/Fiat_069.jpg"
+  ],
+  "(140, 150, 160)": [
+    "dataset/Renault/Renault_014.jpg",
+    "dataset/Pontiac/Pontiac_023.jpg",
+    "dataset/MG/MG_021.jpg",
+    "dataset/Tesla/Tesla_044.jpg",
+    "dataset/Cadillac/Cadillac_022.jpg",
+    "dataset/Dodge/Dodge_005.jpg",
+    "dataset/Acura/Acura_076.jpg",
+    "dataset/Audi/Audi_029.jpg",
+    "dataset/Subaru/Subaru_005.jpg"
+  ],
+  "(140, 150, 170)": [
+    "dataset/Volkswagen/Volkswagen_024.jpg",
+    "dataset/Volkswagen/Volkswagen_000.jpg",
+    "dataset/Hudson/Hudson_053.jpg",
+    "dataset/Maserati/Maserati_033.jpg"
+  ],
+  "(140, 150, 180)": [
+    "dataset/Ferrari/Ferrari_005.jpg"
+  ],
+  "(140, 160, 150)": [
+    "dataset/MG/MG_103.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_030.jpg"
+  ],
+  "(140, 160, 160)": [
+    "dataset/Land Rover/Land Rover_016.jpg",
+    "dataset/Suzuki/Suzuki_033.jpg",
+    "dataset/Suzuki/Suzuki_084.jpg"
+  ],
+  "(140, 160, 170)": [
+    "dataset/Studebaker/Studebaker_091.jpg",
+    "dataset/Kia/Kia_028.jpg",
+    "dataset/Maserati/Maserati_021.jpg",
+    "dataset/Ram Trucks/Ram Trucks_069.jpg"
+  ],
+  "(140, 170, 170)": [
+    "dataset/Chevrolet/Chevrolet_036.jpg"
+  ],
+  "(140, 170, 190)": [
+    "dataset/Pontiac/Pontiac_058.jpg"
+  ],
+  "(140, 170, 200)": [
+    "dataset/Renault/Renault_086.jpg"
+  ],
+  "(140, 170, 210)": [
+    "dataset/Hyundai/Hyundai_086.jpg"
+  ],
+  "(140, 90, 70)": [
+    "dataset/Lexus/Lexus_018.jpg"
+  ],
+  "(150, 110, 100)": [
+    "dataset/Aston Martin/Aston Martin_085.jpg"
+  ],
+  "(150, 110, 40)": [
+    "dataset/Volkswagen/Volkswagen_005.jpg"
+  ],
+  "(150, 120, 100)": [
+    "dataset/Alfa Romeo/Alfa Romeo_078.jpg",
+    "dataset/Genesis/Genesis_065.jpg"
+  ],
+  "(150, 120, 110)": [
+    "dataset/Subaru/Subaru_030.jpg",
+    "dataset/BMW/BMW_041.jpg"
+  ],
+  "(150, 130, 100)": [
+    "dataset/Bugatti/Bugatti_031.jpg",
+    "dataset/Mitsubishi/Mitsubishi_080.jpg",
+    "dataset/Dodge/Dodge_022.jpg"
+  ],
+  "(150, 130, 110)": [
+    "dataset/Studebaker/Studebaker_032.jpg",
+    "dataset/Audi/Audi_007.jpg",
+    "dataset/Aston Martin/Aston Martin_045.jpg",
+    "dataset/Honda/Honda_058.jpg"
+  ],
+  "(150, 130, 120)": [
+    "dataset/Bugatti/Bugatti_050.jpg",
+    "dataset/Bugatti/Bugatti_052.jpg",
+    "dataset/Renault/Renault_054.jpg",
+    "dataset/Mini/Mini_051.jpg",
+    "dataset/Mini/Mini_031.jpg",
+    "dataset/Chevrolet/Chevrolet_071.jpg",
+    "dataset/Dodge/Dodge_062.jpg",
+    "dataset/Audi/Audi_018.jpg",
+    "dataset/Subaru/Subaru_087.jpg"
+  ],
+  "(150, 130, 130)": [
+    "dataset/Mitsubishi/Mitsubishi_074.jpg",
+    "dataset/GMC/GMC_036.jpg",
+    "dataset/Lincoln/Lincoln_049.jpg",
+    "dataset/Saab/Saab_081.jpg",
+    "dataset/Chevrolet/Chevrolet_044.jpg",
+    "dataset/Jaguar/Jaguar_056.jpg"
+  ],
+  "(150, 130, 140)": [
+    "dataset/Ferrari/Ferrari_095.jpg",
+    "dataset/Jeep/Jeep_066.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_068.jpg"
+  ],
+  "(150, 130, 80)": [
+    "dataset/Renault/Renault_038.jpg"
+  ],
+  "(150, 130, 90)": [
+    "dataset/Bugatti/Bugatti_084.jpg",
+    "dataset/Ferrari/Ferrari_039.jpg",
+    "dataset/Nissan/Nissan_032.jpg"
+  ],
+  "(150, 140, 110)": [
+    "dataset/Volkswagen/Volkswagen_090.jpg",
+    "dataset/Chrysler/Chrysler_047.jpg"
+  ],
+  "(150, 140, 120)": [
+    "dataset/Volkswagen/Volkswagen_057.jpg",
+    "dataset/Land Rover/Land Rover_038.jpg",
+    "dataset/Hyundai/Hyundai_044.jpg",
+    "dataset/Audi/Audi_068.jpg",
+    "dataset/Fiat/Fiat_000.jpg"
+  ],
+  "(150, 140, 130)": [
+    "dataset/Bugatti/Bugatti_076.jpg",
+    "dataset/Mitsubishi/Mitsubishi_078.jpg",
+    "dataset/Lincoln/Lincoln_091.jpg",
+    "dataset/Mini/Mini_074.jpg",
+    "dataset/Bentley/Bentley_002.jpg",
+    "dataset/Land Rover/Land Rover_007.jpg",
+    "dataset/Tesla/Tesla_005.jpg",
+    "dataset/Tesla/Tesla_060.jpg",
+    "dataset/Hyundai/Hyundai_024.jpg",
+    "dataset/Hyundai/Hyundai_065.jpg",
+    "dataset/Chevrolet/Chevrolet_057.jpg",
+    "dataset/Dodge/Dodge_059.jpg",
+    "dataset/Oldsmobile/Oldsmobile_100.jpg",
+    "dataset/Chrysler/Chrysler_068.jpg",
+    "dataset/Maserati/Maserati_047.jpg",
+    "dataset/Jaguar/Jaguar_090.jpg",
+    "dataset/Jaguar/Jaguar_073.jpg",
+    "dataset/BMW/BMW_045.jpg",
+    "dataset/BMW/BMW_062.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_039.jpg",
+    "dataset/Suzuki/Suzuki_064.jpg"
+  ],
+  "(150, 140, 140)": [
+    "dataset/Porsche/Porsche_067.jpg",
+    "dataset/Studebaker/Studebaker_097.jpg",
+    "dataset/GMC/GMC_012.jpg",
+    "dataset/Hudson/Hudson_049.jpg",
+    "dataset/Ford/Ford_078.jpg",
+    "dataset/Ford/Ford_022.jpg",
+    "dataset/Jeep/Jeep_065.jpg",
+    "dataset/Mazda/Mazda_062.jpg",
+    "dataset/Mazda/Mazda_037.jpg",
+    "dataset/Mazda/Mazda_044.jpg",
+    "dataset/Mazda/Mazda_053.jpg",
+    "dataset/MG/MG_104.jpg",
+    "dataset/Buick/Buick_014.jpg",
+    "dataset/Land Rover/Land Rover_001.jpg",
+    "dataset/Saab/Saab_073.jpg",
+    "dataset/Hyundai/Hyundai_036.jpg",
+    "dataset/Chevrolet/Chevrolet_061.jpg",
+    "dataset/Toyota/Toyota_088.jpg",
+    "dataset/Toyota/Toyota_033.jpg",
+    "dataset/Volvo/Volvo_069.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_082.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_011.jpg",
+    "dataset/Oldsmobile/Oldsmobile_080.jpg",
+    "dataset/Chrysler/Chrysler_008.jpg",
+    "dataset/Citroen/Citroen_049.jpg",
+    "dataset/Citroen/Citroen_002.jpg",
+    "dataset/Honda/Honda_007.jpg",
+    "dataset/Suzuki/Suzuki_029.jpg",
+    "dataset/Suzuki/Suzuki_014.jpg",
+    "dataset/Suzuki/Suzuki_069.jpg"
+  ],
+  "(150, 140, 150)": [
+    "dataset/Bugatti/Bugatti_078.jpg",
+    "dataset/Mitsubishi/Mitsubishi_029.jpg",
+    "dataset/Acura/Acura_015.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_026.jpg",
+    "dataset/Chrysler/Chrysler_080.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_048.jpg"
+  ],
+  "(150, 140, 160)": [
+    "dataset/Saab/Saab_066.jpg",
+    "dataset/Acura/Acura_056.jpg",
+    "dataset/Volvo/Volvo_064.jpg",
+    "dataset/Oldsmobile/Oldsmobile_000.jpg"
+  ],
+  "(150, 140, 170)": [
+    "dataset/Tesla/Tesla_033.jpg"
+  ],
+  "(150, 150, 130)": [
+    "dataset/Porsche/Porsche_063.jpg",
+    "dataset/Porsche/Porsche_044.jpg",
+    "dataset/Hudson/Hudson_064.jpg",
+    "dataset/Hudson/Hudson_016.jpg",
+    "dataset/Volvo/Volvo_034.jpg",
+    "dataset/Suzuki/Suzuki_058.jpg"
+  ],
+  "(150, 150, 140)": [
+    "dataset/Bugatti/Bugatti_071.jpg",
+    "dataset/Mitsubishi/Mitsubishi_079.jpg",
+    "dataset/Mitsubishi/Mitsubishi_017.jpg",
+    "dataset/Renault/Renault_068.jpg",
+    "dataset/Hudson/Hudson_020.jpg",
+    "dataset/Hudson/Hudson_068.jpg",
+    "dataset/Ford/Ford_087.jpg",
+    "dataset/Lincoln/Lincoln_006.jpg",
+    "dataset/Mini/Mini_063.jpg",
+    "dataset/MG/MG_094.jpg",
+    "dataset/Buick/Buick_042.jpg",
+    "dataset/Hyundai/Hyundai_031.jpg",
+    "dataset/Chevrolet/Chevrolet_037.jpg",
+    "dataset/Chevrolet/Chevrolet_027.jpg",
+    "dataset/Infiniti/Infiniti_069.jpg",
+    "dataset/Cadillac/Cadillac_079.jpg",
+    "dataset/Lexus/Lexus_053.jpg",
+    "dataset/Peugeot/Peugeot_037.jpg",
+    "dataset/Subaru/Subaru_065.jpg",
+    "dataset/Oldsmobile/Oldsmobile_070.jpg",
+    "dataset/Chrysler/Chrysler_034.jpg",
+    "dataset/Jaguar/Jaguar_065.jpg",
+    "dataset/Fiat/Fiat_023.jpg",
+    "dataset/Honda/Honda_077.jpg"
+  ],
+  "(150, 150, 150)": [
+    "dataset/Volkswagen/Volkswagen_050.jpg",
+    "dataset/Porsche/Porsche_059.jpg",
+    "dataset/Porsche/Porsche_041.jpg",
+    "dataset/Studebaker/Studebaker_075.jpg",
+    "dataset/Renault/Renault_056.jpg",
+    "dataset/Renault/Renault_039.jpg",
+    "dataset/GMC/GMC_071.jpg",
+    "dataset/GMC/GMC_015.jpg",
+    "dataset/GMC/GMC_087.jpg",
+    "dataset/GMC/GMC_045.jpg",
+    "dataset/GMC/GMC_079.jpg",
+    "dataset/Hudson/Hudson_100.jpg",
+    "dataset/Ford/Ford_017.jpg",
+    "dataset/Lincoln/Lincoln_034.jpg",
+    "dataset/Lincoln/Lincoln_036.jpg",
+    "dataset/Pontiac/Pontiac_019.jpg",
+    "dataset/Pontiac/Pontiac_036.jpg",
+    "dataset/Jeep/Jeep_058.jpg",
+    "dataset/Jeep/Jeep_007.jpg",
+    "dataset/Mazda/Mazda_032.jpg",
+    "dataset/MG/MG_099.jpg",
+    "dataset/Buick/Buick_079.jpg",
+    "dataset/Land Rover/Land Rover_056.jpg",
+    "dataset/Land Rover/Land Rover_019.jpg",
+    "dataset/Saab/Saab_031.jpg",
+    "dataset/Saab/Saab_041.jpg",
+    "dataset/Saab/Saab_070.jpg",
+    "dataset/Hyundai/Hyundai_051.jpg",
+    "dataset/Hyundai/Hyundai_001.jpg",
+    "dataset/Chevrolet/Chevrolet_065.jpg",
+    "dataset/Infiniti/Infiniti_087.jpg",
+    "dataset/Toyota/Toyota_063.jpg",
+    "dataset/Nissan/Nissan_045.jpg",
+    "dataset/Nissan/Nissan_076.jpg",
+    "dataset/Dodge/Dodge_027.jpg",
+    "dataset/Dodge/Dodge_032.jpg",
+    "dataset/Acura/Acura_049.jpg",
+    "dataset/Acura/Acura_026.jpg",
+    "dataset/Acura/Acura_030.jpg",
+    "dataset/Lexus/Lexus_012.jpg",
+    "dataset/Volvo/Volvo_073.jpg",
+    "dataset/Volvo/Volvo_083.jpg",
+    "dataset/Volvo/Volvo_046.jpg",
+    "dataset/Peugeot/Peugeot_015.jpg",
+    "dataset/Peugeot/Peugeot_027.jpg",
+    "dataset/Aston Martin/Aston Martin_043.jpg",
+    "dataset/Aston Martin/Aston Martin_035.jpg",
+    "dataset/Oldsmobile/Oldsmobile_067.jpg",
+    "dataset/Maserati/Maserati_006.jpg",
+    "dataset/Maserati/Maserati_057.jpg",
+    "dataset/Maserati/Maserati_050.jpg",
+    "dataset/Maserati/Maserati_018.jpg",
+    "dataset/BMW/BMW_028.jpg",
+    "dataset/Fiat/Fiat_083.jpg",
+    "dataset/Fiat/Fiat_025.jpg",
+    "dataset/Ram Trucks/Ram Trucks_079.jpg",
+    "dataset/Ram Trucks/Ram Trucks_083.jpg",
+    "dataset/Ram Trucks/Ram Trucks_040.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_057.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_040.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_007.jpg",
+    "dataset/Citroen/Citroen_080.jpg",
+    "dataset/Honda/Honda_051.jpg",
+    "dataset/Suzuki/Suzuki_025.jpg",
+    "dataset/Suzuki/Suzuki_079.jpg"
+  ],
+  "(150, 150, 160)": [
+    "dataset/Volkswagen/Volkswagen_042.jpg",
+    "dataset/Porsche/Porsche_050.jpg",
+    "dataset/Bugatti/Bugatti_065.jpg",
+    "dataset/Mitsubishi/Mitsubishi_075.jpg",
+    "dataset/Mitsubishi/Mitsubishi_038.jpg",
+    "dataset/Hudson/Hudson_066.jpg",
+    "dataset/Lincoln/Lincoln_096.jpg",
+    "dataset/Pontiac/Pontiac_055.jpg",
+    "dataset/MG/MG_136.jpg",
+    "dataset/Tesla/Tesla_070.jpg",
+    "dataset/Infiniti/Infiniti_036.jpg",
+    "dataset/Dodge/Dodge_007.jpg",
+    "dataset/Subaru/Subaru_002.jpg",
+    "dataset/Oldsmobile/Oldsmobile_036.jpg",
+    "dataset/Jaguar/Jaguar_025.jpg",
+    "dataset/BMW/BMW_071.jpg",
+    "dataset/Citroen/Citroen_039.jpg",
+    "dataset/Citroen/Citroen_053.jpg",
+    "dataset/Honda/Honda_010.jpg"
+  ],
+  "(150, 150, 170)": [
+    "dataset/Ferrari/Ferrari_090.jpg",
+    "dataset/Tesla/Tesla_045.jpg",
+    "dataset/Cadillac/Cadillac_057.jpg",
+    "dataset/Dodge/Dodge_012.jpg",
+    "dataset/Maserati/Maserati_069.jpg",
+    "dataset/Fiat/Fiat_006.jpg",
+    "dataset/Citroen/Citroen_040.jpg"
+  ],
+  "(150, 150, 180)": [
+    "dataset/Mitsubishi/Mitsubishi_000.jpg",
+    "dataset/Kia/Kia_052.jpg",
+    "dataset/Nissan/Nissan_055.jpg",
+    "dataset/Fiat/Fiat_063.jpg"
+  ],
+  "(150, 150, 200)": [
+    "dataset/Dodge/Dodge_025.jpg"
+  ],
+  "(150, 160, 150)": [
+    "dataset/Mitsubishi/Mitsubishi_087.jpg",
+    "dataset/MG/MG_135.jpg"
+  ],
+  "(150, 160, 160)": [
+    "dataset/GMC/GMC_080.jpg",
+    "dataset/Ford/Ford_080.jpg",
+    "dataset/Ford/Ford_036.jpg",
+    "dataset/Jeep/Jeep_013.jpg",
+    "dataset/MG/MG_108.jpg",
+    "dataset/Bentley/Bentley_079.jpg",
+    "dataset/Bentley/Bentley_006.jpg",
+    "dataset/Hyundai/Hyundai_055.jpg",
+    "dataset/Dodge/Dodge_077.jpg",
+    "dataset/Lexus/Lexus_073.jpg",
+    "dataset/Volvo/Volvo_088.jpg",
+    "dataset/Maserati/Maserati_061.jpg",
+    "dataset/Maserati/Maserati_071.jpg",
+    "dataset/Maserati/Maserati_068.jpg",
+    "dataset/BMW/BMW_011.jpg",
+    "dataset/Ram Trucks/Ram Trucks_038.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_065.jpg"
+  ],
+  "(150, 160, 170)": [
+    "dataset/Studebaker/Studebaker_007.jpg",
+    "dataset/Studebaker/Studebaker_079.jpg",
+    "dataset/Hudson/Hudson_063.jpg",
+    "dataset/Pontiac/Pontiac_028.jpg",
+    "dataset/MG/MG_045.jpg",
+    "dataset/Tesla/Tesla_059.jpg",
+    "dataset/Dodge/Dodge_001.jpg",
+    "dataset/Peugeot/Peugeot_030.jpg",
+    "dataset/Maserati/Maserati_074.jpg",
+    "dataset/Citroen/Citroen_020.jpg"
+  ],
+  "(150, 160, 180)": [
+    "dataset/Hudson/Hudson_017.jpg"
+  ],
+  "(150, 170, 160)": [
+    "dataset/Porsche/Porsche_061.jpg"
+  ],
+  "(150, 170, 170)": [
+    "dataset/Chevrolet/Chevrolet_052.jpg",
+    "dataset/Lexus/Lexus_038.jpg",
+    "dataset/Aston Martin/Aston Martin_062.jpg",
+    "dataset/Suzuki/Suzuki_043.jpg"
+  ],
+  "(150, 170, 180)": [
+    "dataset/Kia/Kia_084.jpg"
+  ],
+  "(150, 170, 190)": [
+    "dataset/Hudson/Hudson_093.jpg"
+  ],
+  "(150, 80, 40)": [
+    "dataset/Acura/Acura_086.jpg"
+  ],
+  "(160, 120, 90)": [
+    "dataset/Infiniti/Infiniti_043.jpg"
+  ],
+  "(160, 130, 100)": [
+    "dataset/MG/MG_075.jpg",
+    "dataset/Jaguar/Jaguar_046.jpg"
+  ],
+  "(160, 130, 110)": [
+    "dataset/Daewoo/Daewoo_085.jpg",
+    "dataset/Land Rover/Land Rover_061.jpg"
+  ],
+  "(160, 130, 90)": [
+    "dataset/Volkswagen/Volkswagen_052.jpg",
+    "dataset/Bugatti/Bugatti_067.jpg"
+  ],
+  "(160, 140, 110)": [
+    "dataset/Oldsmobile/Oldsmobile_085.jpg"
+  ],
+  "(160, 140, 120)": [
+    "dataset/Alfa Romeo/Alfa Romeo_064.jpg",
+    "dataset/Jaguar/Jaguar_063.jpg",
+    "dataset/BMW/BMW_019.jpg",
+    "dataset/Honda/Honda_047.jpg"
+  ],
+  "(160, 140, 130)": [
+    "dataset/Saab/Saab_015.jpg",
+    "dataset/Lexus/Lexus_056.jpg",
+    "dataset/Lexus/Lexus_031.jpg",
+    "dataset/Volvo/Volvo_049.jpg",
+    "dataset/Subaru/Subaru_032.jpg"
+  ],
+  "(160, 140, 140)": [
+    "dataset/Bentley/Bentley_078.jpg",
+    "dataset/Genesis/Genesis_076.jpg"
+  ],
+  "(160, 140, 150)": [
+    "dataset/Porsche/Porsche_028.jpg"
+  ],
+  "(160, 140, 50)": [
+    "dataset/Lincoln/Lincoln_052.jpg"
+  ],
+  "(160, 150, 120)": [
+    "dataset/Infiniti/Infiniti_015.jpg"
+  ],
+  "(160, 150, 130)": [
+    "dataset/Suzuki/Suzuki_028.jpg",
+    "dataset/Suzuki/Suzuki_020.jpg"
+  ],
+  "(160, 150, 140)": [
+    "dataset/Porsche/Porsche_042.jpg",
+    "dataset/Studebaker/Studebaker_009.jpg",
+    "dataset/Bugatti/Bugatti_000.jpg",
+    "dataset/Hudson/Hudson_086.jpg",
+    "dataset/Toyota/Toyota_045.jpg",
+    "dataset/Audi/Audi_012.jpg",
+    "dataset/Subaru/Subaru_036.jpg",
+    "dataset/Maserati/Maserati_003.jpg",
+    "dataset/Maserati/Maserati_046.jpg",
+    "dataset/BMW/BMW_044.jpg",
+    "dataset/BMW/BMW_051.jpg",
+    "dataset/BMW/BMW_022.jpg",
+    "dataset/Ram Trucks/Ram Trucks_010.jpg",
+    "dataset/Citroen/Citroen_010.jpg"
+  ],
+  "(160, 150, 150)": [
+    "dataset/Porsche/Porsche_075.jpg",
+    "dataset/Bugatti/Bugatti_091.jpg",
+    "dataset/Pontiac/Pontiac_002.jpg",
+    "dataset/Daewoo/Daewoo_104.jpg",
+    "dataset/Mini/Mini_035.jpg",
+    "dataset/Mini/Mini_048.jpg",
+    "dataset/Jeep/Jeep_035.jpg",
+    "dataset/Bentley/Bentley_011.jpg",
+    "dataset/Land Rover/Land Rover_045.jpg",
+    "dataset/Tesla/Tesla_049.jpg",
+    "dataset/Hyundai/Hyundai_058.jpg",
+    "dataset/Kia/Kia_039.jpg",
+    "dataset/Acura/Acura_021.jpg",
+    "dataset/Acura/Acura_027.jpg",
+    "dataset/Lexus/Lexus_034.jpg",
+    "dataset/Peugeot/Peugeot_050.jpg",
+    "dataset/Subaru/Subaru_047.jpg",
+    "dataset/Chrysler/Chrysler_071.jpg",
+    "dataset/Jaguar/Jaguar_049.jpg",
+    "dataset/Fiat/Fiat_031.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_000.jpg",
+    "dataset/Citroen/Citroen_063.jpg",
+    "dataset/Honda/Honda_009.jpg",
+    "dataset/Honda/Honda_080.jpg",
+    "dataset/Suzuki/Suzuki_085.jpg"
+  ],
+  "(160, 150, 160)": [
+    "dataset/Volkswagen/Volkswagen_088.jpg",
+    "dataset/Mitsubishi/Mitsubishi_083.jpg",
+    "dataset/Mitsubishi/Mitsubishi_039.jpg",
+    "dataset/Ferrari/Ferrari_034.jpg",
+    "dataset/Toyota/Toyota_026.jpg",
+    "dataset/Volvo/Volvo_048.jpg",
+    "dataset/Peugeot/Peugeot_075.jpg",
+    "dataset/Aston Martin/Aston Martin_040.jpg"
+  ],
+  "(160, 150, 170)": [
+    "dataset/Ram Trucks/Ram Trucks_047.jpg"
+  ],
+  "(160, 160, 140)": [
+    "dataset/Hyundai/Hyundai_077.jpg",
+    "dataset/Toyota/Toyota_022.jpg",
+    "dataset/Subaru/Subaru_070.jpg"
+  ],
+  "(160, 160, 150)": [
+    "dataset/Mazda/Mazda_078.jpg",
+    "dataset/Buick/Buick_051.jpg",
+    "dataset/Dodge/Dodge_043.jpg",
+    "dataset/Lexus/Lexus_082.jpg",
+    "dataset/Fiat/Fiat_021.jpg",
+    "dataset/Fiat/Fiat_032.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_028.jpg",
+    "dataset/Citroen/Citroen_006.jpg",
+    "dataset/Suzuki/Suzuki_091.jpg"
+  ],
+  "(160, 160, 160)": [
+    "dataset/Volkswagen/Volkswagen_039.jpg",
+    "dataset/Volkswagen/Volkswagen_010.jpg",
+    "dataset/Volkswagen/Volkswagen_013.jpg",
+    "dataset/Volkswagen/Volkswagen_067.jpg",
+    "dataset/Porsche/Porsche_054.jpg",
+    "dataset/Studebaker/Studebaker_073.jpg",
+    "dataset/Studebaker/Studebaker_094.jpg",
+    "dataset/Studebaker/Studebaker_020.jpg",
+    "dataset/Bugatti/Bugatti_009.jpg",
+    "dataset/Renault/Renault_052.jpg",
+    "dataset/Renault/Renault_048.jpg",
+    "dataset/Lincoln/Lincoln_060.jpg",
+    "dataset/Lincoln/Lincoln_100.jpg",
+    "dataset/Lincoln/Lincoln_056.jpg",
+    "dataset/Lincoln/Lincoln_047.jpg",
+    "dataset/Daewoo/Daewoo_073.jpg",
+    "dataset/Daewoo/Daewoo_041.jpg",
+    "dataset/Mini/Mini_065.jpg",
+    "dataset/Jeep/Jeep_072.jpg",
+    "dataset/Mazda/Mazda_067.jpg",
+    "dataset/MG/MG_072.jpg",
+    "dataset/Bentley/Bentley_057.jpg",
+    "dataset/Bentley/Bentley_028.jpg",
+    "dataset/Buick/Buick_006.jpg",
+    "dataset/Land Rover/Land Rover_067.jpg",
+    "dataset/Tesla/Tesla_012.jpg",
+    "dataset/Hyundai/Hyundai_072.jpg",
+    "dataset/Hyundai/Hyundai_011.jpg",
+    "dataset/Chevrolet/Chevrolet_085.jpg",
+    "dataset/Chevrolet/Chevrolet_051.jpg",
+    "dataset/Nissan/Nissan_066.jpg",
+    "dataset/Nissan/Nissan_074.jpg",
+    "dataset/Acura/Acura_028.jpg",
+    "dataset/Audi/Audi_038.jpg",
+    "dataset/Audi/Audi_070.jpg",
+    "dataset/Volvo/Volvo_000.jpg",
+    "dataset/Volvo/Volvo_004.jpg",
+    "dataset/Volvo/Volvo_038.jpg",
+    "dataset/Volvo/Volvo_060.jpg",
+    "dataset/Volvo/Volvo_027.jpg",
+    "dataset/Peugeot/Peugeot_073.jpg",
+    "dataset/Peugeot/Peugeot_001.jpg",
+    "dataset/Oldsmobile/Oldsmobile_024.jpg",
+    "dataset/Oldsmobile/Oldsmobile_054.jpg",
+    "dataset/Oldsmobile/Oldsmobile_096.jpg",
+    "dataset/Chrysler/Chrysler_060.jpg",
+    "dataset/BMW/BMW_008.jpg",
+    "dataset/BMW/BMW_018.jpg",
+    "dataset/BMW/BMW_007.jpg",
+    "dataset/BMW/BMW_004.jpg",
+    "dataset/Fiat/Fiat_081.jpg",
+    "dataset/Fiat/Fiat_027.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_046.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_031.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_038.jpg",
+    "dataset/Citroen/Citroen_085.jpg",
+    "dataset/Honda/Honda_064.jpg",
+    "dataset/Honda/Honda_062.jpg",
+    "dataset/Honda/Honda_038.jpg",
+    "dataset/Genesis/Genesis_039.jpg",
+    "dataset/Suzuki/Suzuki_074.jpg",
+    "dataset/Suzuki/Suzuki_007.jpg",
+    "dataset/Suzuki/Suzuki_081.jpg",
+    "dataset/Suzuki/Suzuki_050.jpg"
+  ],
+  "(160, 160, 170)": [
+    "dataset/Mitsubishi/Mitsubishi_057.jpg",
+    "dataset/Renault/Renault_083.jpg",
+    "dataset/Ford/Ford_046.jpg",
+    "dataset/Mini/Mini_042.jpg",
+    "dataset/Land Rover/Land Rover_042.jpg",
+    "dataset/Land Rover/Land Rover_057.jpg",
+    "dataset/Tesla/Tesla_079.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_060.jpg",
+    "dataset/Honda/Honda_006.jpg",
+    "dataset/Honda/Honda_005.jpg"
+  ],
+  "(160, 160, 180)": [
+    "dataset/Honda/Honda_024.jpg"
+  ],
+  "(160, 160, 190)": [
+    "dataset/Kia/Kia_038.jpg",
+    "dataset/Jaguar/Jaguar_091.jpg"
+  ],
+  "(160, 170, 140)": [
+    "dataset/Volkswagen/Volkswagen_014.jpg"
+  ],
+  "(160, 170, 150)": [
+    "dataset/MG/MG_102.jpg"
+  ],
+  "(160, 170, 160)": [
+    "dataset/Bugatti/Bugatti_019.jpg",
+    "dataset/Buick/Buick_077.jpg",
+    "dataset/Genesis/Genesis_093.jpg",
+    "dataset/Suzuki/Suzuki_000.jpg"
+  ],
+  "(160, 170, 170)": [
+    "dataset/Lincoln/Lincoln_076.jpg",
+    "dataset/Pontiac/Pontiac_062.jpg",
+    "dataset/MG/MG_020.jpg",
+    "dataset/Oldsmobile/Oldsmobile_025.jpg",
+    "dataset/Suzuki/Suzuki_024.jpg"
+  ],
+  "(160, 170, 180)": [
+    "dataset/Pontiac/Pontiac_050.jpg",
+    "dataset/Jeep/Jeep_075.jpg",
+    "dataset/Cadillac/Cadillac_085.jpg",
+    "dataset/Dodge/Dodge_064.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_038.jpg"
+  ],
+  "(160, 170, 190)": [
+    "dataset/Acura/Acura_044.jpg",
+    "dataset/Subaru/Subaru_018.jpg"
+  ],
+  "(160, 180, 160)": [
+    "dataset/MG/MG_137.jpg"
+  ],
+  "(160, 200, 200)": [
+    "dataset/Studebaker/Studebaker_045.jpg"
+  ],
+  "(170, 130, 70)": [
+    "dataset/MG/MG_130.jpg"
+  ],
+  "(170, 140, 110)": [
+    "dataset/Bugatti/Bugatti_048.jpg",
+    "dataset/Oldsmobile/Oldsmobile_037.jpg"
+  ],
+  "(170, 140, 130)": [
+    "dataset/Daewoo/Daewoo_103.jpg"
+  ],
+  "(170, 140, 140)": [
+    "dataset/Hudson/Hudson_084.jpg",
+    "dataset/Lexus/Lexus_074.jpg"
+  ],
+  "(170, 150, 130)": [
+    "dataset/Saab/Saab_023.jpg",
+    "dataset/Fiat/Fiat_082.jpg"
+  ],
+  "(170, 150, 140)": [
+    "dataset/Ferrari/Ferrari_035.jpg",
+    "dataset/Citroen/Citroen_060.jpg",
+    "dataset/Suzuki/Suzuki_021.jpg"
+  ],
+  "(170, 160, 130)": [
+    "dataset/BMW/BMW_077.jpg"
+  ],
+  "(170, 160, 140)": [
+    "dataset/Renault/Renault_021.jpg",
+    "dataset/Land Rover/Land Rover_027.jpg",
+    "dataset/Lexus/Lexus_081.jpg",
+    "dataset/Lexus/Lexus_062.jpg",
+    "dataset/Peugeot/Peugeot_076.jpg",
+    "dataset/Peugeot/Peugeot_023.jpg"
+  ],
+  "(170, 160, 150)": [
+    "dataset/Porsche/Porsche_071.jpg",
+    "dataset/Renault/Renault_082.jpg",
+    "dataset/Renault/Renault_058.jpg",
+    "dataset/Ford/Ford_008.jpg",
+    "dataset/Lincoln/Lincoln_090.jpg",
+    "dataset/Mazda/Mazda_049.jpg",
+    "dataset/Toyota/Toyota_038.jpg",
+    "dataset/Dodge/Dodge_070.jpg",
+    "dataset/Acura/Acura_081.jpg",
+    "dataset/Subaru/Subaru_068.jpg",
+    "dataset/Subaru/Subaru_012.jpg",
+    "dataset/BMW/BMW_053.jpg",
+    "dataset/BMW/BMW_047.jpg"
+  ],
+  "(170, 160, 160)": [
+    "dataset/GMC/GMC_083.jpg",
+    "dataset/Daewoo/Daewoo_052.jpg",
+    "dataset/Bentley/Bentley_031.jpg",
+    "dataset/Chevrolet/Chevrolet_081.jpg",
+    "dataset/Infiniti/Infiniti_019.jpg",
+    "dataset/Fiat/Fiat_038.jpg"
+  ],
+  "(170, 160, 170)": [
+    "dataset/GMC/GMC_089.jpg",
+    "dataset/GMC/GMC_023.jpg",
+    "dataset/Daewoo/Daewoo_044.jpg",
+    "dataset/MG/MG_080.jpg",
+    "dataset/Acura/Acura_060.jpg",
+    "dataset/Citroen/Citroen_037.jpg"
+  ],
+  "(170, 160, 180)": [
+    "dataset/Mazda/Mazda_012.jpg"
+  ],
+  "(170, 160, 190)": [
+    "dataset/Peugeot/Peugeot_038.jpg"
+  ],
+  "(170, 170, 140)": [
+    "dataset/Volkswagen/Volkswagen_058.jpg"
+  ],
+  "(170, 170, 160)": [
+    "dataset/Volkswagen/Volkswagen_044.jpg",
+    "dataset/Mini/Mini_015.jpg",
+    "dataset/Bentley/Bentley_067.jpg",
+    "dataset/BMW/BMW_069.jpg",
+    "dataset/Citroen/Citroen_034.jpg"
+  ],
+  "(170, 170, 170)": [
+    "dataset/Volkswagen/Volkswagen_061.jpg",
+    "dataset/Porsche/Porsche_022.jpg",
+    "dataset/Bugatti/Bugatti_003.jpg",
+    "dataset/Mitsubishi/Mitsubishi_008.jpg",
+    "dataset/GMC/GMC_056.jpg",
+    "dataset/GMC/GMC_044.jpg",
+    "dataset/Ford/Ford_010.jpg",
+    "dataset/Lincoln/Lincoln_013.jpg",
+    "dataset/Lincoln/Lincoln_097.jpg",
+    "dataset/Daewoo/Daewoo_049.jpg",
+    "dataset/Daewoo/Daewoo_038.jpg",
+    "dataset/Daewoo/Daewoo_034.jpg",
+    "dataset/Jeep/Jeep_009.jpg",
+    "dataset/Jeep/Jeep_041.jpg",
+    "dataset/Mazda/Mazda_016.jpg",
+    "dataset/MG/MG_073.jpg",
+    "dataset/Bentley/Bentley_068.jpg",
+    "dataset/Buick/Buick_075.jpg",
+    "dataset/Buick/Buick_025.jpg",
+    "dataset/Land Rover/Land Rover_054.jpg",
+    "dataset/Land Rover/Land Rover_040.jpg",
+    "dataset/Land Rover/Land Rover_075.jpg",
+    "dataset/Saab/Saab_068.jpg",
+    "dataset/Saab/Saab_049.jpg",
+    "dataset/Tesla/Tesla_047.jpg",
+    "dataset/Tesla/Tesla_023.jpg",
+    "dataset/Chevrolet/Chevrolet_060.jpg",
+    "dataset/Infiniti/Infiniti_055.jpg",
+    "dataset/Nissan/Nissan_021.jpg",
+    "dataset/Dodge/Dodge_066.jpg",
+    "dataset/Dodge/Dodge_010.jpg",
+    "dataset/Acura/Acura_009.jpg",
+    "dataset/Acura/Acura_036.jpg",
+    "dataset/Lexus/Lexus_065.jpg",
+    "dataset/Volvo/Volvo_029.jpg",
+    "dataset/Volvo/Volvo_010.jpg",
+    "dataset/Volvo/Volvo_043.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_066.jpg",
+    "dataset/Aston Martin/Aston Martin_067.jpg",
+    "dataset/Oldsmobile/Oldsmobile_088.jpg",
+    "dataset/Maserati/Maserati_019.jpg",
+    "dataset/Jaguar/Jaguar_040.jpg",
+    "dataset/Fiat/Fiat_037.jpg",
+    "dataset/Fiat/Fiat_002.jpg",
+    "dataset/Fiat/Fiat_011.jpg",
+    "dataset/Ram Trucks/Ram Trucks_064.jpg",
+    "dataset/Ram Trucks/Ram Trucks_088.jpg",
+    "dataset/Citroen/Citroen_075.jpg",
+    "dataset/Citroen/Citroen_022.jpg",
+    "dataset/Honda/Honda_072.jpg",
+    "dataset/Honda/Honda_002.jpg",
+    "dataset/Genesis/Genesis_000.jpg",
+    "dataset/Genesis/Genesis_045.jpg",
+    "dataset/Suzuki/Suzuki_040.jpg"
+  ],
+  "(170, 170, 180)": [
+    "dataset/Volkswagen/Volkswagen_007.jpg",
+    "dataset/Pontiac/Pontiac_080.jpg",
+    "dataset/MG/MG_052.jpg",
+    "dataset/Tesla/Tesla_061.jpg",
+    "dataset/Hyundai/Hyundai_020.jpg",
+    "dataset/Kia/Kia_069.jpg",
+    "dataset/Nissan/Nissan_035.jpg",
+    "dataset/Nissan/Nissan_085.jpg",
+    "dataset/Nissan/Nissan_067.jpg",
+    "dataset/Volvo/Volvo_003.jpg",
+    "dataset/Oldsmobile/Oldsmobile_061.jpg",
+    "dataset/Citroen/Citroen_054.jpg",
+    "dataset/Honda/Honda_050.jpg"
+  ],
+  "(170, 170, 190)": [
+    "dataset/Mitsubishi/Mitsubishi_050.jpg",
+    "dataset/Mitsubishi/Mitsubishi_010.jpg",
+    "dataset/Hudson/Hudson_025.jpg",
+    "dataset/Ferrari/Ferrari_092.jpg",
+    "dataset/Chevrolet/Chevrolet_041.jpg",
+    "dataset/Maserati/Maserati_025.jpg",
+    "dataset/Maserati/Maserati_024.jpg",
+    "dataset/Fiat/Fiat_076.jpg"
+  ],
+  "(170, 170, 200)": [
+    "dataset/GMC/GMC_058.jpg",
+    "dataset/GMC/GMC_052.jpg"
+  ],
+  "(170, 180, 170)": [
+    "dataset/Honda/Honda_029.jpg"
+  ],
+  "(170, 180, 180)": [
+    "dataset/GMC/GMC_093.jpg",
+    "dataset/Buick/Buick_049.jpg",
+    "dataset/Tesla/Tesla_077.jpg",
+    "dataset/Lexus/Lexus_083.jpg",
+    "dataset/Suzuki/Suzuki_080.jpg"
+  ],
+  "(170, 180, 190)": [
+    "dataset/Volkswagen/Volkswagen_038.jpg",
+    "dataset/Studebaker/Studebaker_025.jpg",
+    "dataset/GMC/GMC_084.jpg",
+    "dataset/Pontiac/Pontiac_034.jpg"
+  ],
+  "(170, 180, 200)": [
+    "dataset/Ferrari/Ferrari_074.jpg",
+    "dataset/Ferrari/Ferrari_031.jpg",
+    "dataset/Nissan/Nissan_013.jpg",
+    "dataset/Dodge/Dodge_076.jpg"
+  ],
+  "(170, 190, 190)": [
+    "dataset/Daewoo/Daewoo_064.jpg"
+  ],
+  "(170, 190, 200)": [
+    "dataset/Studebaker/Studebaker_084.jpg",
+    "dataset/Peugeot/Peugeot_000.jpg"
+  ],
+  "(170, 200, 210)": [
+    "dataset/Mitsubishi/Mitsubishi_077.jpg",
+    "dataset/Saab/Saab_020.jpg"
+  ],
+  "(180, 100, 30)": [
+    "dataset/Bugatti/Bugatti_024.jpg"
+  ],
+  "(180, 130, 80)": [
+    "dataset/Peugeot/Peugeot_003.jpg"
+  ],
+  "(180, 160, 140)": [
+    "dataset/Bugatti/Bugatti_006.jpg",
+    "dataset/MG/MG_003.jpg",
+    "dataset/Subaru/Subaru_000.jpg",
+    "dataset/Jaguar/Jaguar_029.jpg"
+  ],
+  "(180, 160, 150)": [
+    "dataset/GMC/GMC_003.jpg",
+    "dataset/Kia/Kia_034.jpg",
+    "dataset/Subaru/Subaru_006.jpg"
+  ],
+  "(180, 160, 160)": [
+    "dataset/Hudson/Hudson_089.jpg"
+  ],
+  "(180, 170, 100)": [
+    "dataset/Volkswagen/Volkswagen_023.jpg"
+  ],
+  "(180, 170, 140)": [
+    "dataset/Honda/Honda_022.jpg"
+  ],
+  "(180, 170, 150)": [
+    "dataset/Mitsubishi/Mitsubishi_072.jpg",
+    "dataset/Kia/Kia_063.jpg",
+    "dataset/Dodge/Dodge_020.jpg",
+    "dataset/Volvo/Volvo_061.jpg",
+    "dataset/Fiat/Fiat_043.jpg",
+    "dataset/Genesis/Genesis_070.jpg"
+  ],
+  "(180, 170, 160)": [
+    "dataset/Renault/Renault_030.jpg",
+    "dataset/Tesla/Tesla_027.jpg",
+    "dataset/Hyundai/Hyundai_018.jpg",
+    "dataset/Kia/Kia_054.jpg",
+    "dataset/Chevrolet/Chevrolet_008.jpg",
+    "dataset/Volvo/Volvo_054.jpg",
+    "dataset/Subaru/Subaru_020.jpg",
+    "dataset/Honda/Honda_023.jpg",
+    "dataset/Suzuki/Suzuki_026.jpg"
+  ],
+  "(180, 170, 170)": [
+    "dataset/Volkswagen/Volkswagen_089.jpg",
+    "dataset/Porsche/Porsche_005.jpg",
+    "dataset/GMC/GMC_092.jpg",
+    "dataset/Tesla/Tesla_024.jpg",
+    "dataset/Kia/Kia_031.jpg",
+    "dataset/Toyota/Toyota_018.jpg",
+    "dataset/Acura/Acura_023.jpg",
+    "dataset/Audi/Audi_074.jpg",
+    "dataset/Fiat/Fiat_015.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_053.jpg"
+  ],
+  "(180, 170, 180)": [
+    "dataset/Lincoln/Lincoln_038.jpg",
+    "dataset/MG/MG_111.jpg"
+  ],
+  "(180, 170, 190)": [
+    "dataset/GMC/GMC_081.jpg"
+  ],
+  "(180, 170, 200)": [
+    "dataset/MG/MG_101.jpg",
+    "dataset/Land Rover/Land Rover_072.jpg"
+  ],
+  "(180, 180, 160)": [
+    "dataset/Citroen/Citroen_071.jpg",
+    "dataset/Citroen/Citroen_051.jpg",
+    "dataset/Suzuki/Suzuki_042.jpg"
+  ],
+  "(180, 180, 170)": [
+    "dataset/Porsche/Porsche_043.jpg",
+    "dataset/Land Rover/Land Rover_030.jpg",
+    "dataset/Tesla/Tesla_017.jpg",
+    "dataset/Infiniti/Infiniti_039.jpg",
+    "dataset/Infiniti/Infiniti_054.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_073.jpg",
+    "dataset/Suzuki/Suzuki_009.jpg"
+  ],
+  "(180, 180, 180)": [
+    "dataset/Porsche/Porsche_064.jpg",
+    "dataset/Porsche/Porsche_078.jpg",
+    "dataset/Mitsubishi/Mitsubishi_076.jpg",
+    "dataset/Mitsubishi/Mitsubishi_066.jpg",
+    "dataset/Renault/Renault_057.jpg",
+    "dataset/Renault/Renault_011.jpg",
+    "dataset/Renault/Renault_029.jpg",
+    "dataset/Renault/Renault_065.jpg",
+    "dataset/GMC/GMC_060.jpg",
+    "dataset/GMC/GMC_022.jpg",
+    "dataset/GMC/GMC_026.jpg",
+    "dataset/Ford/Ford_002.jpg",
+    "dataset/Ford/Ford_051.jpg",
+    "dataset/Lincoln/Lincoln_099.jpg",
+    "dataset/Pontiac/Pontiac_029.jpg",
+    "dataset/Pontiac/Pontiac_008.jpg",
+    "dataset/Pontiac/Pontiac_041.jpg",
+    "dataset/Jeep/Jeep_038.jpg",
+    "dataset/Mazda/Mazda_000.jpg",
+    "dataset/MG/MG_128.jpg",
+    "dataset/Bentley/Bentley_037.jpg",
+    "dataset/Buick/Buick_090.jpg",
+    "dataset/Saab/Saab_072.jpg",
+    "dataset/Hyundai/Hyundai_010.jpg",
+    "dataset/Infiniti/Infiniti_058.jpg",
+    "dataset/Infiniti/Infiniti_084.jpg",
+    "dataset/Toyota/Toyota_041.jpg",
+    "dataset/Toyota/Toyota_034.jpg",
+    "dataset/Nissan/Nissan_023.jpg",
+    "dataset/Nissan/Nissan_043.jpg",
+    "dataset/Acura/Acura_001.jpg",
+    "dataset/Acura/Acura_068.jpg",
+    "dataset/Acura/Acura_047.jpg",
+    "dataset/Acura/Acura_022.jpg",
+    "dataset/Acura/Acura_025.jpg",
+    "dataset/Audi/Audi_052.jpg",
+    "dataset/Volvo/Volvo_017.jpg",
+    "dataset/Volvo/Volvo_028.jpg",
+    "dataset/Volvo/Volvo_039.jpg",
+    "dataset/Volvo/Volvo_006.jpg",
+    "dataset/Volvo/Volvo_032.jpg",
+    "dataset/Peugeot/Peugeot_057.jpg",
+    "dataset/Subaru/Subaru_025.jpg",
+    "dataset/Subaru/Subaru_074.jpg",
+    "dataset/Oldsmobile/Oldsmobile_064.jpg",
+    "dataset/Chrysler/Chrysler_055.jpg",
+    "dataset/Chrysler/Chrysler_069.jpg",
+    "dataset/Maserati/Maserati_060.jpg",
+    "dataset/Maserati/Maserati_076.jpg",
+    "dataset/Maserati/Maserati_022.jpg",
+    "dataset/Jaguar/Jaguar_075.jpg",
+    "dataset/Fiat/Fiat_052.jpg",
+    "dataset/Fiat/Fiat_049.jpg",
+    "dataset/Fiat/Fiat_048.jpg",
+    "dataset/Fiat/Fiat_058.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_047.jpg",
+    "dataset/Citroen/Citroen_015.jpg",
+    "dataset/Honda/Honda_019.jpg",
+    "dataset/Genesis/Genesis_010.jpg",
+    "dataset/Genesis/Genesis_036.jpg",
+    "dataset/Genesis/Genesis_037.jpg",
+    "dataset/Genesis/Genesis_053.jpg",
+    "dataset/Suzuki/Suzuki_066.jpg",
+    "dataset/Suzuki/Suzuki_005.jpg",
+    "dataset/Suzuki/Suzuki_027.jpg"
+  ],
+  "(180, 180, 190)": [
+    "dataset/Mitsubishi/Mitsubishi_060.jpg",
+    "dataset/GMC/GMC_091.jpg",
+    "dataset/Pontiac/Pontiac_061.jpg",
+    "dataset/Daewoo/Daewoo_024.jpg",
+    "dataset/Chevrolet/Chevrolet_019.jpg",
+    "dataset/Chevrolet/Chevrolet_053.jpg",
+    "dataset/Toyota/Toyota_058.jpg",
+    "dataset/Lexus/Lexus_007.jpg",
+    "dataset/Citroen/Citroen_045.jpg",
+    "dataset/Honda/Honda_031.jpg",
+    "dataset/Honda/Honda_084.jpg"
+  ],
+  "(180, 180, 200)": [
+    "dataset/Hudson/Hudson_026.jpg",
+    "dataset/Ferrari/Ferrari_082.jpg",
+    "dataset/Ford/Ford_057.jpg",
+    "dataset/Ford/Ford_044.jpg",
+    "dataset/Daewoo/Daewoo_043.jpg",
+    "dataset/Infiniti/Infiniti_075.jpg",
+    "dataset/Toyota/Toyota_066.jpg"
+  ],
+  "(180, 180, 220)": [
+    "dataset/Pontiac/Pontiac_065.jpg"
+  ],
+  "(180, 190, 180)": [
+    "dataset/Bentley/Bentley_060.jpg",
+    "dataset/Citroen/Citroen_087.jpg",
+    "dataset/Genesis/Genesis_084.jpg",
+    "dataset/Suzuki/Suzuki_006.jpg"
+  ],
+  "(180, 190, 190)": [
+    "dataset/Jeep/Jeep_037.jpg",
+    "dataset/Land Rover/Land Rover_086.jpg",
+    "dataset/Kia/Kia_007.jpg",
+    "dataset/Jaguar/Jaguar_022.jpg",
+    "dataset/Citroen/Citroen_041.jpg"
+  ],
+  "(180, 190, 200)": [
+    "dataset/Aston Martin/Aston Martin_089.jpg"
+  ],
+  "(180, 200, 190)": [
+    "dataset/Daewoo/Daewoo_019.jpg"
+  ],
+  "(180, 200, 200)": [
+    "dataset/Renault/Renault_031.jpg"
+  ],
+  "(180, 210, 210)": [
+    "dataset/Chrysler/Chrysler_043.jpg"
+  ],
+  "(180, 210, 220)": [
+    "dataset/Fiat/Fiat_054.jpg",
+    "dataset/Fiat/Fiat_044.jpg"
+  ],
+  "(180, 220, 220)": [
+    "dataset/Buick/Buick_088.jpg"
+  ],
+  "(190, 100, 30)": [
+    "dataset/Volkswagen/Volkswagen_032.jpg"
+  ],
+  "(190, 140, 110)": [
+    "dataset/Genesis/Genesis_026.jpg"
+  ],
+  "(190, 140, 50)": [
+    "dataset/Bugatti/Bugatti_058.jpg"
+  ],
+  "(190, 170, 160)": [
+    "dataset/Volkswagen/Volkswagen_054.jpg",
+    "dataset/Toyota/Toyota_087.jpg"
+  ],
+  "(190, 170, 170)": [
+    "dataset/Ford/Ford_070.jpg",
+    "dataset/Subaru/Subaru_044.jpg"
+  ],
+  "(190, 170, 200)": [
+    "dataset/Hudson/Hudson_069.jpg"
+  ],
+  "(190, 180, 170)": [
+    "dataset/Bugatti/Bugatti_021.jpg",
+    "dataset/Mitsubishi/Mitsubishi_073.jpg",
+    "dataset/Suzuki/Suzuki_090.jpg"
+  ],
+  "(190, 180, 180)": [
+    "dataset/Bugatti/Bugatti_089.jpg",
+    "dataset/Renault/Renault_046.jpg",
+    "dataset/Lincoln/Lincoln_011.jpg",
+    "dataset/Land Rover/Land Rover_006.jpg",
+    "dataset/Saab/Saab_058.jpg",
+    "dataset/Kia/Kia_042.jpg",
+    "dataset/Toyota/Toyota_036.jpg",
+    "dataset/Dodge/Dodge_030.jpg",
+    "dataset/BMW/BMW_067.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_013.jpg"
+  ],
+  "(190, 180, 190)": [
+    "dataset/Volkswagen/Volkswagen_017.jpg",
+    "dataset/Hudson/Hudson_048.jpg",
+    "dataset/Infiniti/Infiniti_030.jpg",
+    "dataset/Chrysler/Chrysler_075.jpg",
+    "dataset/Citroen/Citroen_014.jpg"
+  ],
+  "(190, 190, 160)": [
+    "dataset/MG/MG_118.jpg"
+  ],
+  "(190, 190, 180)": [
+    "dataset/Bugatti/Bugatti_046.jpg",
+    "dataset/Daewoo/Daewoo_013.jpg",
+    "dataset/Daewoo/Daewoo_033.jpg",
+    "dataset/Buick/Buick_030.jpg",
+    "dataset/Land Rover/Land Rover_035.jpg",
+    "dataset/Hyundai/Hyundai_041.jpg",
+    "dataset/Subaru/Subaru_060.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_071.jpg",
+    "dataset/Aston Martin/Aston Martin_006.jpg",
+    "dataset/Honda/Honda_061.jpg",
+    "dataset/Suzuki/Suzuki_002.jpg"
+  ],
+  "(190, 190, 190)": [
+    "dataset/Volkswagen/Volkswagen_004.jpg",
+    "dataset/Volkswagen/Volkswagen_012.jpg",
+    "dataset/Bugatti/Bugatti_045.jpg",
+    "dataset/Mitsubishi/Mitsubishi_022.jpg",
+    "dataset/Mitsubishi/Mitsubishi_007.jpg",
+    "dataset/GMC/GMC_013.jpg",
+    "dataset/GMC/GMC_086.jpg",
+    "dataset/Ferrari/Ferrari_080.jpg",
+    "dataset/Ford/Ford_032.jpg",
+    "dataset/Lincoln/Lincoln_092.jpg",
+    "dataset/Daewoo/Daewoo_040.jpg",
+    "dataset/Jeep/Jeep_029.jpg",
+    "dataset/MG/MG_009.jpg",
+    "dataset/MG/MG_096.jpg",
+    "dataset/Bentley/Bentley_070.jpg",
+    "dataset/Buick/Buick_011.jpg",
+    "dataset/Buick/Buick_087.jpg",
+    "dataset/Kia/Kia_024.jpg",
+    "dataset/Kia/Kia_032.jpg",
+    "dataset/Kia/Kia_077.jpg",
+    "dataset/Chevrolet/Chevrolet_063.jpg",
+    "dataset/Chevrolet/Chevrolet_004.jpg",
+    "dataset/Toyota/Toyota_028.jpg",
+    "dataset/Toyota/Toyota_048.jpg",
+    "dataset/Nissan/Nissan_040.jpg",
+    "dataset/Nissan/Nissan_072.jpg",
+    "dataset/Dodge/Dodge_013.jpg",
+    "dataset/Acura/Acura_002.jpg",
+    "dataset/Acura/Acura_006.jpg",
+    "dataset/Acura/Acura_033.jpg",
+    "dataset/Audi/Audi_059.jpg",
+    "dataset/Audi/Audi_071.jpg",
+    "dataset/Volvo/Volvo_079.jpg",
+    "dataset/Peugeot/Peugeot_009.jpg",
+    "dataset/Subaru/Subaru_027.jpg",
+    "dataset/Subaru/Subaru_072.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_030.jpg",
+    "dataset/Oldsmobile/Oldsmobile_076.jpg",
+    "dataset/Chrysler/Chrysler_006.jpg",
+    "dataset/Chrysler/Chrysler_028.jpg",
+    "dataset/Maserati/Maserati_038.jpg",
+    "dataset/Jaguar/Jaguar_076.jpg",
+    "dataset/BMW/BMW_017.jpg",
+    "dataset/BMW/BMW_076.jpg",
+    "dataset/Ram Trucks/Ram Trucks_028.jpg",
+    "dataset/Ram Trucks/Ram Trucks_033.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_010.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_004.jpg",
+    "dataset/Citroen/Citroen_046.jpg",
+    "dataset/Honda/Honda_011.jpg",
+    "dataset/Honda/Honda_000.jpg",
+    "dataset/Genesis/Genesis_017.jpg",
+    "dataset/Suzuki/Suzuki_023.jpg",
+    "dataset/Suzuki/Suzuki_018.jpg"
+  ],
+  "(190, 190, 200)": [
+    "dataset/Renault/Renault_037.jpg",
+    "dataset/Pontiac/Pontiac_066.jpg",
+    "dataset/Chevrolet/Chevrolet_031.jpg",
+    "dataset/Dodge/Dodge_023.jpg",
+    "dataset/BMW/BMW_015.jpg",
+    "dataset/Honda/Honda_074.jpg"
+  ],
+  "(190, 190, 210)": [
+    "dataset/Mitsubishi/Mitsubishi_031.jpg",
+    "dataset/Pontiac/Pontiac_048.jpg",
+    "dataset/Honda/Honda_003.jpg"
+  ],
+  "(190, 190, 220)": [
+    "dataset/Toyota/Toyota_069.jpg"
+  ],
+  "(190, 200, 190)": [
+    "dataset/Volkswagen/Volkswagen_011.jpg"
+  ],
+  "(190, 200, 200)": [
+    "dataset/Toyota/Toyota_014.jpg",
+    "dataset/Maserati/Maserati_044.jpg"
+  ],
+  "(190, 200, 210)": [
+    "dataset/Pontiac/Pontiac_040.jpg",
+    "dataset/Mini/Mini_008.jpg",
+    "dataset/Kia/Kia_005.jpg"
+  ],
+  "(190, 210, 210)": [
+    "dataset/Chevrolet/Chevrolet_087.jpg"
+  ],
+  "(190, 210, 220)": [
+    "dataset/Mitsubishi/Mitsubishi_006.jpg"
+  ],
+  "(190, 220, 220)": [
+    "dataset/Chevrolet/Chevrolet_078.jpg"
+  ],
+  "(20, 10, 10)": [
+    "dataset/Hyundai/Hyundai_037.jpg",
+    "dataset/Hyundai/Hyundai_062.jpg"
+  ],
+  "(20, 20, 20)": [
+    "dataset/Bugatti/Bugatti_081.jpg",
+    "dataset/Bentley/Bentley_087.jpg",
+    "dataset/Nissan/Nissan_077.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_035.jpg",
+    "dataset/Genesis/Genesis_063.jpg",
+    "dataset/Genesis/Genesis_005.jpg",
+    "dataset/Genesis/Genesis_081.jpg",
+    "dataset/Genesis/Genesis_078.jpg"
+  ],
+  "(20, 20, 30)": [
+    "dataset/Porsche/Porsche_076.jpg"
+  ],
+  "(20, 20, 50)": [
+    "dataset/Chevrolet/Chevrolet_043.jpg"
+  ],
+  "(20, 30, 60)": [
+    "dataset/Fiat/Fiat_071.jpg"
+  ],
+  "(20, 40, 40)": [
+    "dataset/Jaguar/Jaguar_024.jpg"
+  ],
+  "(200, 170, 150)": [
+    "dataset/Ford/Ford_082.jpg"
+  ],
+  "(200, 170, 160)": [
+    "dataset/Fiat/Fiat_062.jpg"
+  ],
+  "(200, 170, 170)": [
+    "dataset/Hudson/Hudson_035.jpg"
+  ],
+  "(200, 180, 150)": [
+    "dataset/Lexus/Lexus_020.jpg"
+  ],
+  "(200, 180, 170)": [
+    "dataset/Porsche/Porsche_066.jpg",
+    "dataset/Chevrolet/Chevrolet_068.jpg"
+  ],
+  "(200, 180, 180)": [
+    "dataset/Volkswagen/Volkswagen_087.jpg",
+    "dataset/Saab/Saab_047.jpg",
+    "dataset/Saab/Saab_053.jpg"
+  ],
+  "(200, 190, 170)": [
+    "dataset/Land Rover/Land Rover_022.jpg",
+    "dataset/Tesla/Tesla_065.jpg",
+    "dataset/Acura/Acura_079.jpg"
+  ],
+  "(200, 190, 180)": [
+    "dataset/Porsche/Porsche_047.jpg",
+    "dataset/Bugatti/Bugatti_068.jpg",
+    "dataset/Daewoo/Daewoo_077.jpg",
+    "dataset/Mazda/Mazda_021.jpg",
+    "dataset/BMW/BMW_039.jpg",
+    "dataset/Honda/Honda_014.jpg"
+  ],
+  "(200, 190, 190)": [
+    "dataset/Volkswagen/Volkswagen_066.jpg",
+    "dataset/Bugatti/Bugatti_005.jpg",
+    "dataset/Renault/Renault_061.jpg",
+    "dataset/Buick/Buick_070.jpg",
+    "dataset/Kia/Kia_070.jpg",
+    "dataset/Dodge/Dodge_058.jpg",
+    "dataset/Fiat/Fiat_084.jpg",
+    "dataset/Fiat/Fiat_026.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_026.jpg",
+    "dataset/Citroen/Citroen_044.jpg"
+  ],
+  "(200, 190, 210)": [
+    "dataset/Ferrari/Ferrari_072.jpg"
+  ],
+  "(200, 200, 120)": [
+    "dataset/Oldsmobile/Oldsmobile_095.jpg",
+    "dataset/Oldsmobile/Oldsmobile_015.jpg"
+  ],
+  "(200, 200, 190)": [
+    "dataset/Studebaker/Studebaker_026.jpg",
+    "dataset/Renault/Renault_069.jpg",
+    "dataset/GMC/GMC_027.jpg",
+    "dataset/Hudson/Hudson_065.jpg",
+    "dataset/MG/MG_014.jpg",
+    "dataset/MG/MG_085.jpg",
+    "dataset/Fiat/Fiat_022.jpg",
+    "dataset/Suzuki/Suzuki_059.jpg"
+  ],
+  "(200, 200, 200)": [
+    "dataset/Volkswagen/Volkswagen_053.jpg",
+    "dataset/Volkswagen/Volkswagen_060.jpg",
+    "dataset/Renault/Renault_050.jpg",
+    "dataset/Renault/Renault_055.jpg",
+    "dataset/Renault/Renault_034.jpg",
+    "dataset/Renault/Renault_005.jpg",
+    "dataset/Lincoln/Lincoln_088.jpg",
+    "dataset/Lincoln/Lincoln_059.jpg",
+    "dataset/Daewoo/Daewoo_061.jpg",
+    "dataset/Daewoo/Daewoo_022.jpg",
+    "dataset/Mini/Mini_036.jpg",
+    "dataset/MG/MG_051.jpg",
+    "dataset/Saab/Saab_035.jpg",
+    "dataset/Tesla/Tesla_075.jpg",
+    "dataset/Hyundai/Hyundai_054.jpg",
+    "dataset/Hyundai/Hyundai_029.jpg",
+    "dataset/Infiniti/Infiniti_028.jpg",
+    "dataset/Toyota/Toyota_019.jpg",
+    "dataset/Nissan/Nissan_081.jpg",
+    "dataset/Nissan/Nissan_007.jpg",
+    "dataset/Audi/Audi_069.jpg",
+    "dataset/Peugeot/Peugeot_065.jpg",
+    "dataset/Subaru/Subaru_015.jpg",
+    "dataset/Oldsmobile/Oldsmobile_093.jpg",
+    "dataset/Oldsmobile/Oldsmobile_069.jpg",
+    "dataset/Chrysler/Chrysler_029.jpg",
+    "dataset/Maserati/Maserati_056.jpg",
+    "dataset/Jaguar/Jaguar_079.jpg",
+    "dataset/Jaguar/Jaguar_015.jpg",
+    "dataset/Ram Trucks/Ram Trucks_084.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_035.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_003.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_072.jpg",
+    "dataset/Citroen/Citroen_089.jpg",
+    "dataset/Citroen/Citroen_067.jpg",
+    "dataset/Citroen/Citroen_055.jpg",
+    "dataset/Honda/Honda_015.jpg",
+    "dataset/Genesis/Genesis_097.jpg",
+    "dataset/Suzuki/Suzuki_016.jpg",
+    "dataset/Suzuki/Suzuki_052.jpg",
+    "dataset/Suzuki/Suzuki_053.jpg"
+  ],
+  "(200, 200, 210)": [
+    "dataset/Cadillac/Cadillac_029.jpg",
+    "dataset/Acura/Acura_064.jpg",
+    "dataset/Acura/Acura_042.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_050.jpg",
+    "dataset/Citroen/Citroen_082.jpg",
+    "dataset/Honda/Honda_082.jpg"
+  ],
+  "(200, 200, 220)": [
+    "dataset/Ferrari/Ferrari_046.jpg",
+    "dataset/MG/MG_125.jpg",
+    "dataset/Chevrolet/Chevrolet_077.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_057.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_012.jpg"
+  ],
+  "(200, 200, 230)": [
+    "dataset/Citroen/Citroen_003.jpg"
+  ],
+  "(200, 200, 250)": [
+    "dataset/Tesla/Tesla_084.jpg"
+  ],
+  "(200, 210, 210)": [
+    "dataset/Volkswagen/Volkswagen_056.jpg",
+    "dataset/Volkswagen/Volkswagen_049.jpg",
+    "dataset/Mini/Mini_084.jpg",
+    "dataset/Chevrolet/Chevrolet_028.jpg"
+  ],
+  "(210, 190, 170)": [
+    "dataset/Jaguar/Jaguar_068.jpg"
+  ],
+  "(210, 200, 190)": [
+    "dataset/Buick/Buick_040.jpg",
+    "dataset/Tesla/Tesla_001.jpg",
+    "dataset/Oldsmobile/Oldsmobile_079.jpg"
+  ],
+  "(210, 200, 200)": [
+    "dataset/Bugatti/Bugatti_073.jpg",
+    "dataset/Renault/Renault_066.jpg",
+    "dataset/Renault/Renault_076.jpg",
+    "dataset/GMC/GMC_025.jpg",
+    "dataset/MG/MG_034.jpg",
+    "dataset/Nissan/Nissan_016.jpg",
+    "dataset/Oldsmobile/Oldsmobile_023.jpg",
+    "dataset/Maserati/Maserati_079.jpg",
+    "dataset/Maserati/Maserati_036.jpg",
+    "dataset/Honda/Honda_001.jpg",
+    "dataset/Suzuki/Suzuki_061.jpg",
+    "dataset/Suzuki/Suzuki_082.jpg"
+  ],
+  "(210, 200, 210)": [
+    "dataset/Audi/Audi_062.jpg"
+  ],
+  "(210, 210, 200)": [
+    "dataset/Volkswagen/Volkswagen_034.jpg",
+    "dataset/Bugatti/Bugatti_036.jpg",
+    "dataset/Lincoln/Lincoln_030.jpg",
+    "dataset/Hyundai/Hyundai_002.jpg",
+    "dataset/Toyota/Toyota_059.jpg",
+    "dataset/Nissan/Nissan_054.jpg",
+    "dataset/Nissan/Nissan_049.jpg"
+  ],
+  "(210, 210, 210)": [
+    "dataset/Volkswagen/Volkswagen_063.jpg",
+    "dataset/Renault/Renault_045.jpg",
+    "dataset/Renault/Renault_072.jpg",
+    "dataset/Renault/Renault_059.jpg",
+    "dataset/GMC/GMC_077.jpg",
+    "dataset/Hudson/Hudson_099.jpg",
+    "dataset/Lincoln/Lincoln_087.jpg",
+    "dataset/Pontiac/Pontiac_046.jpg",
+    "dataset/Daewoo/Daewoo_053.jpg",
+    "dataset/Jeep/Jeep_067.jpg",
+    "dataset/Mazda/Mazda_018.jpg",
+    "dataset/MG/MG_012.jpg",
+    "dataset/MG/MG_119.jpg",
+    "dataset/Bentley/Bentley_012.jpg",
+    "dataset/Bentley/Bentley_029.jpg",
+    "dataset/Land Rover/Land Rover_070.jpg",
+    "dataset/Saab/Saab_007.jpg",
+    "dataset/Tesla/Tesla_087.jpg",
+    "dataset/Tesla/Tesla_008.jpg",
+    "dataset/Kia/Kia_049.jpg",
+    "dataset/Chevrolet/Chevrolet_056.jpg",
+    "dataset/Toyota/Toyota_003.jpg",
+    "dataset/Toyota/Toyota_006.jpg",
+    "dataset/Toyota/Toyota_090.jpg",
+    "dataset/Nissan/Nissan_018.jpg",
+    "dataset/Nissan/Nissan_052.jpg",
+    "dataset/Nissan/Nissan_057.jpg",
+    "dataset/Nissan/Nissan_062.jpg",
+    "dataset/Nissan/Nissan_014.jpg",
+    "dataset/Dodge/Dodge_008.jpg",
+    "dataset/Audi/Audi_004.jpg",
+    "dataset/Audi/Audi_064.jpg",
+    "dataset/Volvo/Volvo_066.jpg",
+    "dataset/Volvo/Volvo_044.jpg",
+    "dataset/Peugeot/Peugeot_005.jpg",
+    "dataset/Peugeot/Peugeot_055.jpg",
+    "dataset/Subaru/Subaru_055.jpg",
+    "dataset/Subaru/Subaru_059.jpg",
+    "dataset/Aston Martin/Aston Martin_022.jpg",
+    "dataset/Chrysler/Chrysler_050.jpg",
+    "dataset/Chrysler/Chrysler_088.jpg",
+    "dataset/Maserati/Maserati_007.jpg",
+    "dataset/Fiat/Fiat_001.jpg",
+    "dataset/Honda/Honda_076.jpg"
+  ],
+  "(210, 210, 220)": [
+    "dataset/Renault/Renault_064.jpg",
+    "dataset/MG/MG_023.jpg",
+    "dataset/MG/MG_134.jpg",
+    "dataset/Audi/Audi_082.jpg",
+    "dataset/Suzuki/Suzuki_077.jpg"
+  ],
+  "(210, 210, 230)": [
+    "dataset/Daewoo/Daewoo_050.jpg",
+    "dataset/Genesis/Genesis_064.jpg"
+  ],
+  "(210, 220, 220)": [
+    "dataset/Chevrolet/Chevrolet_022.jpg",
+    "dataset/Fiat/Fiat_014.jpg"
+  ],
+  "(210, 230, 220)": [
+    "dataset/Dodge/Dodge_052.jpg"
+  ],
+  "(220, 200, 160)": [
+    "dataset/Daewoo/Daewoo_087.jpg"
+  ],
+  "(220, 200, 190)": [
+    "dataset/Lexus/Lexus_017.jpg"
+  ],
+  "(220, 210, 200)": [
+    "dataset/Volkswagen/Volkswagen_001.jpg",
+    "dataset/BMW/BMW_081.jpg",
+    "dataset/BMW/BMW_003.jpg"
+  ],
+  "(220, 210, 210)": [
+    "dataset/Renault/Renault_070.jpg"
+  ],
+  "(220, 220, 200)": [
+    "dataset/Mitsubishi/Mitsubishi_041.jpg"
+  ],
+  "(220, 220, 210)": [
+    "dataset/Mitsubishi/Mitsubishi_064.jpg",
+    "dataset/MG/MG_106.jpg",
+    "dataset/Hyundai/Hyundai_064.jpg",
+    "dataset/Subaru/Subaru_037.jpg"
+  ],
+  "(220, 220, 220)": [
+    "dataset/Studebaker/Studebaker_037.jpg",
+    "dataset/Mitsubishi/Mitsubishi_068.jpg",
+    "dataset/Mitsubishi/Mitsubishi_040.jpg",
+    "dataset/Renault/Renault_007.jpg",
+    "dataset/Daewoo/Daewoo_070.jpg",
+    "dataset/Daewoo/Daewoo_099.jpg",
+    "dataset/Toyota/Toyota_057.jpg",
+    "dataset/Nissan/Nissan_051.jpg",
+    "dataset/Nissan/Nissan_061.jpg",
+    "dataset/Dodge/Dodge_080.jpg",
+    "dataset/Acura/Acura_035.jpg",
+    "dataset/Aston Martin/Aston Martin_053.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_084.jpg",
+    "dataset/Citroen/Citroen_088.jpg",
+    "dataset/Honda/Honda_088.jpg"
+  ],
+  "(220, 220, 230)": [
+    "dataset/Ferrari/Ferrari_083.jpg",
+    "dataset/MG/MG_070.jpg",
+    "dataset/Hyundai/Hyundai_056.jpg",
+    "dataset/Kia/Kia_014.jpg",
+    "dataset/Nissan/Nissan_060.jpg"
+  ],
+  "(220, 220, 240)": [
+    "dataset/MG/MG_081.jpg"
+  ],
+  "(230, 200, 180)": [
+    "dataset/Volkswagen/Volkswagen_082.jpg"
+  ],
+  "(230, 220, 220)": [
+    "dataset/Volkswagen/Volkswagen_093.jpg",
+    "dataset/Renault/Renault_047.jpg",
+    "dataset/MG/MG_078.jpg",
+    "dataset/Lexus/Lexus_068.jpg",
+    "dataset/Honda/Honda_045.jpg"
+  ],
+  "(230, 230, 220)": [
+    "dataset/Citroen/Citroen_008.jpg"
+  ],
+  "(230, 230, 230)": [
+    "dataset/Volkswagen/Volkswagen_036.jpg",
+    "dataset/MG/MG_126.jpg",
+    "dataset/MG/MG_127.jpg",
+    "dataset/Buick/Buick_000.jpg",
+    "dataset/Kia/Kia_061.jpg",
+    "dataset/Chevrolet/Chevrolet_045.jpg",
+    "dataset/Nissan/Nissan_025.jpg",
+    "dataset/Lexus/Lexus_026.jpg",
+    "dataset/Audi/Audi_030.jpg",
+    "dataset/Genesis/Genesis_075.jpg",
+    "dataset/Genesis/Genesis_067.jpg",
+    "dataset/Genesis/Genesis_071.jpg",
+    "dataset/Genesis/Genesis_091.jpg"
+  ],
+  "(230, 230, 240)": [
+    "dataset/Pontiac/Pontiac_088.jpg",
+    "dataset/MG/MG_097.jpg",
+    "dataset/Kia/Kia_011.jpg",
+    "dataset/Genesis/Genesis_057.jpg"
+  ],
+  "(230, 240, 240)": [
+    "dataset/MG/MG_086.jpg"
+  ],
+  "(240, 200, 140)": [
+    "dataset/Hudson/Hudson_097.jpg"
+  ],
+  "(240, 240, 240)": [
+    "dataset/Volkswagen/Volkswagen_020.jpg",
+    "dataset/Daewoo/Daewoo_071.jpg",
+    "dataset/MG/MG_117.jpg",
+    "dataset/MG/MG_131.jpg",
+    "dataset/Saab/Saab_037.jpg",
+    "dataset/Saab/Saab_076.jpg",
+    "dataset/Genesis/Genesis_060.jpg",
+    "dataset/Genesis/Genesis_082.jpg",
+    "dataset/Genesis/Genesis_094.jpg"
+  ],
+  "(240, 240, 250)": [
+    "dataset/MG/MG_124.jpg"
+  ],
+  "(250, 240, 240)": [
+    "dataset/Daewoo/Daewoo_068.jpg"
+  ],
+  "(250, 250, 250)": [
+    "dataset/Volkswagen/Volkswagen_086.jpg",
+    "dataset/Chrysler/Chrysler_079.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_023.jpg"
+  ],
+  "(30, 20, 20)": [
+    "dataset/Bugatti/Bugatti_077.jpg",
+    "dataset/Hyundai/Hyundai_015.jpg",
+    "dataset/Maserati/Maserati_010.jpg",
+    "dataset/Maserati/Maserati_023.jpg"
+  ],
+  "(30, 20, 30)": [
+    "dataset/Alfa Romeo/Alfa Romeo_003.jpg"
+  ],
+  "(30, 20, 40)": [
+    "dataset/Bugatti/Bugatti_047.jpg",
+    "dataset/Lexus/Lexus_027.jpg"
+  ],
+  "(30, 20, 50)": [
+    "dataset/Chevrolet/Chevrolet_012.jpg"
+  ],
+  "(30, 30, 20)": [
+    "dataset/Genesis/Genesis_080.jpg"
+  ],
+  "(30, 30, 30)": [
+    "dataset/Hyundai/Hyundai_032.jpg",
+    "dataset/Kia/Kia_047.jpg",
+    "dataset/Maserati/Maserati_002.jpg"
+  ],
+  "(30, 30, 40)": [
+    "dataset/Bugatti/Bugatti_025.jpg",
+    "dataset/Hyundai/Hyundai_076.jpg",
+    "dataset/Chevrolet/Chevrolet_076.jpg",
+    "dataset/Infiniti/Infiniti_071.jpg",
+    "dataset/Genesis/Genesis_021.jpg",
+    "dataset/Genesis/Genesis_052.jpg"
+  ],
+  "(30, 30, 50)": [
+    "dataset/Lincoln/Lincoln_024.jpg",
+    "dataset/Aston Martin/Aston Martin_071.jpg"
+  ],
+  "(30, 30, 70)": [
+    "dataset/Volvo/Volvo_009.jpg"
+  ],
+  "(30, 40, 120)": [
+    "dataset/Hudson/Hudson_090.jpg",
+    "dataset/Ferrari/Ferrari_093.jpg"
+  ],
+  "(30, 40, 30)": [
+    "dataset/BMW/BMW_079.jpg"
+  ],
+  "(30, 40, 70)": [
+    "dataset/Honda/Honda_027.jpg"
+  ],
+  "(30, 50, 30)": [
+    "dataset/Lincoln/Lincoln_075.jpg",
+    "dataset/Aston Martin/Aston Martin_021.jpg"
+  ],
+  "(30, 50, 90)": [
+    "dataset/Hudson/Hudson_031.jpg"
+  ],
+  "(30, 60, 80)": [
+    "dataset/Volkswagen/Volkswagen_079.jpg"
+  ],
+  "(40, 170, 220)": [
+    "dataset/Acura/Acura_070.jpg"
+  ],
+  "(40, 30, 30)": [
+    "dataset/Ford/Ford_029.jpg",
+    "dataset/Hyundai/Hyundai_087.jpg",
+    "dataset/Acura/Acura_038.jpg",
+    "dataset/Maserati/Maserati_043.jpg",
+    "dataset/BMW/BMW_058.jpg"
+  ],
+  "(40, 30, 40)": [
+    "dataset/Volkswagen/Volkswagen_009.jpg",
+    "dataset/Studebaker/Studebaker_043.jpg",
+    "dataset/Toyota/Toyota_029.jpg"
+  ],
+  "(40, 40, 120)": [
+    "dataset/Aston Martin/Aston Martin_074.jpg"
+  ],
+  "(40, 40, 30)": [
+    "dataset/Peugeot/Peugeot_010.jpg",
+    "dataset/Maserati/Maserati_029.jpg"
+  ],
+  "(40, 40, 40)": [
+    "dataset/Bugatti/Bugatti_075.jpg",
+    "dataset/Ferrari/Ferrari_065.jpg",
+    "dataset/Lincoln/Lincoln_095.jpg",
+    "dataset/MG/MG_122.jpg",
+    "dataset/Bentley/Bentley_027.jpg",
+    "dataset/Bentley/Bentley_010.jpg",
+    "dataset/Tesla/Tesla_066.jpg",
+    "dataset/Chevrolet/Chevrolet_020.jpg",
+    "dataset/Infiniti/Infiniti_002.jpg",
+    "dataset/Audi/Audi_024.jpg",
+    "dataset/Ram Trucks/Ram Trucks_032.jpg"
+  ],
+  "(40, 40, 50)": [
+    "dataset/Kia/Kia_071.jpg",
+    "dataset/Nissan/Nissan_080.jpg"
+  ],
+  "(40, 40, 60)": [
+    "dataset/Hyundai/Hyundai_050.jpg",
+    "dataset/Maserati/Maserati_077.jpg",
+    "dataset/Genesis/Genesis_042.jpg"
+  ],
+  "(40, 40, 70)": [
+    "dataset/Kia/Kia_015.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_052.jpg"
+  ],
+  "(40, 50, 50)": [
+    "dataset/Lexus/Lexus_035.jpg"
+  ],
+  "(40, 50, 60)": [
+    "dataset/Hudson/Hudson_077.jpg",
+    "dataset/MG/MG_059.jpg",
+    "dataset/Toyota/Toyota_039.jpg",
+    "dataset/Cadillac/Cadillac_060.jpg",
+    "dataset/Ram Trucks/Ram Trucks_062.jpg"
+  ],
+  "(40, 50, 80)": [
+    "dataset/Hudson/Hudson_079.jpg"
+  ],
+  "(40, 50, 90)": [
+    "dataset/Ferrari/Ferrari_028.jpg"
+  ],
+  "(40, 60, 60)": [
+    "dataset/Audi/Audi_046.jpg",
+    "dataset/Audi/Audi_050.jpg"
+  ],
+  "(40, 60, 90)": [
+    "dataset/Studebaker/Studebaker_048.jpg",
+    "dataset/Studebaker/Studebaker_057.jpg",
+    "dataset/Jeep/Jeep_019.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_025.jpg"
+  ],
+  "(40, 70, 120)": [
+    "dataset/Jaguar/Jaguar_077.jpg"
+  ],
+  "(40, 70, 60)": [
+    "dataset/Subaru/Subaru_041.jpg"
+  ],
+  "(40, 80, 60)": [
+    "dataset/Jaguar/Jaguar_055.jpg"
+  ],
+  "(40, 90, 100)": [
+    "dataset/Jeep/Jeep_012.jpg"
+  ],
+  "(50, 100, 120)": [
+    "dataset/Studebaker/Studebaker_042.jpg"
+  ],
+  "(50, 100, 80)": [
+    "dataset/Jaguar/Jaguar_093.jpg"
+  ],
+  "(50, 120, 110)": [
+    "dataset/Genesis/Genesis_086.jpg"
+  ],
+  "(50, 30, 30)": [
+    "dataset/Hyundai/Hyundai_042.jpg"
+  ],
+  "(50, 40, 30)": [
+    "dataset/Bugatti/Bugatti_043.jpg",
+    "dataset/Bentley/Bentley_056.jpg",
+    "dataset/Chevrolet/Chevrolet_069.jpg",
+    "dataset/BMW/BMW_013.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_022.jpg"
+  ],
+  "(50, 40, 40)": [
+    "dataset/Porsche/Porsche_010.jpg",
+    "dataset/Porsche/Porsche_037.jpg",
+    "dataset/Bugatti/Bugatti_061.jpg",
+    "dataset/Ford/Ford_074.jpg",
+    "dataset/Hyundai/Hyundai_021.jpg",
+    "dataset/Aston Martin/Aston Martin_088.jpg",
+    "dataset/Honda/Honda_085.jpg"
+  ],
+  "(50, 40, 50)": [
+    "dataset/Mazda/Mazda_009.jpg",
+    "dataset/Tesla/Tesla_025.jpg",
+    "dataset/Tesla/Tesla_067.jpg"
+  ],
+  "(50, 40, 60)": [
+    "dataset/Hyundai/Hyundai_048.jpg"
+  ],
+  "(50, 40, 70)": [
+    "dataset/Maserati/Maserati_042.jpg"
+  ],
+  "(50, 40, 90)": [
+    "dataset/Toyota/Toyota_008.jpg"
+  ],
+  "(50, 50, 110)": [
+    "dataset/Ferrari/Ferrari_075.jpg",
+    "dataset/Ferrari/Ferrari_001.jpg",
+    "dataset/Ferrari/Ferrari_030.jpg"
+  ],
+  "(50, 50, 130)": [
+    "dataset/Hudson/Hudson_023.jpg",
+    "dataset/Hudson/Hudson_000.jpg"
+  ],
+  "(50, 50, 40)": [
+    "dataset/MG/MG_027.jpg",
+    "dataset/Saab/Saab_006.jpg",
+    "dataset/Nissan/Nissan_010.jpg",
+    "dataset/Subaru/Subaru_073.jpg"
+  ],
+  "(50, 50, 50)": [
+    "dataset/Volkswagen/Volkswagen_091.jpg",
+    "dataset/Ford/Ford_077.jpg",
+    "dataset/MG/MG_057.jpg",
+    "dataset/MG/MG_043.jpg",
+    "dataset/Bentley/Bentley_038.jpg",
+    "dataset/Hyundai/Hyundai_009.jpg",
+    "dataset/Lexus/Lexus_005.jpg",
+    "dataset/Audi/Audi_056.jpg",
+    "dataset/Audi/Audi_081.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_065.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_059.jpg",
+    "dataset/BMW/BMW_048.jpg",
+    "dataset/Citroen/Citroen_033.jpg"
+  ],
+  "(50, 50, 60)": [
+    "dataset/Hudson/Hudson_098.jpg",
+    "dataset/Hudson/Hudson_060.jpg",
+    "dataset/Mazda/Mazda_022.jpg",
+    "dataset/Mazda/Mazda_057.jpg",
+    "dataset/MG/MG_076.jpg",
+    "dataset/MG/MG_129.jpg",
+    "dataset/Cadillac/Cadillac_058.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_073.jpg",
+    "dataset/Oldsmobile/Oldsmobile_071.jpg",
+    "dataset/Chrysler/Chrysler_010.jpg",
+    "dataset/BMW/BMW_021.jpg",
+    "dataset/Ram Trucks/Ram Trucks_022.jpg",
+    "dataset/Honda/Honda_018.jpg",
+    "dataset/Genesis/Genesis_062.jpg"
+  ],
+  "(50, 50, 70)": [
+    "dataset/Porsche/Porsche_029.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_005.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_007.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_009.jpg"
+  ],
+  "(50, 50, 80)": [
+    "dataset/Ferrari/Ferrari_059.jpg",
+    "dataset/Ferrari/Ferrari_047.jpg"
+  ],
+  "(50, 50, 90)": [
+    "dataset/Mazda/Mazda_085.jpg"
+  ],
+  "(50, 60, 120)": [
+    "dataset/Infiniti/Infiniti_050.jpg"
+  ],
+  "(50, 60, 50)": [
+    "dataset/Ford/Ford_062.jpg",
+    "dataset/Ford/Ford_023.jpg"
+  ],
+  "(50, 60, 60)": [
+    "dataset/Lincoln/Lincoln_098.jpg",
+    "dataset/Kia/Kia_083.jpg",
+    "dataset/Peugeot/Peugeot_066.jpg",
+    "dataset/Aston Martin/Aston Martin_007.jpg"
+  ],
+  "(50, 60, 70)": [
+    "dataset/Porsche/Porsche_040.jpg",
+    "dataset/Mitsubishi/Mitsubishi_035.jpg",
+    "dataset/MG/MG_095.jpg",
+    "dataset/Acura/Acura_045.jpg",
+    "dataset/Lexus/Lexus_042.jpg",
+    "dataset/Jaguar/Jaguar_062.jpg"
+  ],
+  "(50, 60, 80)": [
+    "dataset/Hudson/Hudson_041.jpg",
+    "dataset/Ferrari/Ferrari_076.jpg",
+    "dataset/Ferrari/Ferrari_045.jpg",
+    "dataset/Tesla/Tesla_056.jpg",
+    "dataset/Toyota/Toyota_024.jpg",
+    "dataset/Cadillac/Cadillac_031.jpg",
+    "dataset/Genesis/Genesis_089.jpg"
+  ],
+  "(50, 70, 80)": [
+    "dataset/Oldsmobile/Oldsmobile_052.jpg"
+  ],
+  "(50, 70, 90)": [
+    "dataset/Mini/Mini_030.jpg",
+    "dataset/Subaru/Subaru_080.jpg",
+    "dataset/Subaru/Subaru_017.jpg"
+  ],
+  "(50, 80, 100)": [
+    "dataset/Renault/Renault_075.jpg",
+    "dataset/Pontiac/Pontiac_077.jpg",
+    "dataset/Jaguar/Jaguar_054.jpg"
+  ],
+  "(50, 80, 110)": [
+    "dataset/Chevrolet/Chevrolet_011.jpg"
+  ],
+  "(60, 100, 100)": [
+    "dataset/Ram Trucks/Ram Trucks_025.jpg"
+  ],
+  "(60, 100, 110)": [
+    "dataset/Peugeot/Peugeot_081.jpg"
+  ],
+  "(60, 100, 90)": [
+    "dataset/Ford/Ford_033.jpg"
+  ],
+  "(60, 110, 130)": [
+    "dataset/Subaru/Subaru_076.jpg"
+  ],
+  "(60, 150, 170)": [
+    "dataset/Saab/Saab_022.jpg"
+  ],
+  "(60, 20, 30)": [
+    "dataset/Tesla/Tesla_071.jpg"
+  ],
+  "(60, 30, 10)": [
+    "dataset/Toyota/Toyota_011.jpg"
+  ],
+  "(60, 40, 40)": [
+    "dataset/Daewoo/Daewoo_055.jpg"
+  ],
+  "(60, 50, 30)": [
+    "dataset/Acura/Acura_052.jpg"
+  ],
+  "(60, 50, 40)": [
+    "dataset/Hudson/Hudson_043.jpg",
+    "dataset/Hudson/Hudson_081.jpg",
+    "dataset/Genesis/Genesis_027.jpg"
+  ],
+  "(60, 50, 50)": [
+    "dataset/GMC/GMC_043.jpg",
+    "dataset/Lincoln/Lincoln_084.jpg",
+    "dataset/Bentley/Bentley_048.jpg",
+    "dataset/Infiniti/Infiniti_009.jpg",
+    "dataset/Peugeot/Peugeot_014.jpg",
+    "dataset/Subaru/Subaru_038.jpg",
+    "dataset/Aston Martin/Aston Martin_080.jpg"
+  ],
+  "(60, 50, 60)": [
+    "dataset/Hudson/Hudson_056.jpg",
+    "dataset/MG/MG_123.jpg",
+    "dataset/Ram Trucks/Ram Trucks_037.jpg",
+    "dataset/Citroen/Citroen_065.jpg"
+  ],
+  "(60, 50, 90)": [
+    "dataset/Mazda/Mazda_086.jpg"
+  ],
+  "(60, 60, 100)": [
+    "dataset/Ferrari/Ferrari_088.jpg",
+    "dataset/Ferrari/Ferrari_044.jpg",
+    "dataset/Pontiac/Pontiac_013.jpg",
+    "dataset/Oldsmobile/Oldsmobile_086.jpg"
+  ],
+  "(60, 60, 110)": [
+    "dataset/Suzuki/Suzuki_048.jpg"
+  ],
+  "(60, 60, 50)": [
+    "dataset/Bugatti/Bugatti_051.jpg",
+    "dataset/Bugatti/Bugatti_053.jpg",
+    "dataset/Bugatti/Bugatti_082.jpg",
+    "dataset/GMC/GMC_049.jpg",
+    "dataset/GMC/GMC_054.jpg",
+    "dataset/Bentley/Bentley_008.jpg",
+    "dataset/Bentley/Bentley_000.jpg",
+    "dataset/Peugeot/Peugeot_063.jpg"
+  ],
+  "(60, 60, 60)": [
+    "dataset/Volkswagen/Volkswagen_081.jpg",
+    "dataset/Volkswagen/Volkswagen_021.jpg",
+    "dataset/Volkswagen/Volkswagen_076.jpg",
+    "dataset/Porsche/Porsche_080.jpg",
+    "dataset/GMC/GMC_078.jpg",
+    "dataset/Hudson/Hudson_058.jpg",
+    "dataset/Mazda/Mazda_083.jpg",
+    "dataset/Bentley/Bentley_080.jpg",
+    "dataset/Buick/Buick_018.jpg",
+    "dataset/Tesla/Tesla_018.jpg",
+    "dataset/Hyundai/Hyundai_043.jpg",
+    "dataset/Infiniti/Infiniti_011.jpg",
+    "dataset/Toyota/Toyota_075.jpg",
+    "dataset/Cadillac/Cadillac_018.jpg",
+    "dataset/Nissan/Nissan_069.jpg",
+    "dataset/Lexus/Lexus_050.jpg",
+    "dataset/Lexus/Lexus_046.jpg",
+    "dataset/Lexus/Lexus_043.jpg",
+    "dataset/Peugeot/Peugeot_043.jpg",
+    "dataset/Subaru/Subaru_084.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_036.jpg",
+    "dataset/Aston Martin/Aston Martin_078.jpg",
+    "dataset/Maserati/Maserati_031.jpg",
+    "dataset/Fiat/Fiat_010.jpg",
+    "dataset/Ram Trucks/Ram Trucks_090.jpg",
+    "dataset/Genesis/Genesis_024.jpg",
+    "dataset/Genesis/Genesis_047.jpg"
+  ],
+  "(60, 60, 70)": [
+    "dataset/Renault/Renault_040.jpg",
+    "dataset/Renault/Renault_043.jpg",
+    "dataset/Acura/Acura_058.jpg",
+    "dataset/Peugeot/Peugeot_006.jpg",
+    "dataset/Ram Trucks/Ram Trucks_089.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_012.jpg",
+    "dataset/Genesis/Genesis_068.jpg"
+  ],
+  "(60, 60, 80)": [
+    "dataset/Mazda/Mazda_006.jpg",
+    "dataset/Bentley/Bentley_015.jpg",
+    "dataset/Infiniti/Infiniti_082.jpg",
+    "dataset/Toyota/Toyota_030.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_079.jpg",
+    "dataset/Maserati/Maserati_008.jpg",
+    "dataset/Ram Trucks/Ram Trucks_009.jpg"
+  ],
+  "(60, 60, 90)": [
+    "dataset/Ram Trucks/Ram Trucks_023.jpg"
+  ],
+  "(60, 70, 100)": [
+    "dataset/Toyota/Toyota_043.jpg"
+  ],
+  "(60, 70, 110)": [
+    "dataset/Mini/Mini_028.jpg"
+  ],
+  "(60, 70, 60)": [
+    "dataset/Lexus/Lexus_079.jpg"
+  ],
+  "(60, 70, 70)": [
+    "dataset/Volkswagen/Volkswagen_041.jpg",
+    "dataset/Porsche/Porsche_001.jpg",
+    "dataset/Mitsubishi/Mitsubishi_071.jpg",
+    "dataset/Renault/Renault_044.jpg",
+    "dataset/Jeep/Jeep_076.jpg",
+    "dataset/Jeep/Jeep_027.jpg",
+    "dataset/Buick/Buick_083.jpg",
+    "dataset/Audi/Audi_021.jpg",
+    "dataset/Peugeot/Peugeot_007.jpg",
+    "dataset/Aston Martin/Aston Martin_034.jpg",
+    "dataset/Ram Trucks/Ram Trucks_041.jpg",
+    "dataset/Genesis/Genesis_087.jpg"
+  ],
+  "(60, 70, 80)": [
+    "dataset/Renault/Renault_074.jpg",
+    "dataset/Renault/Renault_077.jpg",
+    "dataset/Hudson/Hudson_067.jpg",
+    "dataset/MG/MG_133.jpg",
+    "dataset/Tesla/Tesla_041.jpg",
+    "dataset/Aston Martin/Aston Martin_069.jpg",
+    "dataset/Ram Trucks/Ram Trucks_057.jpg",
+    "dataset/Citroen/Citroen_025.jpg"
+  ],
+  "(60, 70, 90)": [
+    "dataset/Mini/Mini_003.jpg",
+    "dataset/Audi/Audi_025.jpg",
+    "dataset/Jaguar/Jaguar_087.jpg",
+    "dataset/Ram Trucks/Ram Trucks_031.jpg"
+  ],
+  "(60, 80, 100)": [
+    "dataset/Mini/Mini_055.jpg",
+    "dataset/Chrysler/Chrysler_061.jpg",
+    "dataset/Genesis/Genesis_018.jpg"
+  ],
+  "(60, 80, 110)": [
+    "dataset/Mazda/Mazda_024.jpg",
+    "dataset/Mazda/Mazda_045.jpg",
+    "dataset/Maserati/Maserati_059.jpg"
+  ],
+  "(60, 80, 70)": [
+    "dataset/Land Rover/Land Rover_080.jpg"
+  ],
+  "(60, 80, 80)": [
+    "dataset/Mitsubishi/Mitsubishi_043.jpg"
+  ],
+  "(60, 80, 90)": [
+    "dataset/Ford/Ford_035.jpg"
+  ],
+  "(60, 90, 100)": [
+    "dataset/Mercedes-Benz/Mercedes-Benz_082.jpg"
+  ],
+  "(60, 90, 110)": [
+    "dataset/Mini/Mini_018.jpg",
+    "dataset/Ram Trucks/Ram Trucks_026.jpg"
+  ],
+  "(60, 90, 80)": [
+    "dataset/Acura/Acura_084.jpg"
+  ],
+  "(60, 90, 90)": [
+    "dataset/Volkswagen/Volkswagen_027.jpg",
+    "dataset/GMC/GMC_001.jpg",
+    "dataset/Lincoln/Lincoln_065.jpg",
+    "dataset/Fiat/Fiat_041.jpg"
+  ],
+  "(70, 100, 100)": [
+    "dataset/Nissan/Nissan_015.jpg"
+  ],
+  "(70, 100, 110)": [
+    "dataset/Hudson/Hudson_076.jpg",
+    "dataset/Peugeot/Peugeot_028.jpg"
+  ],
+  "(70, 100, 120)": [
+    "dataset/Saab/Saab_017.jpg",
+    "dataset/Subaru/Subaru_083.jpg"
+  ],
+  "(70, 100, 130)": [
+    "dataset/Daewoo/Daewoo_066.jpg"
+  ],
+  "(70, 100, 140)": [
+    "dataset/Studebaker/Studebaker_069.jpg"
+  ],
+  "(70, 100, 160)": [
+    "dataset/Hudson/Hudson_008.jpg"
+  ],
+  "(70, 100, 70)": [
+    "dataset/Pontiac/Pontiac_027.jpg"
+  ],
+  "(70, 100, 80)": [
+    "dataset/Bentley/Bentley_088.jpg"
+  ],
+  "(70, 110, 100)": [
+    "dataset/Chevrolet/Chevrolet_049.jpg",
+    "dataset/Infiniti/Infiniti_070.jpg",
+    "dataset/Nissan/Nissan_079.jpg"
+  ],
+  "(70, 110, 110)": [
+    "dataset/Pontiac/Pontiac_083.jpg"
+  ],
+  "(70, 110, 120)": [
+    "dataset/Pontiac/Pontiac_005.jpg",
+    "dataset/Aston Martin/Aston Martin_023.jpg"
+  ],
+  "(70, 110, 140)": [
+    "dataset/Jaguar/Jaguar_059.jpg"
+  ],
+  "(70, 120, 100)": [
+    "dataset/Cadillac/Cadillac_007.jpg"
+  ],
+  "(70, 120, 110)": [
+    "dataset/Studebaker/Studebaker_005.jpg"
+  ],
+  "(70, 120, 120)": [
+    "dataset/MG/MG_077.jpg"
+  ],
+  "(70, 130, 110)": [
+    "dataset/Fiat/Fiat_042.jpg"
+  ],
+  "(70, 180, 210)": [
+    "dataset/Mercedes-Benz/Mercedes-Benz_086.jpg"
+  ],
+  "(70, 30, 200)": [
+    "dataset/Nissan/Nissan_046.jpg"
+  ],
+  "(70, 40, 40)": [
+    "dataset/Genesis/Genesis_056.jpg"
+  ],
+  "(70, 40, 50)": [
+    "dataset/Aston Martin/Aston Martin_030.jpg"
+  ],
+  "(70, 50, 50)": [
+    "dataset/Hudson/Hudson_083.jpg"
+  ],
+  "(70, 50, 60)": [
+    "dataset/Ram Trucks/Ram Trucks_012.jpg"
+  ],
+  "(70, 60, 130)": [
+    "dataset/Jeep/Jeep_070.jpg"
+  ],
+  "(70, 60, 30)": [
+    "dataset/Jaguar/Jaguar_067.jpg"
+  ],
+  "(70, 60, 40)": [
+    "dataset/Honda/Honda_048.jpg"
+  ],
+  "(70, 60, 60)": [
+    "dataset/Porsche/Porsche_049.jpg",
+    "dataset/Hyundai/Hyundai_071.jpg",
+    "dataset/Kia/Kia_003.jpg",
+    "dataset/Toyota/Toyota_053.jpg",
+    "dataset/Cadillac/Cadillac_065.jpg",
+    "dataset/Volvo/Volvo_021.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_042.jpg",
+    "dataset/Aston Martin/Aston Martin_039.jpg",
+    "dataset/Aston Martin/Aston Martin_011.jpg",
+    "dataset/Aston Martin/Aston Martin_048.jpg",
+    "dataset/Chrysler/Chrysler_076.jpg",
+    "dataset/BMW/BMW_049.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_045.jpg"
+  ],
+  "(70, 60, 70)": [
+    "dataset/Mazda/Mazda_073.jpg",
+    "dataset/MG/MG_079.jpg",
+    "dataset/Tesla/Tesla_051.jpg"
+  ],
+  "(70, 60, 80)": [
+    "dataset/Ford/Ford_024.jpg",
+    "dataset/Mazda/Mazda_005.jpg",
+    "dataset/Mazda/Mazda_036.jpg",
+    "dataset/Mazda/Mazda_087.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_037.jpg"
+  ],
+  "(70, 60, 90)": [
+    "dataset/Pontiac/Pontiac_090.jpg",
+    "dataset/Hyundai/Hyundai_035.jpg"
+  ],
+  "(70, 70, 100)": [
+    "dataset/Mini/Mini_046.jpg",
+    "dataset/Mazda/Mazda_031.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_062.jpg",
+    "dataset/Oldsmobile/Oldsmobile_060.jpg"
+  ],
+  "(70, 70, 110)": [
+    "dataset/Ferrari/Ferrari_019.jpg",
+    "dataset/Suzuki/Suzuki_093.jpg"
+  ],
+  "(70, 70, 120)": [
+    "dataset/Toyota/Toyota_015.jpg"
+  ],
+  "(70, 70, 60)": [
+    "dataset/Studebaker/Studebaker_083.jpg",
+    "dataset/Bugatti/Bugatti_016.jpg",
+    "dataset/Renault/Renault_015.jpg",
+    "dataset/GMC/GMC_076.jpg",
+    "dataset/Pontiac/Pontiac_016.jpg",
+    "dataset/Bentley/Bentley_073.jpg",
+    "dataset/Hyundai/Hyundai_059.jpg",
+    "dataset/Infiniti/Infiniti_076.jpg",
+    "dataset/Cadillac/Cadillac_026.jpg",
+    "dataset/Dodge/Dodge_041.jpg",
+    "dataset/Peugeot/Peugeot_017.jpg",
+    "dataset/Subaru/Subaru_016.jpg",
+    "dataset/Jaguar/Jaguar_042.jpg",
+    "dataset/Honda/Honda_034.jpg"
+  ],
+  "(70, 70, 70)": [
+    "dataset/Volkswagen/Volkswagen_069.jpg",
+    "dataset/Volkswagen/Volkswagen_065.jpg",
+    "dataset/Bugatti/Bugatti_056.jpg",
+    "dataset/Renault/Renault_023.jpg",
+    "dataset/GMC/GMC_075.jpg",
+    "dataset/Ford/Ford_020.jpg",
+    "dataset/Daewoo/Daewoo_021.jpg",
+    "dataset/Mini/Mini_079.jpg",
+    "dataset/Mini/Mini_047.jpg",
+    "dataset/Mini/Mini_024.jpg",
+    "dataset/Mini/Mini_038.jpg",
+    "dataset/Jeep/Jeep_028.jpg",
+    "dataset/Mazda/Mazda_015.jpg",
+    "dataset/Bentley/Bentley_033.jpg",
+    "dataset/Buick/Buick_060.jpg",
+    "dataset/Buick/Buick_037.jpg",
+    "dataset/Saab/Saab_091.jpg",
+    "dataset/Saab/Saab_082.jpg",
+    "dataset/Tesla/Tesla_030.jpg",
+    "dataset/Tesla/Tesla_029.jpg",
+    "dataset/Kia/Kia_004.jpg",
+    "dataset/Infiniti/Infiniti_062.jpg",
+    "dataset/Infiniti/Infiniti_044.jpg",
+    "dataset/Infiniti/Infiniti_046.jpg",
+    "dataset/Cadillac/Cadillac_082.jpg",
+    "dataset/Dodge/Dodge_078.jpg",
+    "dataset/Dodge/Dodge_004.jpg",
+    "dataset/Acura/Acura_004.jpg",
+    "dataset/Audi/Audi_055.jpg",
+    "dataset/Audi/Audi_013.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_055.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_004.jpg",
+    "dataset/Aston Martin/Aston Martin_033.jpg",
+    "dataset/Aston Martin/Aston Martin_001.jpg",
+    "dataset/Chrysler/Chrysler_065.jpg",
+    "dataset/BMW/BMW_055.jpg",
+    "dataset/Fiat/Fiat_046.jpg",
+    "dataset/Fiat/Fiat_059.jpg",
+    "dataset/Citroen/Citroen_043.jpg",
+    "dataset/Honda/Honda_056.jpg",
+    "dataset/Honda/Honda_069.jpg"
+  ],
+  "(70, 70, 80)": [
+    "dataset/Porsche/Porsche_031.jpg",
+    "dataset/Bugatti/Bugatti_013.jpg",
+    "dataset/Renault/Renault_009.jpg",
+    "dataset/Hudson/Hudson_033.jpg",
+    "dataset/Ford/Ford_088.jpg",
+    "dataset/Lincoln/Lincoln_089.jpg",
+    "dataset/Mini/Mini_083.jpg",
+    "dataset/Mini/Mini_019.jpg",
+    "dataset/Mini/Mini_076.jpg",
+    "dataset/Infiniti/Infiniti_005.jpg",
+    "dataset/Toyota/Toyota_005.jpg",
+    "dataset/Toyota/Toyota_061.jpg",
+    "dataset/Aston Martin/Aston Martin_025.jpg",
+    "dataset/Maserati/Maserati_078.jpg",
+    "dataset/BMW/BMW_002.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_055.jpg",
+    "dataset/Honda/Honda_030.jpg"
+  ],
+  "(70, 70, 90)": [
+    "dataset/Ferrari/Ferrari_066.jpg",
+    "dataset/Kia/Kia_036.jpg",
+    "dataset/Audi/Audi_051.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_067.jpg",
+    "dataset/Aston Martin/Aston Martin_086.jpg"
+  ],
+  "(70, 80, 100)": [
+    "dataset/Daewoo/Daewoo_090.jpg",
+    "dataset/Buick/Buick_082.jpg",
+    "dataset/Chevrolet/Chevrolet_034.jpg",
+    "dataset/Nissan/Nissan_042.jpg",
+    "dataset/Jaguar/Jaguar_052.jpg",
+    "dataset/Jaguar/Jaguar_060.jpg"
+  ],
+  "(70, 80, 110)": [
+    "dataset/Studebaker/Studebaker_060.jpg",
+    "dataset/Studebaker/Studebaker_052.jpg",
+    "dataset/Hudson/Hudson_075.jpg",
+    "dataset/Jeep/Jeep_053.jpg",
+    "dataset/Oldsmobile/Oldsmobile_009.jpg"
+  ],
+  "(70, 80, 120)": [
+    "dataset/Hudson/Hudson_030.jpg"
+  ],
+  "(70, 80, 140)": [
+    "dataset/Buick/Buick_017.jpg",
+    "dataset/Buick/Buick_085.jpg"
+  ],
+  "(70, 80, 70)": [
+    "dataset/Studebaker/Studebaker_006.jpg",
+    "dataset/Ferrari/Ferrari_022.jpg",
+    "dataset/Lincoln/Lincoln_080.jpg",
+    "dataset/Pontiac/Pontiac_011.jpg",
+    "dataset/Mini/Mini_011.jpg",
+    "dataset/Saab/Saab_018.jpg"
+  ],
+  "(70, 80, 80)": [
+    "dataset/Mitsubishi/Mitsubishi_009.jpg",
+    "dataset/Ford/Ford_061.jpg",
+    "dataset/Ford/Ford_026.jpg",
+    "dataset/Pontiac/Pontiac_047.jpg",
+    "dataset/Mini/Mini_069.jpg",
+    "dataset/MG/MG_100.jpg",
+    "dataset/Bentley/Bentley_024.jpg",
+    "dataset/Bentley/Bentley_059.jpg",
+    "dataset/Land Rover/Land Rover_032.jpg",
+    "dataset/Nissan/Nissan_036.jpg",
+    "dataset/Nissan/Nissan_012.jpg",
+    "dataset/Dodge/Dodge_061.jpg",
+    "dataset/Acura/Acura_034.jpg",
+    "dataset/Lexus/Lexus_060.jpg",
+    "dataset/Aston Martin/Aston Martin_020.jpg",
+    "dataset/Aston Martin/Aston Martin_063.jpg",
+    "dataset/Oldsmobile/Oldsmobile_026.jpg",
+    "dataset/Chrysler/Chrysler_016.jpg",
+    "dataset/BMW/BMW_009.jpg",
+    "dataset/Citroen/Citroen_072.jpg",
+    "dataset/Genesis/Genesis_092.jpg"
+  ],
+  "(70, 80, 90)": [
+    "dataset/GMC/GMC_037.jpg",
+    "dataset/Ford/Ford_038.jpg",
+    "dataset/Ford/Ford_067.jpg",
+    "dataset/Mini/Mini_044.jpg",
+    "dataset/Mini/Mini_052.jpg",
+    "dataset/Bentley/Bentley_020.jpg",
+    "dataset/Cadillac/Cadillac_023.jpg",
+    "dataset/Cadillac/Cadillac_072.jpg",
+    "dataset/Cadillac/Cadillac_076.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_000.jpg",
+    "dataset/Maserati/Maserati_039.jpg",
+    "dataset/Genesis/Genesis_029.jpg"
+  ],
+  "(70, 90, 100)": [
+    "dataset/Mitsubishi/Mitsubishi_051.jpg",
+    "dataset/Lincoln/Lincoln_078.jpg",
+    "dataset/MG/MG_049.jpg",
+    "dataset/Saab/Saab_033.jpg",
+    "dataset/Tesla/Tesla_058.jpg",
+    "dataset/Cadillac/Cadillac_055.jpg",
+    "dataset/Nissan/Nissan_009.jpg",
+    "dataset/Acura/Acura_046.jpg"
+  ],
+  "(70, 90, 110)": [
+    "dataset/Hudson/Hudson_009.jpg",
+    "dataset/Ford/Ford_072.jpg",
+    "dataset/Ford/Ford_047.jpg",
+    "dataset/Lincoln/Lincoln_101.jpg",
+    "dataset/Mini/Mini_034.jpg",
+    "dataset/Mazda/Mazda_023.jpg",
+    "dataset/Nissan/Nissan_071.jpg",
+    "dataset/Oldsmobile/Oldsmobile_075.jpg",
+    "dataset/Jaguar/Jaguar_047.jpg"
+  ],
+  "(70, 90, 120)": [
+    "dataset/Acura/Acura_039.jpg"
+  ],
+  "(70, 90, 130)": [
+    "dataset/Jeep/Jeep_062.jpg",
+    "dataset/Infiniti/Infiniti_067.jpg"
+  ],
+  "(70, 90, 70)": [
+    "dataset/Mitsubishi/Mitsubishi_044.jpg"
+  ],
+  "(70, 90, 80)": [
+    "dataset/Mitsubishi/Mitsubishi_084.jpg",
+    "dataset/Daewoo/Daewoo_100.jpg",
+    "dataset/Honda/Honda_066.jpg"
+  ],
+  "(70, 90, 90)": [
+    "dataset/Mitsubishi/Mitsubishi_055.jpg",
+    "dataset/Mini/Mini_032.jpg",
+    "dataset/MG/MG_022.jpg",
+    "dataset/Bentley/Bentley_077.jpg",
+    "dataset/Chevrolet/Chevrolet_046.jpg",
+    "dataset/Chevrolet/Chevrolet_072.jpg",
+    "dataset/Audi/Audi_031.jpg",
+    "dataset/Aston Martin/Aston Martin_003.jpg",
+    "dataset/Suzuki/Suzuki_013.jpg"
+  ],
+  "(80, 100, 100)": [
+    "dataset/Porsche/Porsche_013.jpg",
+    "dataset/Studebaker/Studebaker_017.jpg",
+    "dataset/Mitsubishi/Mitsubishi_013.jpg",
+    "dataset/Bentley/Bentley_040.jpg",
+    "dataset/Buick/Buick_054.jpg",
+    "dataset/Infiniti/Infiniti_090.jpg",
+    "dataset/Aston Martin/Aston Martin_009.jpg",
+    "dataset/Oldsmobile/Oldsmobile_048.jpg",
+    "dataset/Chrysler/Chrysler_083.jpg",
+    "dataset/Jaguar/Jaguar_069.jpg",
+    "dataset/Suzuki/Suzuki_092.jpg",
+    "dataset/Suzuki/Suzuki_046.jpg"
+  ],
+  "(80, 100, 110)": [
+    "dataset/Lincoln/Lincoln_002.jpg",
+    "dataset/Chevrolet/Chevrolet_038.jpg",
+    "dataset/Infiniti/Infiniti_020.jpg",
+    "dataset/Cadillac/Cadillac_020.jpg",
+    "dataset/Cadillac/Cadillac_040.jpg",
+    "dataset/Cadillac/Cadillac_075.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_027.jpg",
+    "dataset/Aston Martin/Aston Martin_054.jpg",
+    "dataset/Oldsmobile/Oldsmobile_046.jpg",
+    "dataset/Chrysler/Chrysler_052.jpg",
+    "dataset/Fiat/Fiat_009.jpg",
+    "dataset/Honda/Honda_075.jpg",
+    "dataset/Suzuki/Suzuki_032.jpg"
+  ],
+  "(80, 100, 120)": [
+    "dataset/Bentley/Bentley_054.jpg",
+    "dataset/Cadillac/Cadillac_008.jpg",
+    "dataset/Cadillac/Cadillac_059.jpg"
+  ],
+  "(80, 100, 130)": [
+    "dataset/Jaguar/Jaguar_034.jpg"
+  ],
+  "(80, 100, 150)": [
+    "dataset/Renault/Renault_004.jpg",
+    "dataset/Hudson/Hudson_014.jpg"
+  ],
+  "(80, 100, 90)": [
+    "dataset/Bugatti/Bugatti_080.jpg",
+    "dataset/Acura/Acura_008.jpg",
+    "dataset/Volvo/Volvo_022.jpg",
+    "dataset/Oldsmobile/Oldsmobile_002.jpg"
+  ],
+  "(80, 110, 100)": [
+    "dataset/Studebaker/Studebaker_081.jpg"
+  ],
+  "(80, 110, 110)": [
+    "dataset/Infiniti/Infiniti_061.jpg"
+  ],
+  "(80, 110, 120)": [
+    "dataset/Aston Martin/Aston Martin_079.jpg",
+    "dataset/Oldsmobile/Oldsmobile_068.jpg"
+  ],
+  "(80, 110, 130)": [
+    "dataset/Saab/Saab_045.jpg",
+    "dataset/Jaguar/Jaguar_004.jpg"
+  ],
+  "(80, 110, 90)": [
+    "dataset/Buick/Buick_061.jpg"
+  ],
+  "(80, 120, 110)": [
+    "dataset/Studebaker/Studebaker_101.jpg",
+    "dataset/Mazda/Mazda_066.jpg",
+    "dataset/Nissan/Nissan_003.jpg"
+  ],
+  "(80, 120, 120)": [
+    "dataset/Mitsubishi/Mitsubishi_021.jpg",
+    "dataset/MG/MG_040.jpg"
+  ],
+  "(80, 120, 130)": [
+    "dataset/Mini/Mini_007.jpg"
+  ],
+  "(80, 120, 160)": [
+    "dataset/Acura/Acura_000.jpg"
+  ],
+  "(80, 120, 170)": [
+    "dataset/Bentley/Bentley_044.jpg"
+  ],
+  "(80, 120, 70)": [
+    "dataset/Bentley/Bentley_039.jpg"
+  ],
+  "(80, 130, 140)": [
+    "dataset/Kia/Kia_048.jpg"
+  ],
+  "(80, 130, 150)": [
+    "dataset/MG/MG_005.jpg"
+  ],
+  "(80, 160, 170)": [
+    "dataset/MG/MG_098.jpg"
+  ],
+  "(80, 50, 40)": [
+    "dataset/Tesla/Tesla_037.jpg"
+  ],
+  "(80, 50, 50)": [
+    "dataset/Lexus/Lexus_072.jpg"
+  ],
+  "(80, 60, 40)": [
+    "dataset/Ferrari/Ferrari_043.jpg",
+    "dataset/Toyota/Toyota_062.jpg",
+    "dataset/Acura/Acura_013.jpg",
+    "dataset/Acura/Acura_067.jpg"
+  ],
+  "(80, 60, 50)": [
+    "dataset/Alfa Romeo/Alfa Romeo_032.jpg"
+  ],
+  "(80, 60, 60)": [
+    "dataset/Infiniti/Infiniti_060.jpg"
+  ],
+  "(80, 60, 70)": [
+    "dataset/Volkswagen/Volkswagen_080.jpg"
+  ],
+  "(80, 70, 100)": [
+    "dataset/Ferrari/Ferrari_050.jpg",
+    "dataset/MG/MG_053.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_080.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_013.jpg"
+  ],
+  "(80, 70, 110)": [
+    "dataset/GMC/GMC_040.jpg"
+  ],
+  "(80, 70, 50)": [
+    "dataset/Jeep/Jeep_087.jpg",
+    "dataset/Genesis/Genesis_031.jpg"
+  ],
+  "(80, 70, 60)": [
+    "dataset/Bugatti/Bugatti_090.jpg",
+    "dataset/Subaru/Subaru_022.jpg",
+    "dataset/Aston Martin/Aston Martin_029.jpg",
+    "dataset/Jaguar/Jaguar_017.jpg",
+    "dataset/Genesis/Genesis_007.jpg"
+  ],
+  "(80, 70, 70)": [
+    "dataset/Porsche/Porsche_007.jpg",
+    "dataset/Bugatti/Bugatti_049.jpg",
+    "dataset/Ford/Ford_048.jpg",
+    "dataset/Ford/Ford_059.jpg",
+    "dataset/Pontiac/Pontiac_033.jpg",
+    "dataset/Pontiac/Pontiac_037.jpg",
+    "dataset/MG/MG_065.jpg",
+    "dataset/Land Rover/Land Rover_078.jpg",
+    "dataset/Infiniti/Infiniti_077.jpg",
+    "dataset/Acura/Acura_088.jpg",
+    "dataset/Lexus/Lexus_070.jpg",
+    "dataset/Volvo/Volvo_085.jpg",
+    "dataset/Aston Martin/Aston Martin_090.jpg",
+    "dataset/BMW/BMW_070.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_027.jpg"
+  ],
+  "(80, 70, 80)": [
+    "dataset/Mitsubishi/Mitsubishi_052.jpg",
+    "dataset/Hudson/Hudson_040.jpg",
+    "dataset/Ford/Ford_050.jpg",
+    "dataset/Ford/Ford_037.jpg",
+    "dataset/Lincoln/Lincoln_017.jpg",
+    "dataset/Hyundai/Hyundai_070.jpg",
+    "dataset/Volvo/Volvo_078.jpg",
+    "dataset/Subaru/Subaru_066.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_016.jpg",
+    "dataset/Ram Trucks/Ram Trucks_035.jpg"
+  ],
+  "(80, 70, 90)": [
+    "dataset/Toyota/Toyota_051.jpg",
+    "dataset/Nissan/Nissan_064.jpg",
+    "dataset/Chrysler/Chrysler_045.jpg",
+    "dataset/Ram Trucks/Ram Trucks_061.jpg"
+  ],
+  "(80, 80, 100)": [
+    "dataset/Renault/Renault_019.jpg",
+    "dataset/Renault/Renault_060.jpg",
+    "dataset/Ferrari/Ferrari_057.jpg",
+    "dataset/MG/MG_071.jpg",
+    "dataset/MG/MG_046.jpg",
+    "dataset/Acura/Acura_029.jpg",
+    "dataset/Chrysler/Chrysler_005.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_070.jpg",
+    "dataset/Citroen/Citroen_036.jpg",
+    "dataset/Honda/Honda_086.jpg"
+  ],
+  "(80, 80, 110)": [
+    "dataset/Ferrari/Ferrari_067.jpg",
+    "dataset/Ferrari/Ferrari_012.jpg",
+    "dataset/Ferrari/Ferrari_023.jpg",
+    "dataset/MG/MG_048.jpg",
+    "dataset/Tesla/Tesla_062.jpg",
+    "dataset/Subaru/Subaru_077.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_033.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_043.jpg"
+  ],
+  "(80, 80, 120)": [
+    "dataset/Jeep/Jeep_069.jpg",
+    "dataset/Buick/Buick_039.jpg",
+    "dataset/Audi/Audi_076.jpg"
+  ],
+  "(80, 80, 130)": [
+    "dataset/Daewoo/Daewoo_030.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_069.jpg",
+    "dataset/Ram Trucks/Ram Trucks_017.jpg"
+  ],
+  "(80, 80, 140)": [
+    "dataset/Honda/Honda_033.jpg"
+  ],
+  "(80, 80, 60)": [
+    "dataset/Buick/Buick_034.jpg",
+    "dataset/Honda/Honda_041.jpg"
+  ],
+  "(80, 80, 70)": [
+    "dataset/Mitsubishi/Mitsubishi_032.jpg",
+    "dataset/Hudson/Hudson_071.jpg",
+    "dataset/Jeep/Jeep_083.jpg",
+    "dataset/Tesla/Tesla_091.jpg",
+    "dataset/Tesla/Tesla_022.jpg",
+    "dataset/Kia/Kia_017.jpg",
+    "dataset/Infiniti/Infiniti_065.jpg",
+    "dataset/Infiniti/Infiniti_049.jpg",
+    "dataset/Dodge/Dodge_057.jpg",
+    "dataset/Subaru/Subaru_033.jpg",
+    "dataset/Chrysler/Chrysler_054.jpg"
+  ],
+  "(80, 80, 80)": [
+    "dataset/Volkswagen/Volkswagen_062.jpg",
+    "dataset/Porsche/Porsche_072.jpg",
+    "dataset/Porsche/Porsche_057.jpg",
+    "dataset/Studebaker/Studebaker_093.jpg",
+    "dataset/Bugatti/Bugatti_085.jpg",
+    "dataset/Bugatti/Bugatti_074.jpg",
+    "dataset/Bugatti/Bugatti_004.jpg",
+    "dataset/Mitsubishi/Mitsubishi_067.jpg",
+    "dataset/Hudson/Hudson_070.jpg",
+    "dataset/Ferrari/Ferrari_089.jpg",
+    "dataset/Ford/Ford_064.jpg",
+    "dataset/Lincoln/Lincoln_028.jpg",
+    "dataset/Lincoln/Lincoln_086.jpg",
+    "dataset/Mini/Mini_064.jpg",
+    "dataset/Mini/Mini_062.jpg",
+    "dataset/Mazda/Mazda_026.jpg",
+    "dataset/Mazda/Mazda_046.jpg",
+    "dataset/MG/MG_084.jpg",
+    "dataset/Bentley/Bentley_019.jpg",
+    "dataset/Bentley/Bentley_013.jpg",
+    "dataset/Buick/Buick_012.jpg",
+    "dataset/Buick/Buick_050.jpg",
+    "dataset/Land Rover/Land Rover_020.jpg",
+    "dataset/Tesla/Tesla_081.jpg",
+    "dataset/Hyundai/Hyundai_033.jpg",
+    "dataset/Chevrolet/Chevrolet_015.jpg",
+    "dataset/Infiniti/Infiniti_017.jpg",
+    "dataset/Toyota/Toyota_002.jpg",
+    "dataset/Toyota/Toyota_080.jpg",
+    "dataset/Toyota/Toyota_046.jpg",
+    "dataset/Toyota/Toyota_023.jpg",
+    "dataset/Cadillac/Cadillac_017.jpg",
+    "dataset/Nissan/Nissan_000.jpg",
+    "dataset/Dodge/Dodge_018.jpg",
+    "dataset/Acura/Acura_003.jpg",
+    "dataset/Lexus/Lexus_049.jpg",
+    "dataset/Audi/Audi_005.jpg",
+    "dataset/Peugeot/Peugeot_040.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_045.jpg",
+    "dataset/Aston Martin/Aston Martin_014.jpg",
+    "dataset/Chrysler/Chrysler_007.jpg",
+    "dataset/Chrysler/Chrysler_012.jpg",
+    "dataset/Maserati/Maserati_066.jpg",
+    "dataset/BMW/BMW_037.jpg",
+    "dataset/BMW/BMW_060.jpg",
+    "dataset/Fiat/Fiat_055.jpg",
+    "dataset/Fiat/Fiat_050.jpg",
+    "dataset/Fiat/Fiat_007.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_064.jpg"
+  ],
+  "(80, 80, 90)": [
+    "dataset/Volkswagen/Volkswagen_092.jpg",
+    "dataset/Porsche/Porsche_070.jpg",
+    "dataset/Hudson/Hudson_007.jpg",
+    "dataset/Hudson/Hudson_015.jpg",
+    "dataset/Ford/Ford_049.jpg",
+    "dataset/Ford/Ford_058.jpg",
+    "dataset/Pontiac/Pontiac_057.jpg",
+    "dataset/Daewoo/Daewoo_059.jpg",
+    "dataset/Mini/Mini_041.jpg",
+    "dataset/Mini/Mini_006.jpg",
+    "dataset/Mini/Mini_029.jpg",
+    "dataset/Mini/Mini_070.jpg",
+    "dataset/Jeep/Jeep_052.jpg",
+    "dataset/Jeep/Jeep_079.jpg",
+    "dataset/Mazda/Mazda_061.jpg",
+    "dataset/Mazda/Mazda_047.jpg",
+    "dataset/MG/MG_037.jpg",
+    "dataset/Buick/Buick_021.jpg",
+    "dataset/Land Rover/Land Rover_046.jpg",
+    "dataset/Land Rover/Land Rover_065.jpg",
+    "dataset/Saab/Saab_088.jpg",
+    "dataset/Tesla/Tesla_042.jpg",
+    "dataset/Tesla/Tesla_073.jpg",
+    "dataset/Kia/Kia_079.jpg",
+    "dataset/Infiniti/Infiniti_001.jpg",
+    "dataset/Toyota/Toyota_049.jpg",
+    "dataset/Toyota/Toyota_064.jpg",
+    "dataset/Cadillac/Cadillac_035.jpg",
+    "dataset/Nissan/Nissan_050.jpg",
+    "dataset/Nissan/Nissan_053.jpg",
+    "dataset/Maserati/Maserati_026.jpg",
+    "dataset/Jaguar/Jaguar_009.jpg",
+    "dataset/Fiat/Fiat_013.jpg",
+    "dataset/Ram Trucks/Ram Trucks_077.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_044.jpg",
+    "dataset/Citroen/Citroen_077.jpg",
+    "dataset/Citroen/Citroen_007.jpg"
+  ],
+  "(80, 90, 100)": [
+    "dataset/Bugatti/Bugatti_028.jpg",
+    "dataset/Ferrari/Ferrari_007.jpg",
+    "dataset/Lincoln/Lincoln_014.jpg",
+    "dataset/Pontiac/Pontiac_043.jpg",
+    "dataset/MG/MG_036.jpg",
+    "dataset/Bentley/Bentley_055.jpg",
+    "dataset/Bentley/Bentley_016.jpg",
+    "dataset/Land Rover/Land Rover_018.jpg",
+    "dataset/Land Rover/Land Rover_005.jpg",
+    "dataset/Tesla/Tesla_057.jpg",
+    "dataset/Tesla/Tesla_036.jpg",
+    "dataset/Kia/Kia_076.jpg",
+    "dataset/Dodge/Dodge_049.jpg",
+    "dataset/Lexus/Lexus_037.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_041.jpg",
+    "dataset/Maserati/Maserati_064.jpg"
+  ],
+  "(80, 90, 110)": [
+    "dataset/Studebaker/Studebaker_087.jpg",
+    "dataset/Bugatti/Bugatti_066.jpg",
+    "dataset/Lincoln/Lincoln_026.jpg",
+    "dataset/Bentley/Bentley_066.jpg",
+    "dataset/Infiniti/Infiniti_014.jpg",
+    "dataset/Maserati/Maserati_012.jpg",
+    "dataset/Fiat/Fiat_078.jpg",
+    "dataset/Ram Trucks/Ram Trucks_008.jpg"
+  ],
+  "(80, 90, 120)": [
+    "dataset/Mitsubishi/Mitsubishi_033.jpg",
+    "dataset/Land Rover/Land Rover_041.jpg"
+  ],
+  "(80, 90, 130)": [
+    "dataset/Daewoo/Daewoo_051.jpg",
+    "dataset/Land Rover/Land Rover_073.jpg",
+    "dataset/Ram Trucks/Ram Trucks_003.jpg"
+  ],
+  "(80, 90, 70)": [
+    "dataset/Mini/Mini_010.jpg"
+  ],
+  "(80, 90, 80)": [
+    "dataset/Studebaker/Studebaker_072.jpg",
+    "dataset/Hudson/Hudson_019.jpg",
+    "dataset/Pontiac/Pontiac_014.jpg",
+    "dataset/Pontiac/Pontiac_009.jpg",
+    "dataset/Mazda/Mazda_035.jpg",
+    "dataset/Land Rover/Land Rover_008.jpg",
+    "dataset/Hyundai/Hyundai_003.jpg",
+    "dataset/Peugeot/Peugeot_067.jpg",
+    "dataset/Oldsmobile/Oldsmobile_041.jpg",
+    "dataset/Jaguar/Jaguar_033.jpg",
+    "dataset/BMW/BMW_046.jpg",
+    "dataset/Ram Trucks/Ram Trucks_060.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_029.jpg"
+  ],
+  "(80, 90, 90)": [
+    "dataset/Renault/Renault_032.jpg",
+    "dataset/Renault/Renault_027.jpg",
+    "dataset/GMC/GMC_057.jpg",
+    "dataset/GMC/GMC_051.jpg",
+    "dataset/Hudson/Hudson_024.jpg",
+    "dataset/Hudson/Hudson_072.jpg",
+    "dataset/Lincoln/Lincoln_035.jpg",
+    "dataset/Lincoln/Lincoln_008.jpg",
+    "dataset/Daewoo/Daewoo_057.jpg",
+    "dataset/Mini/Mini_001.jpg",
+    "dataset/Jeep/Jeep_003.jpg",
+    "dataset/Jeep/Jeep_015.jpg",
+    "dataset/MG/MG_007.jpg",
+    "dataset/Land Rover/Land Rover_083.jpg",
+    "dataset/Land Rover/Land Rover_024.jpg",
+    "dataset/Kia/Kia_045.jpg",
+    "dataset/Cadillac/Cadillac_025.jpg",
+    "dataset/Cadillac/Cadillac_034.jpg",
+    "dataset/Cadillac/Cadillac_006.jpg",
+    "dataset/Dodge/Dodge_081.jpg",
+    "dataset/Lexus/Lexus_025.jpg",
+    "dataset/Lexus/Lexus_016.jpg",
+    "dataset/Aston Martin/Aston Martin_056.jpg",
+    "dataset/Chrysler/Chrysler_044.jpg",
+    "dataset/BMW/BMW_073.jpg",
+    "dataset/Fiat/Fiat_003.jpg",
+    "dataset/Fiat/Fiat_077.jpg",
+    "dataset/Citroen/Citroen_058.jpg",
+    "dataset/Genesis/Genesis_008.jpg",
+    "dataset/Suzuki/Suzuki_075.jpg"
+  ],
+  "(90, 100, 100)": [
+    "dataset/Volkswagen/Volkswagen_031.jpg",
+    "dataset/Studebaker/Studebaker_034.jpg",
+    "dataset/GMC/GMC_088.jpg",
+    "dataset/Ferrari/Ferrari_038.jpg",
+    "dataset/Ford/Ford_013.jpg",
+    "dataset/Daewoo/Daewoo_036.jpg",
+    "dataset/Jeep/Jeep_063.jpg",
+    "dataset/Jeep/Jeep_031.jpg",
+    "dataset/Jeep/Jeep_045.jpg",
+    "dataset/Jeep/Jeep_068.jpg",
+    "dataset/Bentley/Bentley_007.jpg",
+    "dataset/Bentley/Bentley_075.jpg",
+    "dataset/Land Rover/Land Rover_003.jpg",
+    "dataset/Land Rover/Land Rover_071.jpg",
+    "dataset/Saab/Saab_086.jpg",
+    "dataset/Tesla/Tesla_080.jpg",
+    "dataset/Kia/Kia_068.jpg",
+    "dataset/Toyota/Toyota_013.jpg",
+    "dataset/Cadillac/Cadillac_037.jpg",
+    "dataset/Cadillac/Cadillac_047.jpg",
+    "dataset/Cadillac/Cadillac_052.jpg",
+    "dataset/Cadillac/Cadillac_066.jpg",
+    "dataset/Nissan/Nissan_065.jpg",
+    "dataset/Peugeot/Peugeot_085.jpg",
+    "dataset/Peugeot/Peugeot_041.jpg",
+    "dataset/Subaru/Subaru_057.jpg",
+    "dataset/Subaru/Subaru_031.jpg",
+    "dataset/Oldsmobile/Oldsmobile_081.jpg",
+    "dataset/Oldsmobile/Oldsmobile_029.jpg",
+    "dataset/Chrysler/Chrysler_072.jpg",
+    "dataset/Chrysler/Chrysler_004.jpg",
+    "dataset/Maserati/Maserati_013.jpg",
+    "dataset/Jaguar/Jaguar_000.jpg",
+    "dataset/Fiat/Fiat_004.jpg",
+    "dataset/Ram Trucks/Ram Trucks_082.jpg",
+    "dataset/Ram Trucks/Ram Trucks_018.jpg"
+  ],
+  "(90, 100, 110)": [
+    "dataset/Volkswagen/Volkswagen_018.jpg",
+    "dataset/Studebaker/Studebaker_013.jpg",
+    "dataset/Mitsubishi/Mitsubishi_027.jpg",
+    "dataset/Mitsubishi/Mitsubishi_026.jpg",
+    "dataset/Ferrari/Ferrari_078.jpg",
+    "dataset/Lincoln/Lincoln_050.jpg",
+    "dataset/Daewoo/Daewoo_007.jpg",
+    "dataset/Mini/Mini_002.jpg",
+    "dataset/Jeep/Jeep_004.jpg",
+    "dataset/Jeep/Jeep_080.jpg",
+    "dataset/Mazda/Mazda_075.jpg",
+    "dataset/Mazda/Mazda_011.jpg",
+    "dataset/MG/MG_016.jpg",
+    "dataset/Bentley/Bentley_050.jpg",
+    "dataset/Tesla/Tesla_068.jpg",
+    "dataset/Tesla/Tesla_038.jpg",
+    "dataset/Tesla/Tesla_088.jpg",
+    "dataset/Toyota/Toyota_012.jpg",
+    "dataset/Toyota/Toyota_055.jpg",
+    "dataset/Toyota/Toyota_042.jpg",
+    "dataset/Cadillac/Cadillac_064.jpg",
+    "dataset/Acura/Acura_075.jpg",
+    "dataset/Acura/Acura_032.jpg",
+    "dataset/Lexus/Lexus_067.jpg",
+    "dataset/Audi/Audi_083.jpg",
+    "dataset/Audi/Audi_067.jpg",
+    "dataset/Volvo/Volvo_075.jpg",
+    "dataset/Peugeot/Peugeot_060.jpg",
+    "dataset/Oldsmobile/Oldsmobile_034.jpg",
+    "dataset/Oldsmobile/Oldsmobile_012.jpg",
+    "dataset/Oldsmobile/Oldsmobile_001.jpg",
+    "dataset/BMW/BMW_029.jpg",
+    "dataset/Fiat/Fiat_024.jpg",
+    "dataset/Honda/Honda_079.jpg",
+    "dataset/Genesis/Genesis_088.jpg"
+  ],
+  "(90, 100, 120)": [
+    "dataset/Renault/Renault_085.jpg",
+    "dataset/Ferrari/Ferrari_061.jpg",
+    "dataset/MG/MG_114.jpg",
+    "dataset/Hyundai/Hyundai_080.jpg",
+    "dataset/Toyota/Toyota_010.jpg",
+    "dataset/Cadillac/Cadillac_032.jpg",
+    "dataset/Oldsmobile/Oldsmobile_039.jpg",
+    "dataset/Honda/Honda_055.jpg"
+  ],
+  "(90, 100, 130)": [
+    "dataset/Porsche/Porsche_082.jpg",
+    "dataset/Hudson/Hudson_096.jpg",
+    "dataset/Mini/Mini_020.jpg",
+    "dataset/Mazda/Mazda_070.jpg",
+    "dataset/MG/MG_068.jpg",
+    "dataset/Chrysler/Chrysler_049.jpg",
+    "dataset/Ram Trucks/Ram Trucks_030.jpg"
+  ],
+  "(90, 100, 140)": [
+    "dataset/Hudson/Hudson_003.jpg"
+  ],
+  "(90, 100, 70)": [
+    "dataset/Studebaker/Studebaker_031.jpg"
+  ],
+  "(90, 100, 90)": [
+    "dataset/Studebaker/Studebaker_021.jpg",
+    "dataset/Daewoo/Daewoo_097.jpg",
+    "dataset/Jeep/Jeep_047.jpg",
+    "dataset/Tesla/Tesla_072.jpg",
+    "dataset/Kia/Kia_080.jpg",
+    "dataset/Toyota/Toyota_017.jpg",
+    "dataset/Acura/Acura_069.jpg",
+    "dataset/Peugeot/Peugeot_071.jpg",
+    "dataset/Oldsmobile/Oldsmobile_033.jpg",
+    "dataset/Oldsmobile/Oldsmobile_047.jpg",
+    "dataset/Oldsmobile/Oldsmobile_082.jpg",
+    "dataset/Chrysler/Chrysler_024.jpg",
+    "dataset/Jaguar/Jaguar_019.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_067.jpg",
+    "dataset/Genesis/Genesis_073.jpg",
+    "dataset/Genesis/Genesis_083.jpg"
+  ],
+  "(90, 110, 100)": [
+    "dataset/Daewoo/Daewoo_082.jpg",
+    "dataset/MG/MG_082.jpg",
+    "dataset/Buick/Buick_020.jpg",
+    "dataset/Buick/Buick_047.jpg",
+    "dataset/Cadillac/Cadillac_078.jpg",
+    "dataset/Cadillac/Cadillac_015.jpg",
+    "dataset/Volvo/Volvo_087.jpg",
+    "dataset/Aston Martin/Aston Martin_036.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_062.jpg"
+  ],
+  "(90, 110, 110)": [
+    "dataset/Porsche/Porsche_083.jpg",
+    "dataset/Mitsubishi/Mitsubishi_001.jpg",
+    "dataset/Renault/Renault_010.jpg",
+    "dataset/Mini/Mini_004.jpg",
+    "dataset/Mini/Mini_058.jpg",
+    "dataset/Mazda/Mazda_008.jpg",
+    "dataset/MG/MG_087.jpg",
+    "dataset/Bentley/Bentley_021.jpg",
+    "dataset/Saab/Saab_084.jpg",
+    "dataset/Saab/Saab_001.jpg",
+    "dataset/Saab/Saab_016.jpg",
+    "dataset/Chevrolet/Chevrolet_048.jpg",
+    "dataset/Oldsmobile/Oldsmobile_027.jpg",
+    "dataset/Oldsmobile/Oldsmobile_053.jpg",
+    "dataset/Chrysler/Chrysler_015.jpg",
+    "dataset/Fiat/Fiat_051.jpg",
+    "dataset/Fiat/Fiat_047.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_059.jpg",
+    "dataset/Citroen/Citroen_018.jpg"
+  ],
+  "(90, 110, 120)": [
+    "dataset/Hudson/Hudson_001.jpg",
+    "dataset/Ford/Ford_079.jpg",
+    "dataset/Ford/Ford_031.jpg",
+    "dataset/Mazda/Mazda_058.jpg",
+    "dataset/Mazda/Mazda_042.jpg",
+    "dataset/Buick/Buick_056.jpg",
+    "dataset/Land Rover/Land Rover_048.jpg",
+    "dataset/Subaru/Subaru_046.jpg",
+    "dataset/Fiat/Fiat_065.jpg"
+  ],
+  "(90, 110, 130)": [
+    "dataset/Studebaker/Studebaker_046.jpg",
+    "dataset/Ferrari/Ferrari_021.jpg",
+    "dataset/Lincoln/Lincoln_003.jpg",
+    "dataset/Lincoln/Lincoln_085.jpg",
+    "dataset/Bentley/Bentley_022.jpg",
+    "dataset/Tesla/Tesla_004.jpg"
+  ],
+  "(90, 110, 140)": [
+    "dataset/MG/MG_062.jpg",
+    "dataset/MG/MG_031.jpg"
+  ],
+  "(90, 110, 150)": [
+    "dataset/Hudson/Hudson_050.jpg"
+  ],
+  "(90, 110, 90)": [
+    "dataset/Bugatti/Bugatti_037.jpg",
+    "dataset/Jeep/Jeep_002.jpg",
+    "dataset/Chrysler/Chrysler_018.jpg"
+  ],
+  "(90, 120, 120)": [
+    "dataset/Porsche/Porsche_019.jpg",
+    "dataset/Pontiac/Pontiac_001.jpg",
+    "dataset/Citroen/Citroen_024.jpg"
+  ],
+  "(90, 120, 130)": [
+    "dataset/Pontiac/Pontiac_059.jpg",
+    "dataset/Daewoo/Daewoo_076.jpg",
+    "dataset/Kia/Kia_064.jpg",
+    "dataset/Acura/Acura_018.jpg",
+    "dataset/Lexus/Lexus_029.jpg"
+  ],
+  "(90, 120, 140)": [
+    "dataset/MG/MG_058.jpg",
+    "dataset/Genesis/Genesis_038.jpg"
+  ],
+  "(90, 120, 150)": [
+    "dataset/Lincoln/Lincoln_015.jpg"
+  ],
+  "(90, 120, 90)": [
+    "dataset/Saab/Saab_083.jpg"
+  ],
+  "(90, 130, 100)": [
+    "dataset/Pontiac/Pontiac_060.jpg"
+  ],
+  "(90, 130, 120)": [
+    "dataset/Saab/Saab_060.jpg"
+  ],
+  "(90, 130, 130)": [
+    "dataset/Honda/Honda_042.jpg"
+  ],
+  "(90, 130, 170)": [
+    "dataset/Studebaker/Studebaker_035.jpg"
+  ],
+  "(90, 130, 180)": [
+    "dataset/Bugatti/Bugatti_060.jpg"
+  ],
+  "(90, 140, 120)": [
+    "dataset/Hudson/Hudson_034.jpg"
+  ],
+  "(90, 160, 200)": [
+    "dataset/Genesis/Genesis_095.jpg"
+  ],
+  "(90, 190, 180)": [
+    "dataset/Mitsubishi/Mitsubishi_014.jpg"
+  ],
+  "(90, 50, 50)": [
+    "dataset/Hudson/Hudson_013.jpg"
+  ],
+  "(90, 60, 50)": [
+    "dataset/Volkswagen/Volkswagen_002.jpg",
+    "dataset/Bugatti/Bugatti_012.jpg"
+  ],
+  "(90, 70, 50)": [
+    "dataset/Dodge/Dodge_079.jpg"
+  ],
+  "(90, 70, 60)": [
+    "dataset/Audi/Audi_019.jpg"
+  ],
+  "(90, 70, 70)": [
+    "dataset/Volvo/Volvo_025.jpg",
+    "dataset/Jaguar/Jaguar_051.jpg"
+  ],
+  "(90, 70, 80)": [
+    "dataset/Hudson/Hudson_078.jpg"
+  ],
+  "(90, 70, 90)": [
+    "dataset/Alfa Romeo/Alfa Romeo_009.jpg"
+  ],
+  "(90, 80, 100)": [
+    "dataset/Jeep/Jeep_000.jpg",
+    "dataset/Dodge/Dodge_015.jpg",
+    "dataset/Genesis/Genesis_014.jpg"
+  ],
+  "(90, 80, 110)": [
+    "dataset/Mazda/Mazda_027.jpg",
+    "dataset/Dodge/Dodge_051.jpg",
+    "dataset/Dodge/Dodge_045.jpg",
+    "dataset/Suzuki/Suzuki_041.jpg"
+  ],
+  "(90, 80, 120)": [
+    "dataset/Ferrari/Ferrari_094.jpg"
+  ],
+  "(90, 80, 140)": [
+    "dataset/Pontiac/Pontiac_064.jpg"
+  ],
+  "(90, 80, 160)": [
+    "dataset/Daewoo/Daewoo_098.jpg"
+  ],
+  "(90, 80, 60)": [
+    "dataset/Hyundai/Hyundai_019.jpg"
+  ],
+  "(90, 80, 70)": [
+    "dataset/Volkswagen/Volkswagen_059.jpg",
+    "dataset/Porsche/Porsche_058.jpg",
+    "dataset/Hyundai/Hyundai_057.jpg",
+    "dataset/Chevrolet/Chevrolet_035.jpg",
+    "dataset/Acura/Acura_014.jpg",
+    "dataset/Volvo/Volvo_016.jpg",
+    "dataset/Peugeot/Peugeot_008.jpg",
+    "dataset/BMW/BMW_001.jpg",
+    "dataset/Citroen/Citroen_038.jpg",
+    "dataset/Citroen/Citroen_052.jpg"
+  ],
+  "(90, 80, 80)": [
+    "dataset/Porsche/Porsche_087.jpg",
+    "dataset/Mitsubishi/Mitsubishi_030.jpg",
+    "dataset/Mitsubishi/Mitsubishi_054.jpg",
+    "dataset/GMC/GMC_028.jpg",
+    "dataset/GMC/GMC_085.jpg",
+    "dataset/Lincoln/Lincoln_043.jpg",
+    "dataset/Mini/Mini_045.jpg",
+    "dataset/Mini/Mini_053.jpg",
+    "dataset/Chevrolet/Chevrolet_080.jpg",
+    "dataset/Chevrolet/Chevrolet_017.jpg",
+    "dataset/Infiniti/Infiniti_024.jpg",
+    "dataset/Cadillac/Cadillac_009.jpg",
+    "dataset/Nissan/Nissan_047.jpg",
+    "dataset/Nissan/Nissan_001.jpg",
+    "dataset/Nissan/Nissan_002.jpg",
+    "dataset/Lexus/Lexus_009.jpg",
+    "dataset/Lexus/Lexus_071.jpg",
+    "dataset/Lexus/Lexus_076.jpg",
+    "dataset/Audi/Audi_072.jpg",
+    "dataset/Peugeot/Peugeot_084.jpg",
+    "dataset/Aston Martin/Aston Martin_016.jpg",
+    "dataset/Chrysler/Chrysler_082.jpg",
+    "dataset/Maserati/Maserati_015.jpg",
+    "dataset/Jaguar/Jaguar_016.jpg",
+    "dataset/Fiat/Fiat_036.jpg",
+    "dataset/Ram Trucks/Ram Trucks_034.jpg",
+    "dataset/Citroen/Citroen_023.jpg",
+    "dataset/Honda/Honda_049.jpg",
+    "dataset/Genesis/Genesis_006.jpg"
+  ],
+  "(90, 80, 90)": [
+    "dataset/Bugatti/Bugatti_022.jpg",
+    "dataset/Hudson/Hudson_027.jpg",
+    "dataset/Buick/Buick_052.jpg",
+    "dataset/Tesla/Tesla_002.jpg",
+    "dataset/Maserati/Maserati_075.jpg",
+    "dataset/Maserati/Maserati_072.jpg",
+    "dataset/Citroen/Citroen_019.jpg",
+    "dataset/Citroen/Citroen_083.jpg"
+  ],
+  "(90, 90, 100)": [
+    "dataset/Volkswagen/Volkswagen_070.jpg",
+    "dataset/Bugatti/Bugatti_007.jpg",
+    "dataset/Renault/Renault_036.jpg",
+    "dataset/Renault/Renault_001.jpg",
+    "dataset/Hudson/Hudson_055.jpg",
+    "dataset/Ferrari/Ferrari_032.jpg",
+    "dataset/Ferrari/Ferrari_085.jpg",
+    "dataset/Lincoln/Lincoln_039.jpg",
+    "dataset/Lincoln/Lincoln_070.jpg",
+    "dataset/Mazda/Mazda_076.jpg",
+    "dataset/Mazda/Mazda_017.jpg",
+    "dataset/Mazda/Mazda_082.jpg",
+    "dataset/MG/MG_132.jpg",
+    "dataset/Buick/Buick_019.jpg",
+    "dataset/Buick/Buick_045.jpg",
+    "dataset/Saab/Saab_021.jpg",
+    "dataset/Infiniti/Infiniti_029.jpg",
+    "dataset/Cadillac/Cadillac_019.jpg",
+    "dataset/Cadillac/Cadillac_003.jpg",
+    "dataset/Nissan/Nissan_087.jpg",
+    "dataset/Dodge/Dodge_044.jpg",
+    "dataset/Acura/Acura_031.jpg",
+    "dataset/Acura/Acura_024.jpg",
+    "dataset/Lexus/Lexus_051.jpg",
+    "dataset/Lexus/Lexus_047.jpg",
+    "dataset/Lexus/Lexus_052.jpg",
+    "dataset/Lexus/Lexus_054.jpg",
+    "dataset/Audi/Audi_075.jpg",
+    "dataset/Volvo/Volvo_068.jpg",
+    "dataset/Volvo/Volvo_018.jpg",
+    "dataset/Aston Martin/Aston Martin_087.jpg",
+    "dataset/Aston Martin/Aston Martin_012.jpg",
+    "dataset/Chrysler/Chrysler_035.jpg",
+    "dataset/Chrysler/Chrysler_040.jpg",
+    "dataset/Ram Trucks/Ram Trucks_078.jpg",
+    "dataset/Ram Trucks/Ram Trucks_027.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_066.jpg",
+    "dataset/Citroen/Citroen_081.jpg",
+    "dataset/Honda/Honda_028.jpg"
+  ],
+  "(90, 90, 110)": [
+    "dataset/Studebaker/Studebaker_047.jpg",
+    "dataset/GMC/GMC_038.jpg",
+    "dataset/Hudson/Hudson_051.jpg",
+    "dataset/Ferrari/Ferrari_069.jpg",
+    "dataset/Ford/Ford_028.jpg",
+    "dataset/Mini/Mini_005.jpg",
+    "dataset/Land Rover/Land Rover_081.jpg",
+    "dataset/Chevrolet/Chevrolet_079.jpg",
+    "dataset/Toyota/Toyota_000.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_049.jpg",
+    "dataset/Oldsmobile/Oldsmobile_063.jpg",
+    "dataset/Fiat/Fiat_088.jpg",
+    "dataset/Citroen/Citroen_016.jpg",
+    "dataset/Honda/Honda_008.jpg",
+    "dataset/Honda/Honda_060.jpg"
+  ],
+  "(90, 90, 120)": [
+    "dataset/Ferrari/Ferrari_008.jpg",
+    "dataset/MG/MG_030.jpg",
+    "dataset/Kia/Kia_053.jpg",
+    "dataset/Chevrolet/Chevrolet_050.jpg",
+    "dataset/Maserati/Maserati_041.jpg"
+  ],
+  "(90, 90, 130)": [
+    "dataset/Ferrari/Ferrari_054.jpg",
+    "dataset/Ferrari/Ferrari_056.jpg"
+  ],
+  "(90, 90, 140)": [
+    "dataset/Maserati/Maserati_016.jpg",
+    "dataset/Maserati/Maserati_073.jpg",
+    "dataset/Ram Trucks/Ram Trucks_056.jpg"
+  ],
+  "(90, 90, 160)": [
+    "dataset/Ferrari/Ferrari_052.jpg"
+  ],
+  "(90, 90, 50)": [
+    "dataset/Chrysler/Chrysler_009.jpg"
+  ],
+  "(90, 90, 60)": [
+    "dataset/Buick/Buick_022.jpg"
+  ],
+  "(90, 90, 70)": [
+    "dataset/Audi/Audi_040.jpg",
+    "dataset/Maserati/Maserati_067.jpg"
+  ],
+  "(90, 90, 80)": [
+    "dataset/GMC/GMC_032.jpg",
+    "dataset/Ford/Ford_001.jpg",
+    "dataset/Jeep/Jeep_061.jpg",
+    "dataset/Mazda/Mazda_028.jpg",
+    "dataset/MG/MG_115.jpg",
+    "dataset/Buick/Buick_032.jpg",
+    "dataset/Saab/Saab_064.jpg",
+    "dataset/Chevrolet/Chevrolet_007.jpg",
+    "dataset/Dodge/Dodge_021.jpg",
+    "dataset/Dodge/Dodge_068.jpg",
+    "dataset/Lexus/Lexus_055.jpg",
+    "dataset/Lexus/Lexus_000.jpg",
+    "dataset/Audi/Audi_015.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_031.jpg",
+    "dataset/Aston Martin/Aston Martin_000.jpg",
+    "dataset/Jaguar/Jaguar_058.jpg",
+    "dataset/BMW/BMW_043.jpg",
+    "dataset/BMW/BMW_050.jpg"
+  ],
+  "(90, 90, 90)": [
+    "dataset/Volkswagen/Volkswagen_019.jpg",
+    "dataset/Porsche/Porsche_016.jpg",
+    "dataset/Porsche/Porsche_006.jpg",
+    "dataset/Porsche/Porsche_011.jpg",
+    "dataset/Porsche/Porsche_027.jpg",
+    "dataset/Studebaker/Studebaker_004.jpg",
+    "dataset/Studebaker/Studebaker_063.jpg",
+    "dataset/Studebaker/Studebaker_082.jpg",
+    "dataset/Bugatti/Bugatti_030.jpg",
+    "dataset/Bugatti/Bugatti_008.jpg",
+    "dataset/Bugatti/Bugatti_069.jpg",
+    "dataset/Mitsubishi/Mitsubishi_069.jpg",
+    "dataset/GMC/GMC_074.jpg",
+    "dataset/GMC/GMC_009.jpg",
+    "dataset/Hudson/Hudson_037.jpg",
+    "dataset/Hudson/Hudson_085.jpg",
+    "dataset/Hudson/Hudson_046.jpg",
+    "dataset/Hudson/Hudson_088.jpg",
+    "dataset/Ford/Ford_003.jpg",
+    "dataset/Ford/Ford_085.jpg",
+    "dataset/Lincoln/Lincoln_012.jpg",
+    "dataset/Lincoln/Lincoln_081.jpg",
+    "dataset/Lincoln/Lincoln_057.jpg",
+    "dataset/Lincoln/Lincoln_023.jpg",
+    "dataset/Pontiac/Pontiac_026.jpg",
+    "dataset/Pontiac/Pontiac_069.jpg",
+    "dataset/Daewoo/Daewoo_000.jpg",
+    "dataset/Daewoo/Daewoo_083.jpg",
+    "dataset/Daewoo/Daewoo_093.jpg",
+    "dataset/Daewoo/Daewoo_045.jpg",
+    "dataset/Jeep/Jeep_017.jpg",
+    "dataset/Mazda/Mazda_077.jpg",
+    "dataset/MG/MG_011.jpg",
+    "dataset/Buick/Buick_072.jpg",
+    "dataset/Buick/Buick_064.jpg",
+    "dataset/Buick/Buick_086.jpg",
+    "dataset/Land Rover/Land Rover_079.jpg",
+    "dataset/Land Rover/Land Rover_012.jpg",
+    "dataset/Kia/Kia_023.jpg",
+    "dataset/Kia/Kia_008.jpg",
+    "dataset/Kia/Kia_066.jpg",
+    "dataset/Chevrolet/Chevrolet_021.jpg",
+    "dataset/Chevrolet/Chevrolet_013.jpg",
+    "dataset/Infiniti/Infiniti_010.jpg",
+    "dataset/Infiniti/Infiniti_066.jpg",
+    "dataset/Infiniti/Infiniti_057.jpg",
+    "dataset/Cadillac/Cadillac_036.jpg",
+    "dataset/Nissan/Nissan_083.jpg",
+    "dataset/Nissan/Nissan_058.jpg",
+    "dataset/Lexus/Lexus_045.jpg",
+    "dataset/Lexus/Lexus_013.jpg",
+    "dataset/Lexus/Lexus_061.jpg",
+    "dataset/Audi/Audi_000.jpg",
+    "dataset/Audi/Audi_073.jpg",
+    "dataset/Volvo/Volvo_001.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_072.jpg",
+    "dataset/Alfa Romeo/Alfa Romeo_014.jpg",
+    "dataset/Aston Martin/Aston Martin_051.jpg",
+    "dataset/Aston Martin/Aston Martin_042.jpg",
+    "dataset/Chrysler/Chrysler_033.jpg",
+    "dataset/Chrysler/Chrysler_070.jpg",
+    "dataset/Maserati/Maserati_032.jpg",
+    "dataset/Jaguar/Jaguar_027.jpg",
+    "dataset/Jaguar/Jaguar_032.jpg",
+    "dataset/BMW/BMW_061.jpg",
+    "dataset/Fiat/Fiat_005.jpg",
+    "dataset/Ram Trucks/Ram Trucks_067.jpg",
+    "dataset/Ram Trucks/Ram Trucks_072.jpg",
+    "dataset/Ram Trucks/Ram Trucks_085.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_079.jpg",
+    "dataset/Mercedes-Benz/Mercedes-Benz_041.jpg",
+    "dataset/Citroen/Citroen_030.jpg",
+    "dataset/Genesis/Genesis_022.jpg",
+    "dataset/Suzuki/Suzuki_035.jpg",
+    "dataset/Suzuki/Suzuki_019.jpg"
+  ]
+}
